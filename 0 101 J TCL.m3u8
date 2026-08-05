@@ -33,36 +33,64 @@ http://200.115.120.1:8000/play/ca012/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTINF:-1 group-title="011" ,+Anime Max Anime
 http://190.61.101.11:7050/play/a0ae/index.m3u8?hls
-#EXTINF:-1 group-title="011" tvg-id="24/7 Caso Cerrado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Caso_Cerrado_octubre_2018.png/revision/latest/scale-to-width-down/340?cb=20200816205635&path-prefix=es" ,24/7 Caso Cerrado
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://tinyurl.com/Housedoooc" ,24/7 Dr. House
 https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,24/7 Dragon Ball
 https://lbgo.bozztv.com/ssh101/ssh101/dbslat/playlist.m3u8
-#EXTINF:-1 group-title="011" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,24/7 El Chavo
-https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-#EXTINF:-1 group-title="011" tvg-logo="https://tinyurl.com/myr3uy8b" ,24/7 El Chavo
-https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="011" ,24/7 Dragon Ball / Dragon Ball Z
+https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+#EXTINF:-1 group-title="011" ,24/7 Dragon Ball / GokuTV
+http://38.3.162.3:18009/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="011" ,24/7 DreamWorks
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317123.ts
 #EXTINF:-1 group-title="011" tvg-id="El chavo del 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" ,24/7 El Chavo del 8
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16057
+#EXTINF:0 group-title="011" ,24/7 El Chavo del Ocho
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+#EXTINF:0 group-title="011" ,24/7 El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0 group-title="011" ,24/7 El Gallo Claudio
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/347.m3u8
 #EXTINF:-1 group-title="011" tvg-id="El Mentalista" tvg-logo="https://static.wikia.nocookie.net/thementalist/images/9/96/El_mentalista.png/revision/latest?cb=20130111174359&path-prefix=es" ,24/7 El Mentalista
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16062
-#EXTINF:-1 group-title="011" ,24/7 GOKU TV
-http://38.3.162.3:18009/play/a0c2/index.m3u8
-#EXTINF:-1 group-title="011" ,24/7 GokuTV
-http://38.3.162.3:18009/play/a0i8/index.m3u8
+#EXTINF:0 group-title="011" ,24/7 El Pajaro Loco
+http://lamtv.site:8080/27116808/zs2Bbc7Zu5/53180.ts
+#EXTINF:-1 group-title="011" ,24/7 Futurama
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/316942.ts
+#EXTINF:-1 group-title="011" ,24/7 Héroes
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317153.ts
+#EXTINF:-1 group-title="011" ,24/7 Jim Carrey
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317131.ts
+#EXTINF:-1 group-title="011" ,24/7 Jurassic Park
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317132.ts
 #EXTINF:-1 group-title="011" tvg-id="LOCOMOTION24/7" tvg-name="LOCOMOTION 24/7" tvg-logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png" ,24/7 Locomotion HD
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
+#EXTINF:0 group-title="011" ,24/7 Looney Tunes
+http://lamtv.site:8080/27116808/zs2Bbc7Zu5/127685.ts
+#EXTINF:0 group-title="011" ,24/7 Los Picapiedras
+http://lamtv.site:8080/27116808/zs2Bbc7Zu5/127691.ts
+#EXTINF:-1 group-title="011" ,24/7 Los Tres Chiflados
+http://promas.lat:2082/CHRISTIAN1/MARCECALA/49650
 #EXTINF:-1 group-title="011" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the Middle
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 group-title="011" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the Middle
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16056
-#EXTINF:-1 group-title="011" tvg-logo="https://tinyurl.com/Dicimar" ,24/7 MARVEL & DC
-https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+#EXTINF:-1 group-title="011" ,24/7 Merlina
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526322.m3u8
+#EXTINF:-1 group-title="011" ,24/7 Pixar
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317145.ts
+#EXTINF:-1 group-title="011" ,24/7 Rápido y Furioso
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317146.ts
+#EXTINF:-1 group-title="011" ,24/7 Spider-Man
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317151.ts
+#EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory #
+http://zonacero.lat:8080/bkVXbnJCdmZpbVVGcEVBbmVsODZydHdBT0JtZDNncm41RTBoMXlTK0dWVT0
+#EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory 1-6
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526563.m3u8
+#EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory 7-12
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526564.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://w7.pngwing.com/pngs/789/635/png-transparent-homer-simpson-marge-simpson-bart-simpson-television-show-los-simpsons-television-text-cartoon.png" ,24/7 The Simpson  1
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
-#EXTINF:-1 group-title="011" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,24/7 The Simpson -
-https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://w7.pngwing.com/pngs/771/352/png-transparent-the-simpsons-characters-illustration-homer-simpson-marge-simpson-maggie-simpson-lisa-simpson-bart-simpson-the-simpsons-text-cartoon-fictional-character.png" ,24/7 The Simpsons  #
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" ,24/7 The Simpsons  *
@@ -71,8 +99,10 @@ http://138.118.213.244:85/Live/7b403da8538127107b307d0dba44fd8b/online-24-7_480.
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-id="The Simpsons" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/04-LosSimpsonsTV.png?raw=true" ,24/7 The Simpsons 🇺🇸 (Op. 2)
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
-#EXTINF:-1 group-title="011" tvg-logo="https://w7.pngwing.com/pngs/602/409/png-transparent-tom-cat-jerry-mouse-tom-and-jerry-tom-and-jerry-heroes-logo-cartoon.png" ,24/7 Tom & Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="011" ,24/7 Toy Story
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317157.ts
+#EXTINF:-1 group-title="011" ,24/7 X-Men
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317159.ts
 #EXTINF:-1 group-title="011" tvg-id="Yo soy Betty la fea" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg" ,24/7 Yo soy Betty la fea
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16128
 #EXTINF:0 group-title="011" ,ArtFlix
@@ -167,104 +197,6 @@ https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 #EXTINF:-1 group-title="011" tvg-id="ESBC1700004PX" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" ,Trailers
 https://jmp2.uk/stvp-ESBC1700004PX
-#EXTINF:0 group-title="1" ,24/7 Chespirito
-https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
-#EXTINF:-1 group-title="1" ,24/7 Dragon Ball
-http://cdn.tvar.io/getTk247/204_.m3u8?xauthorization=KJ+dB9nSw0K5Gscwps4Klw==
-#EXTINF:0 group-title="1" ,24/7 Dragon Ball / Dragon Ball Z
-https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-#EXTINF:0 group-title="1" ,24/7 El Chavo del Ocho
-https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-#EXTINF:0 group-title="1" ,24/7 El Chavo TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:0 group-title="1" ,24/7 El Gallo Claudio
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/347.m3u8
-#EXTINF:0 group-title="1" ,24/7 El Pajaro Loco
-http://lamtv.site:8080/27116808/zs2Bbc7Zu5/53180.ts
-#EXTINF:0 group-title="1" ,24/7 Johnny Bravo
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/584.m3u8
-#EXTINF:0 group-title="1" ,24/7 LOONEY TUNES
-http://lamtv.site:8080/27116808/zs2Bbc7Zu5/127685.ts
-#EXTINF:0 group-title="1" ,24/7 LOS PICAPIEDRAS
-http://lamtv.site:8080/27116808/zs2Bbc7Zu5/127691.ts
-#EXTINF:0 group-title="1" ,24/7 Los Pitufos
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-#EXTINF:0 group-title="1" ,24/7 Los Simpson
-https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
-#EXTINF:0 group-title="1" ,24/7 Los Simpson Latino
-https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
-#EXTINF:0 group-title="1" ,24/7 Los Simpsons
-http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
-#EXTINF:-1 group-title="1" ,24/7 marvel MCU
-https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
-#EXTINF:0 group-title="1" ,24/7 Mr Bean
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:0 group-title="1" ,24/7 Pinky y Cerebro
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/771.m3u8
-#EXTINF:-1 group-title="1" ,24/7 Pitufos
-http://cdn.tvar.io/getTk247/249_.m3u8?xauthorization=KJ+dB9nSw0K5Gscwps4Klw==
-#EXTINF:-1 group-title="1" ,24/7 Sígueme kids
-https://lbgo.bozztv.com/ssh101/ssh101/siguemekids/chunks.m3u8?lb_backend_hint=7
-#EXTINF:0 group-title="1" ,24/7 Tom y Jerry
-http://lamtv.site:8080/27116808/zs2Bbc7Zu5/53209.ts
-#EXTINF:-1 group-title="1" ,24/7 X-men
-http://cdn.tvar.io/getTk247/265_.m3u8?xauthorization=KJ+dB9nSw0K5Gscwps4Klw==
-#EXTINF:-1 group-title="1" ,bin bang 1-6
-http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526563.m3u8
-#EXTINF:-1 group-title="1" ,bin bang 7-12
-http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526564.m3u8
-#EXTINF:-1 group-title="1" ,bing bang 1
-http://zonacero.lat:8080/bkVXbnJCdmZpbVVGcEVBbmVsODZydHdBT0JtZDNncm41RTBoMXlTK0dWVT0
-#EXTINF:-1 group-title="1" ,Bob sponja
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/362432.ts
-#EXTINF:-1 group-title="1" ,Dreamworks
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317123.ts
-#EXTINF:-1 group-title="1" ,Futurama
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/316942.ts
-#EXTINF:-1 group-title="1" ,herues
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317153.ts
-#EXTINF:-1 group-title="1" ,jim carrey
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317131.ts
-#EXTINF:-1 group-title="1" ,jurrasic parck
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317132.ts
-#EXTINF:-1 group-title="1" ,marvel
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317137.ts
-#EXTINF:-1 group-title="1" ,Marvel 1
-http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526363.m3u8
-#EXTINF:-1 group-title="1" ,Marvel 2
-http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526364.m3u8
-#EXTINF:-1 group-title="1" ,Marvel 3
-http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526365.m3u8
-#EXTINF:-1 group-title="1" ,Marvel 4
-http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526366.m3u8
-#EXTINF:-1 group-title="1" ,Marvel 5
-http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526367.m3u8
-#EXTINF:-1 group-title="1" ,Mega xxxxxxxxxxxxxxx
-https://lbgo.bozztv.com/ssh101/ssh101/megavision/playlist.m3u8
-#EXTINF:-1 group-title="1" ,Merlina
-http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526322.m3u8
-#EXTINF:-1 group-title="1" ,mi pobre angelito
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317138.ts
-#EXTINF:-1 group-title="1" ,Monitv xxxxxxxxxxxxxxx
-https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=6
-#EXTINF:-1 group-title="1" ,Paristv   xxxxxxxxxxxxxxx
-https://lbgo.bozztv.com/ssh101/ssh101/prtv06dvpme/playlist.m3u8
-#EXTINF:-1 group-title="1" ,películas estrenos
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317127.ts
-#EXTINF:-1 group-title="1" ,Pixsar
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317145.ts
-#EXTINF:-1 group-title="1" ,rápidos y furiosos
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317146.ts
-#EXTINF:-1 group-title="1" ,sherk
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317150.ts
-#EXTINF:-1 group-title="1" ,Spiderman
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317151.ts
-#EXTINF:-1 group-title="1" ,Toys Tory  todo el dia
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317157.ts
-#EXTINF:-1 group-title="1" ,Toys Tory  todo el dia
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317157.ts
-#EXTINF:-1 group-title="1" ,X-Men
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317159.ts
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" ,*   IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 #EXTINF:-1 group-title="2 ar01" ,*  CLASSIC +
@@ -355,6 +287,22 @@ http://38.7.195.44:8000/play/a0c0
 http://38.7.195.44:8000/play/a0c6
 #EXTINF:-1 group-title="2 ar01" ,-* MX Series
 http://201.186.41.99:8001/play/a02i/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,24/7 Películas
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317127.ts
+#EXTINF:-1 group-title="2 ar01" ,Marvel #
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317137.ts
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://tinyurl.com/Dicimar" ,MARVEL & DC
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01" ,Marvel 1
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526363.m3u8
+#EXTINF:-1 group-title="2 ar01" ,Marvel 2
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526364.m3u8
+#EXTINF:-1 group-title="2 ar01" ,Marvel 3
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526365.m3u8
+#EXTINF:-1 group-title="2 ar01" ,Marvel 4
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526366.m3u8
+#EXTINF:-1 group-title="2 ar01" ,Marvel 5
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526367.m3u8
 #EXTINF:0 group-title="2 ar01" ,Paramount
 #EXTVLCOPT:network-caching=1000
 #EXTINF:0 group-title="2 ar01" ,Paramount
@@ -459,10 +407,14 @@ https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
 https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://tinyurl.com/2uysrbe7" ,✔️ Malvinas TV
 https://live20.bozztv.com/giatvplayout7/giatv-208744/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,✔️ Mega
+https://lbgo.bozztv.com/ssh101/ssh101/megavision/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" ,✔️ Megacine
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/cK8XkD3q/1772569532364.png" ,✔️ METRO TV HD
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,✔️ Monitv
+https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=6
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://tinyurl.com/2hy6uu5x" ,✔️ MonteGRANDE TV
 https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/chunks.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://cdn.phototourl.com/free/2026-04-23-46a57bc9-db26-4e62-93c2-c327b7ffe948.png" ,✔️ NEXTV
@@ -473,6 +425,8 @@ https://cnn.hostlagarto.com/orbittv/tracks-v1a1/index.m3u8
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,✔️ Pantalla Clásica EC
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,✔️ Paristv
+https://lbgo.bozztv.com/ssh101/ssh101/prtv06dvpme/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://tinyurl.com/Restellitv" ,✔️ RESTELLI TV
 https://live20.bozztv.com/giatvplayout7/giatv-208744/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/Qfcz0zX/cine-retro-genial.png" ,✔️ Retro Cinema
@@ -595,8 +549,6 @@ http://45.238.54.249:8000/play/a079/index.m3u8
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 #EXTINF:-1 group-title="2 ar02" tvg-id="EcoTV.ar" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" ,Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-#EXTINF:-1 group-title="2 ar02" ,I- SAAT
-http://200.115.120.1:8000/play/ca068/index.m3u8
 #EXTINF:-1 group-title="2 ar02" ,LIFE TIME
 http://38.7.195.44:8000/play/a076
 #EXTINF:-1 group-title="2 ar02" ,MEGA FICCION
@@ -611,12 +563,14 @@ https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 group-title="2 ar02" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829866944/618b506a875b_480_270.jpg" ,r/Folklore TV
 https://live-evg18.tv360.bitel.com.pe/bitel/folkloretvSRT/chunks.m3u8
-#EXTINF:-1 group-title="2 ar02" ,SQUIRREL HD
-http://200.115.120.1:8000/play/ca034/index.m3u8
 #EXTINF:-1 group-title="2 ar02" tvg-logo="https://i.ibb.co/xSB2380b/images-49.png" ,VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w605220916.m3u8
 #EXTINF:-1 group-title="2 ar02" tvg-id="VTV.ar" tvg-logo="https://i.imgur.com/TLaausJ.png" ,VTV
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 group-title="2 ar02" ,Xx I- SAAT
+http://200.115.120.1:8000/play/ca068/index.m3u8
+#EXTINF:-1 group-title="2 ar02" ,Xx SQUIRREL HD
+http://200.115.120.1:8000/play/ca034/index.m3u8
 #EXTINF:-1 group-title="2 ar02" tvg-logo="https://i.imgur.com/HnyY9Iq.jpeg" ,✔️ I RTV Libertad
 https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="2 ar02" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" ,✔️ Punto TV
@@ -765,6 +719,8 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/46626.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/46625.ts
 #EXTINF:-1 group-title="2 ar03" ,GOLDEN  Premier2
 http://190.14.10.19:16000/play/a08q/index.m3u8
+#EXTINF:-1 group-title="2 ar03" tvg-logo="http://127.0.0.1/" ,GOLDEN EDGE
+http://217.26.190.76:8888/play/a0he/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,Golden Edge
 http://38.210.105.10:8000/play/a07f/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,Golden Edge
@@ -775,8 +731,6 @@ http://38.210.3.64:8090/play/a0co/index.m3u8
 http://38.224.175.2:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,Golden Edge
 http://38.224.231.47:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="2 ar03" tvg-logo="http://127.0.0.1/" ,GOLDEN EDGE
-http://217.26.190.76:8888/play/a0he/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,Golden HD
 http://38.210.105.10:8000/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,Golden HD
@@ -856,21 +810,21 @@ http://190.14.10.19:16000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,TCM
 http://190.61.101.11:7050/play/a09r/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,TCM
-http://38.210.105.10:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="2 ar03" ,TCM
-http://38.210.105.10:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="2 ar03" ,TCM
 http://190.97.183.108:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="2 ar03" ,TCM
+http://38.210.105.10:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="2 ar03" ,TCM
+http://38.210.105.10:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,TeleClasica
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 group-title="2 ar03" ,TNT
 http://38.252.215.33:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,TNT HD
+http://181.78.7.90:12500/play/a00p/index.m3u8
+#EXTINF:-1 group-title="2 ar03" ,TNT HD
 http://190.61.101.11:7050/play/a06k/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,TNT HD
 http://38.210.105.10:8000/play/a0f3/index.m3u8
-#EXTINF:-1 group-title="2 ar03" ,TNT HD
-http://181.78.7.90:12500/play/a00p/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,TNT Series HD
 http://190.61.101.11:7050/play/a05g/index.m3u8
 #EXTINF:-1 group-title="2 ar03" ,TNT Series HD
@@ -2029,32 +1983,32 @@ https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Romance" ,Romantico
 https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 group-title="Rumtime" tvg-id="ESBC400001QQ" tvg-name="Runtime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png" ,Runtime
-https://jmp2.uk/stvp-ESBC400001QQ
 #EXTINF:-1 group-title="Rumtime" tvg-id="608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e" tvg-name="Runtime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bb53c0b-9893-4531-8609-e4c811441126/Runtime_LATAM_Dark_Mode_Logordx.png" ,Runtime
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e.m3u8
-#EXTINF:-1 group-title="Rumtime" tvg-id="ESBD80000288" tvg-name="Runtime Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20251209T004318SQUARE.png" ,Runtime Acción
-https://jmp2.uk/stvp-ESBD80000288
+#EXTINF:-1 group-title="Rumtime" tvg-id="ESBC400001QQ" tvg-name="Runtime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png" ,Runtime
+https://jmp2.uk/stvp-ESBC400001QQ
 #EXTINF:-1 group-title="Rumtime" tvg-id="608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3" tvg-name="Runtime Acción" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9da5683e-30e8-4b78-99b5-a30c8f665f63/Runtime_ES_Accion_Dark_Mode_Logordx.png" ,Runtime Acción
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3.m3u8
+#EXTINF:-1 group-title="Rumtime" tvg-id="ESBD80000288" tvg-name="Runtime Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20251209T004318SQUARE.png" ,Runtime Acción
+https://jmp2.uk/stvp-ESBD80000288
 #EXTINF:-1 group-title="Rumtime" tvg-id="ES700004C8" tvg-name="Runtime Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20251230T030929SQUARE.png" ,Runtime Christmas
 https://jmp2.uk/stvp-ES700004C8
 #EXTINF:-1 group-title="Rumtime" tvg-id="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5" tvg-name="CinEspanto" tvg-logo="https://provider-static.plex.tv/epg/cms/production/71c3f630-16dd-451f-bca8-f75f6ca16a81/CinEspanto_LAS_Attribution_Logordx.png" ,Runtime CinEspanto
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5.m3u8
 #EXTINF:-1 group-title="Rumtime" tvg-id="ES2200003DA" tvg-name="Runtime Clásicos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20250916T003539SQUARE.png" ,Runtime Clásicos
 https://jmp2.uk/stvp-ES2200003DA
-#EXTINF:-1 group-title="Rumtime" tvg-id="ESBD8000033W" tvg-name="Runtime Comedia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250722T005652SQUARE.png" ,Runtime Comedia
-https://jmp2.uk/stvp-ESBD8000033W
 #EXTINF:-1 group-title="Rumtime" tvg-id="608049aefa2b8ae93c2c3a63-66843849a017b7e51aeb28d7" tvg-name="Runtime Comedia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3208e7c-cc1c-4e9a-9304-5070368a7cc7/Runtime_ES_Comedia_Dark_Mode_Logordx.png" ,Runtime Comedia
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66843849a017b7e51aeb28d7.m3u8
+#EXTINF:-1 group-title="Rumtime" tvg-id="ESBD8000033W" tvg-name="Runtime Comedia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250722T005652SQUARE.png" ,Runtime Comedia
+https://jmp2.uk/stvp-ESBD8000033W
 #EXTINF:-1 group-title="Rumtime" tvg-id="608049aefa2b8ae93c2c3a63-668434f6a017b7e51aeb28d3" tvg-name="Runtime Crimen" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25b2f15f-469f-474d-806a-c53581cc8ab7/Runtime_ES_Crimen_Dark_Mode_Logordx.png" ,Runtime Crimen
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-668434f6a017b7e51aeb28d3.m3u8
 #EXTINF:-1 group-title="Rumtime" tvg-id="608049aefa2b8ae93c2c3a63-66843672a017b7e51aeb28d5" tvg-name="Runtime Familia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1688b0a-fa63-4b15-8f80-634dd473cf23/Runtime_ES_Familia_Dark_Mode_Logordx.png" ,Runtime Familia
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66843672a017b7e51aeb28d5.m3u8
-#EXTINF:-1 group-title="Rumtime" tvg-id="ESBD800004KU" tvg-name="Runtime Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20251125T101435SQUARE.png" ,Runtime Romance
-https://jmp2.uk/stvp-ESBD800004KU
 #EXTINF:-1 group-title="Rumtime" tvg-id="608049aefa2b8ae93c2c3a63-66842f38cd6f1d394094115d" tvg-name="Runtime Romance" tvg-logo="https://provider-static.plex.tv/epg/cms/production/854d9834-236a-40f6-9239-a9e6f0ab285c/Runtime_BR_Romance_Dark_Mode_Logordx.png" ,Runtime Romance
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66842f38cd6f1d394094115d.m3u8
+#EXTINF:-1 group-title="Rumtime" tvg-id="ESBD800004KU" tvg-name="Runtime Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20251125T101435SQUARE.png" ,Runtime Romance
+https://jmp2.uk/stvp-ESBD800004KU
 #EXTINF:-1 group-title="Rumtime" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" ,Runtime TV y Películas
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 #EXTINF:-1 group-title="Vix" tvg-id="US2200005Y2" tvg-name="ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20241112T001006SQUARE.png" ,ViX
@@ -2109,10 +2063,58 @@ http://201.186.41.99:8001/play/a06e/index.m3u8
 http://38.7.195.44:8000/play/a0c0
 #EXTINF:-1 group-title="z backup" ,-*MX PRIME
 http://38.7.195.44:8000/play/a0c6
+#EXTINF:-1 group-title="z backup" ,24/7 Bob Esponja
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/362432.ts
+#EXTINF:-1 group-title="z backup" tvg-id="24/7 Caso Cerrado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Caso_Cerrado_octubre_2018.png/revision/latest/scale-to-width-down/340?cb=20200816205635&path-prefix=es" ,24/7 Caso Cerrado
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+#EXTINF:0 group-title="z backup" ,24/7 Chespirito
+https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
+#EXTINF:-1 group-title="z backup" ,24/7 Dragon Ball
+http://cdn.tvar.io/getTk247/204_.m3u8?xauthorization=KJ+dB9nSw0K5Gscwps4Klw==
+#EXTINF:-1 group-title="z backup" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,24/7 El Chavo
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+#EXTINF:-1 group-title="z backup" tvg-logo="https://tinyurl.com/myr3uy8b" ,24/7 El Chavo
+https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="z backup" ,24/7 GOKU TV
+http://38.3.162.3:18009/play/a0c2/index.m3u8
+#EXTINF:0 group-title="z backup" ,24/7 Johnny Bravo
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/584.m3u8
+#EXTINF:-1 group-title="z backup" ,24/7 La Pantera Rosa
+https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="z backup" ,24/7 Los Pitufos
+http://cdn.tvar.io/getTk247/249_.m3u8?xauthorization=KJ+dB9nSw0K5Gscwps4Klw==
+#EXTINF:0 group-title="z backup" ,24/7 Los Pitufos
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:0 group-title="z backup" ,24/7 Los Simpson
+https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
+#EXTINF:0 group-title="z backup" ,24/7 Los Simpson //
+http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
+#EXTINF:0 group-title="z backup" ,24/7 Los Simpson Latino
+https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
+#EXTINF:-1 group-title="z backup" ,24/7 Marvel movies
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 group-title="z backup" ,24/7 Mi pobre angelito
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317138.ts
+#EXTINF:0 group-title="z backup" ,24/7 Mr. Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:0 group-title="z backup" ,24/7 Pinky y el Cerebro
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/771.m3u8
+#EXTINF:-1 group-title="z backup" ,24/7 Shrek
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317150.ts
 #EXTINF:-1 group-title="z backup" tvg-logo="https://w7.pngwing.com/pngs/506/211/png-transparent-the-simpsons-bart-simpson-lisa-simpson-homer-simpson-mr-burns-marge-simpson-the-simpsons-movie-food-springfield-text.png" ,24/7 Simpson 3
 http://138.118.213.242:85/Live/ed8c8b5970e2179091fa605853b6ccc7/online-24-7.playlist.m3u8
+#EXTINF:-1 group-title="z backup" ,24/7 Sígueme kids
+https://lbgo.bozztv.com/ssh101/ssh101/siguemekids/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 group-title="z backup" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,24/7 The Simpson -
+https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 group-title="z backup" tvg-logo="https://w7.pngwing.com/pngs/789/635/png-transparent-homer-simpson-marge-simpson-bart-simpson-television-show-los-simpsons-television-text-cartoon.png" ,24/7 The Simpson canal
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
+#EXTINF:-1 group-title="z backup" tvg-logo="https://w7.pngwing.com/pngs/602/409/png-transparent-tom-cat-jerry-mouse-tom-and-jerry-tom-and-jerry-heroes-logo-cartoon.png" ,24/7 Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:0 group-title="z backup" ,24/7 Tom y Jerry
+http://lamtv.site:8080/27116808/zs2Bbc7Zu5/53209.ts
+#EXTINF:-1 group-title="z backup" ,24/7 X-Men 90
+http://cdn.tvar.io/getTk247/265_.m3u8?xauthorization=KJ+dB9nSw0K5Gscwps4Klw==
 #EXTINF:-1 group-title="z backup" ,ANIMASH
 http://38.7.195.44:8000/play/a0ce
 #EXTINF:-1 group-title="z backup" tvg-logo="https://atacamatelevision.com/archivos/img/logo.png" ,ATACAMA TV
@@ -2207,12 +2209,8 @@ http://181.65.155.51:8000/play/a0pe/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
 #EXTINF:-1 group-title="z backup" ,x ADULTOS
 http://200.115.120.1:8000/play/ca99/index.m3u8
-#EXTINF:-1 group-title="z backup" ,x BRAZZERS TV
-http://200.115.120.1:8000/play/ca98/index.m3u8
 #EXTINF:0 group-title="z backup" ,x Ero XXX
 http://143.244.63.87/eroxxx/index.m3u8
-#EXTINF:-1 group-title="z backup" ,x HUSTLER TV
-http://200.115.120.1:8000/play/ca96/index.m3u8
 #EXTINF:-1 group-title="z backup" ,x PLAYBOY
 http://200.115.120.1:8000/play/ca97/index.m3u8
 #EXTINF:-1 group-title="z backup" ,x Playboy HD
@@ -2220,9 +2218,13 @@ http://38.190.100.202:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="z backup" ,x VENUS
 http://200.115.120.1:8000/play/ca95/index.m3u8
 #EXTINF:-1 group-title="z backup" ,x Venus
-http://38.190.100.202:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="z backup" ,x Venus
 http://200.37.201.35:8000/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="z backup" ,x Venus
+http://38.190.100.202:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="z backup" ,Xx BRAZZERS TV
+http://200.115.120.1:8000/play/ca98/index.m3u8
+#EXTINF:-1 group-title="z backup" ,Xx HUSTLER TV
+http://200.115.120.1:8000/play/ca96/index.m3u8
 #EXTINF:-1 group-title="z backup" tvg-logo="https://tinyurl.com/Maaxmg" ,✔️ MAX
 https://lbgo.bozztv.com/ssh101/ssh101/max16/playlist.m3u8
 #EXTINF:-1 group-title="z backup" tvg-logo="https://tinyurl.com/Maxlogo0001" ,✔️ MAX Cine *

@@ -197,6 +197,74 @@ https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 #EXTINF:-1 group-title="011" tvg-id="ESBC1700004PX" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" ,Trailers
 https://jmp2.uk/stvp-ESBC1700004PX
+#EXTINF:-1 group-title="0a1" tvg-id="158" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Accion HD
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a1" tvg-id="158" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Accion HD
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/158.m3u8
+#EXTINF:-1 group-title="0a1" tvg-id="161" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a1" tvg-id="161" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/161.m3u8
+#EXTINF:-1 group-title="0a1" tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia 2
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a1" tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia 2
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/163.m3u8
+#EXTINF:-1 group-title="0a1" tvg-id="166" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia 2
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a1" tvg-id="166" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia 2
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/166.m3u8
+#EXTINF:-1 group-title="0a1" tvg-id="168" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia HD
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a1" tvg-id="168" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia HD
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/168.m3u8
+#EXTINF:-1 group-title="0a1" tvg-id="171" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a1" tvg-id="171" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/171.m3u8
+#EXTINF:-1 group-title="0a1" tvg-id="172" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas HD
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a1" tvg-id="172" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas HD
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/172.m3u8
+#EXTINF:-1 group-title="0a1" tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Marvel
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a1" tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Marvel
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/176.m3u8
+#EXTINF:-1 group-title="0a1" tvg-id="181" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Terror HD
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a1" tvg-id="181" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Terror HD
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/181.m3u8
+#EXTINF:-1 group-title="0a1" tvg-id="184" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Zombis HD
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a1" tvg-id="184" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Zombis HD
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/184.m3u8
+#EXTINF:-1 group-title="1" ,AVI CINE
+http://38.7.216.102:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="1" ,AVI CONCERT ZPLAY
+http://38.7.216.102:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="1" ,AVI REWINDS
+http://38.7.216.102:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="1" ,MEMORIAS SERIES
+http://38.7.216.102:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="1" ,MEMORIAS TOONS
+http://38.7.216.102:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="1" ,MX CLASSIC MCG
+http://38.7.216.102:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="1" ,MX OLD MCG
+http://38.7.216.102:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="1" ,MX SERIES
+http://38.7.216.102:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="1" ,OLD MUSIC MCG
+http://38.7.216.102:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="1" ,VIBRA FAMILY
+http://38.7.216.102:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="1" ,VIBRA RETROX
+http://38.7.216.102:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="1" ,VIBRA TERROR
+http://38.7.216.102:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="1" ,ZOOM BACK MCG
+http://38.7.216.102:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="1" ,ZTV ZPLAY
+http://38.7.216.102:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" ,*   IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 #EXTINF:-1 group-title="2 ar01" ,*  CLASSIC +

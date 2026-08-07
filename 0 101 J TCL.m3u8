@@ -33,6 +33,8 @@ http://200.115.120.1:8000/play/ca012/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTINF:-1 group-title="011" ,+Anime Max Anime
 http://190.61.101.11:7050/play/a0ae/index.m3u8?hls
+#EXTINF:-1 group-title="011" ,+Anime ZTV Zplay
+http://38.7.216.102:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://tinyurl.com/Housedoooc" ,24/7 Dr. House
 https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,24/7 Dragon Ball
@@ -57,8 +59,6 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16062
 http://lamtv.site:8080/27116808/zs2Bbc7Zu5/53180.ts
 #EXTINF:-1 group-title="011" ,24/7 Futurama
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/316942.ts
-#EXTINF:-1 group-title="011" ,24/7 Héroes
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317153.ts
 #EXTINF:-1 group-title="011" ,24/7 Jim Carrey
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317131.ts
 #EXTINF:-1 group-title="011" ,24/7 Jurassic Park
@@ -75,14 +75,8 @@ http://promas.lat:2082/CHRISTIAN1/MARCECALA/49650
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 group-title="011" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the Middle
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16056
-#EXTINF:-1 group-title="011" ,24/7 Merlina
-http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526322.m3u8
-#EXTINF:-1 group-title="011" ,24/7 Pixar
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317145.ts
 #EXTINF:-1 group-title="011" ,24/7 Rápido y Furioso
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317146.ts
-#EXTINF:-1 group-title="011" ,24/7 Spider-Man
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317151.ts
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory #
 http://zonacero.lat:8080/bkVXbnJCdmZpbVVGcEVBbmVsODZydHdBT0JtZDNncm41RTBoMXlTK0dWVT0
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory 1-6
@@ -163,6 +157,8 @@ https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-v
 https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="011" ,m XITE metal & rock
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?
+#EXTINF:-1 group-title="011" tvg-logo="https://tinyurl.com/Dicimar" ,MARVEL & DC
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-id="5ec5761aabe4690007f6e047" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png" ,Pluto TV Star Trek
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" ,Red Bull Tv
@@ -237,34 +233,6 @@ http://tv.m3uts.xyz/stream/secure/T_-bCN43/181.m3u8
 #EXTVLCOPT:http-user-agent=Magma Player/10
 #EXTINF:-1 group-title="0a1" tvg-id="184" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Zombis HD
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/184.m3u8
-#EXTINF:-1 group-title="1" ,AVI CINE
-http://38.7.216.102:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="1" ,AVI CONCERT ZPLAY
-http://38.7.216.102:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="1" ,AVI REWINDS
-http://38.7.216.102:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="1" ,MEMORIAS SERIES
-http://38.7.216.102:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="1" ,MEMORIAS TOONS
-http://38.7.216.102:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="1" ,MX CLASSIC MCG
-http://38.7.216.102:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="1" ,MX OLD MCG
-http://38.7.216.102:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="1" ,MX SERIES
-http://38.7.216.102:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="1" ,OLD MUSIC MCG
-http://38.7.216.102:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="1" ,VIBRA FAMILY
-http://38.7.216.102:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="1" ,VIBRA RETROX
-http://38.7.216.102:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="1" ,VIBRA TERROR
-http://38.7.216.102:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="1" ,ZOOM BACK MCG
-http://38.7.216.102:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="1" ,ZTV ZPLAY
-http://38.7.216.102:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" ,*   IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 #EXTINF:-1 group-title="2 ar01" ,*  CLASSIC +
@@ -349,18 +317,28 @@ http://190.60.39.220:8000/play/a026/index.m3u8
 http://181.78.67.171:8000/play/a11x/index.m3u8
 #EXTINF:0 group-title="2 ar01" ,- PCTV PánicoHD
 http://181.78.8.199:8000/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,-* MX Classic
+http://38.7.216.102:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,-* MX Drama
 http://38.7.195.44:8000/play/a0c0
+#EXTINF:-1 group-title="2 ar01" ,-* MX OLD MCG
+http://38.7.216.102:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,-* MX OLD MUSIC MCG
+http://38.7.216.102:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,-* MX Prime
 http://38.7.195.44:8000/play/a0c6
 #EXTINF:-1 group-title="2 ar01" ,-* MX Series
 http://201.186.41.99:8001/play/a02i/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,24/7 Películas
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317127.ts
+#EXTINF:-1 group-title="2 ar01" ,AVI Cconcert
+http://38.7.216.102:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,AVI Cine
+http://38.7.216.102:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,AVI Rewinds
+http://38.7.216.102:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,Marvel #
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317137.ts
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://tinyurl.com/Dicimar" ,MARVEL & DC
-https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01" ,Marvel 1
 http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526363.m3u8
 #EXTINF:-1 group-title="2 ar01" ,Marvel 2
@@ -379,6 +357,14 @@ http://181.224.200.5:2277/play/a0df/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:0 group-title="2 ar01" ,Paramount Network
 http://lamtv.site:8080/27116808/zs2Bbc7Zu5/79165.ts
+#EXTINF:-1 group-title="2 ar01" ,VIBRA FAMILY
+http://38.7.216.102:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,VIBRA RETROX
+http://38.7.216.102:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,VIBRA TERROR
+http://38.7.216.102:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,ZOOM BACK MCG
+http://38.7.216.102:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,✔️ NITRO
 http://38.210.105.10:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,FX HD
@@ -2111,6 +2097,10 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="z backup" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" ,# ✔️ Gen TV
 https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
+#EXTINF:-1 group-title="z backup" ,*-MEMORIAS SERIES
+http://38.7.216.102:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="z backup" ,*-MEMORIAS TOONS
+http://38.7.216.102:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="z backup" ,*Grjngo 1  .1
 https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
 #EXTINF:-1 group-title="z backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SPbjllljkBcjyV-bG86yEZuIGBEsS3rG6A&s" ,+Anime Locomotion  1
@@ -2145,6 +2135,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="z backup" ,24/7 GOKU TV
 http://38.3.162.3:18009/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="z backup" ,24/7 Héroes
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317153.ts
 #EXTINF:0 group-title="z backup" ,24/7 Johnny Bravo
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/584.m3u8
 #EXTINF:-1 group-title="z backup" ,24/7 La Pantera Rosa
@@ -2161,16 +2153,22 @@ http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 group-title="z backup" ,24/7 Marvel movies
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 group-title="z backup" ,24/7 Merlina
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526322.m3u8
 #EXTINF:-1 group-title="z backup" ,24/7 Mi pobre angelito
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317138.ts
 #EXTINF:0 group-title="z backup" ,24/7 Mr. Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:0 group-title="z backup" ,24/7 Pinky y el Cerebro
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/771.m3u8
+#EXTINF:-1 group-title="z backup" ,24/7 Pixar
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317145.ts
 #EXTINF:-1 group-title="z backup" ,24/7 Shrek
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317150.ts
 #EXTINF:-1 group-title="z backup" tvg-logo="https://w7.pngwing.com/pngs/506/211/png-transparent-the-simpsons-bart-simpson-lisa-simpson-homer-simpson-mr-burns-marge-simpson-the-simpsons-movie-food-springfield-text.png" ,24/7 Simpson 3
 http://138.118.213.242:85/Live/ed8c8b5970e2179091fa605853b6ccc7/online-24-7.playlist.m3u8
+#EXTINF:-1 group-title="z backup" ,24/7 Spider-Man
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317151.ts
 #EXTINF:-1 group-title="z backup" ,24/7 Sígueme kids
 https://lbgo.bozztv.com/ssh101/ssh101/siguemekids/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 group-title="z backup" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,24/7 The Simpson -
@@ -2255,6 +2253,8 @@ http://181.78.67.171:8000/play/a128/index.m3u8
 http://181.78.67.171:8000/play/a129/index.m3u8
 #EXTINF:-1 group-title="z backup" ,MEMORIAS 2 TOONS
 http://181.78.67.171:8000/play/a12a/index.m3u8
+#EXTINF:-1 group-title="z backup" ,MX SERIES
+http://38.7.216.102:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="z backup" ,Oromar
 http://200.39.57.254:8008/play/a0am/index.m3u8
 #EXTINF:-1 group-title="z backup" ,r/Folklore TV

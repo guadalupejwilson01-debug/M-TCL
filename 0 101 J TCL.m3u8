@@ -35,6 +35,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 http://190.61.101.11:7050/play/a0ae/index.m3u8?hls
 #EXTINF:-1 group-title="011" ,+Anime ZTV Zplay
 http://38.7.216.102:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="011" tvg-id="24/7 Caso Cerrado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Caso_Cerrado_octubre_2018.png/revision/latest/scale-to-width-down/340?cb=20200816205635&path-prefix=es" ,24/7 Caso Cerrado
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://tinyurl.com/Housedoooc" ,24/7 Dr. House
 https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,24/7 Dragon Ball
@@ -59,6 +61,8 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16062
 http://lamtv.site:8080/27116808/zs2Bbc7Zu5/53180.ts
 #EXTINF:-1 group-title="011" ,24/7 Futurama
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/316942.ts
+#EXTINF:-1 group-title="011" ,24/7 Héroes
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317153.ts
 #EXTINF:-1 group-title="011" ,24/7 Jim Carrey
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317131.ts
 #EXTINF:-1 group-title="011" ,24/7 Jurassic Park
@@ -75,8 +79,16 @@ http://promas.lat:2082/CHRISTIAN1/MARCECALA/49650
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 group-title="011" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the Middle
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16056
+#EXTINF:-1 group-title="011" ,24/7 Marvel movies
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 group-title="011" ,24/7 Merlina
+http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526322.m3u8
+#EXTINF:-1 group-title="011" ,24/7 Pixar
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317145.ts
 #EXTINF:-1 group-title="011" ,24/7 Rápido y Furioso
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317146.ts
+#EXTINF:-1 group-title="011" ,24/7 Spider-Man
+http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317151.ts
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory #
 http://zonacero.lat:8080/bkVXbnJCdmZpbVVGcEVBbmVsODZydHdBT0JtZDNncm41RTBoMXlTK0dWVT0
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory 1-6
@@ -105,14 +117,14 @@ https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 http://38.224.231.47:8000/play/a06s/index.m3u8
 #EXTINF:-1 group-title="011" ,c Discovery Turbo
 http://38.224.231.47:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="011" tvg-id="69fcdc73488e575cff213adc" tvg-logo="https://images.pluto.tv/channels/69fcdc73488e575cff213adc/colorLogoPNG_1778601459828.png" ,c Hermanos a la Obra
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/69fcdc73488e575cff213adc/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=7150246e-8aba-11f1-9424-6045bd0165ba&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=7150246e-8aba-11f1-9424-6045bd0165ba&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=71634327-8aba-11f1-acb2-dae5c9204b67&sid=71634327-8aba-11f1-acb2-dae5c9204b67&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImM5OTk5MmFkLWY1NGItNDVhZi04OGFkLTcwZWFkZDIzMjY3MCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3MTYzNDMyNy04YWJhLTExZjEtYWNiMi1kYWU1YzkyMDRiNjciLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjcxNTAyNDZlLThhYmEtMTFmMS05NDI0LTYwNDViZDAxNjViYSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI3MTUwMjQ2ZS04YWJhLTExZjEtOTQyNC02MDQ1YmQwMTY1YmEiLCJmd1ZjSUQyQ29wcGEiOiI3MTUwMjQ2ZS04YWJhLTExZjEtOTQyNC02MDQ1YmQwMTY1YmEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjcxNTAyNDZlLThhYmEtMTFmMS05NDI0LTYwNDViZDAxNjViYSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODUyNjY4Nzk2MDcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpOekUxTURJME5tVXRPR0ZpWVMweE1XWXhMVGswTWpRdE5qQTBOV0prTURFMk5XSmgiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg1MzUzMjc5LCJpYXQiOjE3ODUyNjY4NzksImp0aSI6ImJjNzkxYmYxLWVjZjMtNDY4ZC1hNmQ0LWYyNzRjYjM5NTI1NSJ9._hpwNe_Dnb8tGNggGvEgR5acOMSsfYs8bH5_4LYqvTM&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+#EXTINF:-1 group-title="011" tvg-id="69fcdc73488e575cff213adc" tvg-name="Hermanos a la Obra" tvg-logo="https://images.pluto.tv/channels/69fcdc73488e575cff213adc/logo.png?fit=fill&fm=png&h=80&w=280" ,c Hermanos a la Obra
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/69fcdc73488e575cff213adc/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImUxYmU0MzFjLTEzNzUtNDY4My1iOGNiLTAzNjcwZGFjOTJjMyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxNDVkMDVjMC05NGJkLTExZjEtYjEyNy02ZWIyYmJmN2Y0MDIiLCJjbGllbnRJUCI6IjEwNC4xMDMuMjM4LjAiLCJjaXR5IjoiQnVlbm9zIEFpcmVzIiwicG9zdGFsQ29kZSI6ImMxMjA2IGFiZSIsImNvdW50cnkiOiJBUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0zNC42MTAwMDA2MTAzNTE1NiwiZGV2aWNlTG9uIjotNTguNDE5OTk4MTY4OTQ1MzEsInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMi4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6ImEyOGQyYTZhLTA5ZTAtNDZjYi05NTIxLWIwZDA2MDU4OTg5YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJhMjhkMmE2YS0wOWUwLTQ2Y2ItOTUyMS1iMGQwNjA1ODk4OWMiLCJmd1ZjSUQyQ29wcGEiOiJhMjhkMmE2YS0wOWUwLTQ2Y2ItOTUyMS1iMGQwNjA1ODk4OWMiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImEyOGQyYTZhLTA5ZTAtNDZjYi05NTIxLWIwZDA2MDU4OTg5YyIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMsMTAwMTQsMTAwMTYsMTAwMTUifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODYzNjc1MjM2NTYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpZVEk0WkRKaE5tRXRNRGxsTUMwME5tTmlMVGsxTWpFdFlqQmtNRFl3TlRnNU9EbGoiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg2NDUzOTIzLCJpYXQiOjE3ODYzNjc1MjMsImp0aSI6IjQ1ZjBiZTg4LWY2MWEtNDA0Yy1iMGIxLTk1ZGMwOGM3NTZiNSJ9.pnifla-AO4xBlIVUCouN3V2_m0ihUea4jobSix8zG5o&masterJWTPassthrough=true
 #EXTINF:-1 group-title="011" ,c HGTV
 http://201.186.41.99:8001/play/a082/index.m3u8
-#EXTINF:-1 group-title="011" tvg-id="64fb1f6e6625510008c00848" tvg-logo="https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png" ,c Homeful
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/64fb1f6e6625510008c00848/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=7150246e-8aba-11f1-9424-6045bd0165ba&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=7150246e-8aba-11f1-9424-6045bd0165ba&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=71634327-8aba-11f1-acb2-dae5c9204b67&sid=71634327-8aba-11f1-acb2-dae5c9204b67&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImM5OTk5MmFkLWY1NGItNDVhZi04OGFkLTcwZWFkZDIzMjY3MCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3MTYzNDMyNy04YWJhLTExZjEtYWNiMi1kYWU1YzkyMDRiNjciLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjcxNTAyNDZlLThhYmEtMTFmMS05NDI0LTYwNDViZDAxNjViYSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI3MTUwMjQ2ZS04YWJhLTExZjEtOTQyNC02MDQ1YmQwMTY1YmEiLCJmd1ZjSUQyQ29wcGEiOiI3MTUwMjQ2ZS04YWJhLTExZjEtOTQyNC02MDQ1YmQwMTY1YmEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjcxNTAyNDZlLThhYmEtMTFmMS05NDI0LTYwNDViZDAxNjViYSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODUyNjY4Nzk2MDcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpOekUxTURJME5tVXRPR0ZpWVMweE1XWXhMVGswTWpRdE5qQTBOV0prTURFMk5XSmgiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg1MzUzMjc5LCJpYXQiOjE3ODUyNjY4NzksImp0aSI6ImJjNzkxYmYxLWVjZjMtNDY4ZC1hNmQ0LWYyNzRjYjM5NTI1NSJ9._hpwNe_Dnb8tGNggGvEgR5acOMSsfYs8bH5_4LYqvTM&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
-#EXTINF:-1 group-title="011" tvg-id="68b887c2e77777498226a0de" tvg-logo="https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png" ,c Tastemade Hogar
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/68b887c2e77777498226a0de/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=7150246e-8aba-11f1-9424-6045bd0165ba&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=7150246e-8aba-11f1-9424-6045bd0165ba&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=71634327-8aba-11f1-acb2-dae5c9204b67&sid=71634327-8aba-11f1-acb2-dae5c9204b67&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImM5OTk5MmFkLWY1NGItNDVhZi04OGFkLTcwZWFkZDIzMjY3MCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3MTYzNDMyNy04YWJhLTExZjEtYWNiMi1kYWU1YzkyMDRiNjciLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjcxNTAyNDZlLThhYmEtMTFmMS05NDI0LTYwNDViZDAxNjViYSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI3MTUwMjQ2ZS04YWJhLTExZjEtOTQyNC02MDQ1YmQwMTY1YmEiLCJmd1ZjSUQyQ29wcGEiOiI3MTUwMjQ2ZS04YWJhLTExZjEtOTQyNC02MDQ1YmQwMTY1YmEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjcxNTAyNDZlLThhYmEtMTFmMS05NDI0LTYwNDViZDAxNjViYSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODUyNjY4Nzk2MDcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpOekUxTURJME5tVXRPR0ZpWVMweE1XWXhMVGswTWpRdE5qQTBOV0prTURFMk5XSmgiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg1MzUzMjc5LCJpYXQiOjE3ODUyNjY4NzksImp0aSI6ImJjNzkxYmYxLWVjZjMtNDY4ZC1hNmQ0LWYyNzRjYjM5NTI1NSJ9._hpwNe_Dnb8tGNggGvEgR5acOMSsfYs8bH5_4LYqvTM&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+#EXTINF:-1 group-title="011" tvg-id="64fb1f6e6625510008c00848" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/64fb1f6e6625510008c00848/logo.png?fit=fill&fm=png&h=80&w=280" ,c Homeful
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/64fb1f6e6625510008c00848/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImUxYmU0MzFjLTEzNzUtNDY4My1iOGNiLTAzNjcwZGFjOTJjMyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxNDVkMDVjMC05NGJkLTExZjEtYjEyNy02ZWIyYmJmN2Y0MDIiLCJjbGllbnRJUCI6IjEwNC4xMDMuMjM4LjAiLCJjaXR5IjoiQnVlbm9zIEFpcmVzIiwicG9zdGFsQ29kZSI6ImMxMjA2IGFiZSIsImNvdW50cnkiOiJBUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0zNC42MTAwMDA2MTAzNTE1NiwiZGV2aWNlTG9uIjotNTguNDE5OTk4MTY4OTQ1MzEsInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMi4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6ImEyOGQyYTZhLTA5ZTAtNDZjYi05NTIxLWIwZDA2MDU4OTg5YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJhMjhkMmE2YS0wOWUwLTQ2Y2ItOTUyMS1iMGQwNjA1ODk4OWMiLCJmd1ZjSUQyQ29wcGEiOiJhMjhkMmE2YS0wOWUwLTQ2Y2ItOTUyMS1iMGQwNjA1ODk4OWMiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImEyOGQyYTZhLTA5ZTAtNDZjYi05NTIxLWIwZDA2MDU4OTg5YyIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMsMTAwMTQsMTAwMTYsMTAwMTUifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODYzNjc1MjM2NTYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpZVEk0WkRKaE5tRXRNRGxsTUMwME5tTmlMVGsxTWpFdFlqQmtNRFl3TlRnNU9EbGoiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg2NDUzOTIzLCJpYXQiOjE3ODYzNjc1MjMsImp0aSI6IjQ1ZjBiZTg4LWY2MWEtNDA0Yy1iMGIxLTk1ZGMwOGM3NTZiNSJ9.pnifla-AO4xBlIVUCouN3V2_m0ihUea4jobSix8zG5o&masterJWTPassthrough=true
+#EXTINF:-1 group-title="011" tvg-id="68b887c2e77777498226a0de" tvg-name="Tastemade Hogar" tvg-logo="https://images.pluto.tv/channels/68b887c2e77777498226a0de/logo.png?fit=fill&fm=png&h=80&w=280" ,c Tastemade Hogar
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/68b887c2e77777498226a0de/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImUxYmU0MzFjLTEzNzUtNDY4My1iOGNiLTAzNjcwZGFjOTJjMyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxNDVkMDVjMC05NGJkLTExZjEtYjEyNy02ZWIyYmJmN2Y0MDIiLCJjbGllbnRJUCI6IjEwNC4xMDMuMjM4LjAiLCJjaXR5IjoiQnVlbm9zIEFpcmVzIiwicG9zdGFsQ29kZSI6ImMxMjA2IGFiZSIsImNvdW50cnkiOiJBUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0zNC42MTAwMDA2MTAzNTE1NiwiZGV2aWNlTG9uIjotNTguNDE5OTk4MTY4OTQ1MzEsInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMi4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6ImEyOGQyYTZhLTA5ZTAtNDZjYi05NTIxLWIwZDA2MDU4OTg5YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJhMjhkMmE2YS0wOWUwLTQ2Y2ItOTUyMS1iMGQwNjA1ODk4OWMiLCJmd1ZjSUQyQ29wcGEiOiJhMjhkMmE2YS0wOWUwLTQ2Y2ItOTUyMS1iMGQwNjA1ODk4OWMiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImEyOGQyYTZhLTA5ZTAtNDZjYi05NTIxLWIwZDA2MDU4OTg5YyIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMsMTAwMTQsMTAwMTYsMTAwMTUifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODYzNjc1MjM2NTYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpZVEk0WkRKaE5tRXRNRGxsTUMwME5tTmlMVGsxTWpFdFlqQmtNRFl3TlRnNU9EbGoiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg2NDUzOTIzLCJpYXQiOjE3ODYzNjc1MjMsImp0aSI6IjQ1ZjBiZTg4LWY2MWEtNDA0Yy1iMGIxLTk1ZGMwOGM3NTZiNSJ9.pnifla-AO4xBlIVUCouN3V2_m0ihUea4jobSix8zG5o&masterJWTPassthrough=true
 #EXTINF:-1 group-title="011" ,DroneTV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-id="5f230e416b68ff00075b0139" tvg-name="Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" ,e Misterios Medicos
@@ -193,46 +205,82 @@ https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 #EXTINF:-1 group-title="011" tvg-id="ESBC1700004PX" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" ,Trailers
 https://jmp2.uk/stvp-ESBC1700004PX
-#EXTINF:-1 group-title="0a1" tvg-id="158" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Accion HD
+#EXTINF:-1 group-title="0a-Magma" tvg-id="158" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Accion HD
 #EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a1" tvg-id="158" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Accion HD
+#EXTINF:-1 group-title="0a-Magma" tvg-id="158" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Accion HD
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/158.m3u8
-#EXTINF:-1 group-title="0a1" tvg-id="161" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia
+#EXTINF:-1 group-title="0a-Magma" tvg-id="161" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia
 #EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a1" tvg-id="161" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia
+#EXTINF:-1 group-title="0a-Magma" tvg-id="161" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/161.m3u8
-#EXTINF:-1 group-title="0a1" tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia 2
+#EXTINF:-1 group-title="0a-Magma" tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia 2
 #EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a1" tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia 2
+#EXTINF:-1 group-title="0a-Magma" tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia 2
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/163.m3u8
-#EXTINF:-1 group-title="0a1" tvg-id="166" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia 2
+#EXTINF:-1 group-title="0a-Magma" tvg-id="166" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia 2
 #EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a1" tvg-id="166" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia 2
+#EXTINF:-1 group-title="0a-Magma" tvg-id="166" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia 2
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/166.m3u8
-#EXTINF:-1 group-title="0a1" tvg-id="168" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia HD
+#EXTINF:-1 group-title="0a-Magma" tvg-id="168" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia HD
 #EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a1" tvg-id="168" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia HD
+#EXTINF:-1 group-title="0a-Magma" tvg-id="168" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia HD
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/168.m3u8
-#EXTINF:-1 group-title="0a1" tvg-id="171" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas
+#EXTINF:-1 group-title="0a-Magma" tvg-id="171" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas
 #EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a1" tvg-id="171" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas
+#EXTINF:-1 group-title="0a-Magma" tvg-id="171" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/171.m3u8
-#EXTINF:-1 group-title="0a1" tvg-id="172" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas HD
+#EXTINF:-1 group-title="0a-Magma" tvg-id="172" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas HD
 #EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a1" tvg-id="172" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas HD
+#EXTINF:-1 group-title="0a-Magma" tvg-id="172" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas HD
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/172.m3u8
-#EXTINF:-1 group-title="0a1" tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Marvel
+#EXTINF:-1 group-title="0a-Magma" tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Marvel
 #EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a1" tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Marvel
+#EXTINF:-1 group-title="0a-Magma" tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Marvel
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/176.m3u8
-#EXTINF:-1 group-title="0a1" tvg-id="181" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Terror HD
+#EXTINF:-1 group-title="0a-Magma" tvg-id="181" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Terror HD
 #EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a1" tvg-id="181" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Terror HD
+#EXTINF:-1 group-title="0a-Magma" tvg-id="181" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Terror HD
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/181.m3u8
-#EXTINF:-1 group-title="0a1" tvg-id="184" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Zombis HD
+#EXTINF:-1 group-title="0a-Magma" tvg-id="184" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Zombis HD
 #EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a1" tvg-id="184" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Zombis HD
+#EXTINF:-1 group-title="0a-Magma" tvg-id="184" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Zombis HD
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/184.m3u8
+#EXTINF:-1 group-title="0a-Magma" tvg-id="470" tvg-logo="http://i.tvcluboficial.com/247.png" ,Friends 24/7
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a-Magma" tvg-id="470" tvg-logo="http://i.tvcluboficial.com/247.png" ,Friends 24/7
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/470.m3u8
+#EXTINF:-1 group-title="0a-Magma" tvg-id="484" tvg-logo="http://i.tvcluboficial.com/gameofthrones.png" ,Game of Thrones 24/7
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a-Magma" tvg-id="484" tvg-logo="http://i.tvcluboficial.com/gameofthrones.png" ,Game of Thrones 24/7
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/484.m3u8
+#EXTINF:-1 group-title="0a-Magma" tvg-id="607" tvg-logo="http://i.tvcluboficial.com/247.png" ,Las Aventuras de Tom Sawyer 24/7
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a-Magma" tvg-id="607" tvg-logo="http://i.tvcluboficial.com/247.png" ,Las Aventuras de Tom Sawyer 24/7
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/607.m3u8
+#EXTINF:-1 group-title="0a-Magma" tvg-id="619" tvg-logo="http://i.tvcluboficial.com/los3chiflados.png" ,Los 3 Chiflados 24/7
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a-Magma" tvg-id="619" tvg-logo="http://i.tvcluboficial.com/los3chiflados.png" ,Los 3 Chiflados 24/7
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/619.m3u8
+#EXTINF:-1 group-title="0a-Magma" tvg-id="623" tvg-logo="http://i.tvcluboficial.com/247.png" ,Los Expedientes Secretos X 24/7
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a-Magma" tvg-id="623" tvg-logo="http://i.tvcluboficial.com/247.png" ,Los Expedientes Secretos X 24/7
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/623.m3u8
+#EXTINF:-1 group-title="0a-Magma" tvg-id="747" tvg-logo="http://i.tvcluboficial.com/padredefamilia.png" ,Padre de Familia 24/7
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a-Magma" tvg-id="747" tvg-logo="http://i.tvcluboficial.com/padredefamilia.png" ,Padre de Familia 24/7
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/747.m3u8
+#EXTINF:-1 group-title="0a-Magma" tvg-id="1168" tvg-logo="http://i.tvcluboficial.com/rickymorty.png" ,Rick y Morty
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a-Magma" tvg-id="1168" tvg-logo="http://i.tvcluboficial.com/rickymorty.png" ,Rick y Morty
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/1168.m3u8
+#EXTINF:-1 group-title="0a-Magma" tvg-id="899" tvg-logo="http://i.tvcluboficial.com/thebigbangtheory.png" ,The Big Bang Theory 24/7
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a-Magma" tvg-id="899" tvg-logo="http://i.tvcluboficial.com/thebigbangtheory.png" ,The Big Bang Theory 24/7
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/899.m3u8
+#EXTINF:-1 group-title="0a-Magma" tvg-id="973" tvg-logo="http://i.tvcluboficial.com/twoandhalfmen.png" ,Two And a Half Men 24/7
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTINF:-1 group-title="0a-Magma" tvg-id="973" tvg-logo="http://i.tvcluboficial.com/twoandhalfmen.png" ,Two And a Half Men 24/7
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/973.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" ,*   IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 #EXTINF:-1 group-title="2 ar01" ,*  CLASSIC +
@@ -285,6 +333,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://tinyurl.com/Maxcinekids" ,* MAX Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01" ,* MAX Tv
+http://200.60.124.25:8000/play/a0pv/index.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://cdn.phototourl.com/free/2026-04-19-5fe2ce6c-9242-4b39-b719-547e682cd68c.png" ,+CINE
 http://190.102.242.130:25461/tpowercine/1234567/31
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://cdn.phototourl.com/free/2026-04-19-220156c8-2e18-4706-a57b-3b8d691d71d4.png" ,+CINE CLASSIC
@@ -321,10 +371,6 @@ http://181.78.8.199:8000/play/a0bt/index.m3u8
 http://38.7.216.102:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,-* MX Drama
 http://38.7.195.44:8000/play/a0c0
-#EXTINF:-1 group-title="2 ar01" ,-* MX OLD MCG
-http://38.7.216.102:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="2 ar01" ,-* MX OLD MUSIC MCG
-http://38.7.216.102:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,-* MX Prime
 http://38.7.195.44:8000/play/a0c6
 #EXTINF:-1 group-title="2 ar01" ,-* MX Series
@@ -349,6 +395,12 @@ http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526365.m3u8
 http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526366.m3u8
 #EXTINF:-1 group-title="2 ar01" ,Marvel 5
 http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526367.m3u8
+#EXTINF:-1 group-title="2 ar01" ,MIC-MIRAI
+http://200.60.124.25:8000/play/a0so/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,MIC-VIBRA SERIES
+http://200.60.124.25:8000/play/a0sr/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,MIC-WARZONE
+http://200.60.124.25:8000/play/a0st/index.m3u8
 #EXTINF:0 group-title="2 ar01" ,Paramount
 #EXTVLCOPT:network-caching=1000
 #EXTINF:0 group-title="2 ar01" ,Paramount
@@ -357,14 +409,6 @@ http://181.224.200.5:2277/play/a0df/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:0 group-title="2 ar01" ,Paramount Network
 http://lamtv.site:8080/27116808/zs2Bbc7Zu5/79165.ts
-#EXTINF:-1 group-title="2 ar01" ,VIBRA FAMILY
-http://38.7.216.102:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="2 ar01" ,VIBRA RETROX
-http://38.7.216.102:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="2 ar01" ,VIBRA TERROR
-http://38.7.216.102:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="2 ar01" ,ZOOM BACK MCG
-http://38.7.216.102:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,✔️ NITRO
 http://38.210.105.10:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,FX HD
@@ -1115,8 +1159,16 @@ http://38.7.195.44:8000/play/a083
 http://181.78.67.171:8000/play/a0z9/index.m3u8
 #EXTINF:-1 group-title="2 Cable0" ,Golden Edge
 http://181.65.155.51:8000/play/a0h6/index.m3u8
+#EXTINF:-1 group-title="2 Cable0" ,Golden Edge
+http://200.60.124.25:8000/play/a0it/index.m3u8
 #EXTINF:-1 group-title="2 Cable0" ,Golden HD
 http://181.65.155.51:8000/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="2 Cable0" ,Golden HD
+http://200.60.124.25:8000/play/a0li/index.m3u8
+#EXTINF:-1 group-title="2 Cable0" ,Golden Lat SRT
+http://200.60.124.25:8000/play/a0rl/index.m3u8
+#EXTINF:-1 group-title="2 Cable0" ,Golden Premier SRT
+http://200.60.124.25:8000/play/a0rm/index.m3u8
 #EXTINF:-1 group-title="2 Cable0" ,Golden Premiere HD Star One
 http://181.65.155.51:8000/play/a0n7/index.m3u8
 #EXTINF:0 group-title="2 Cable0" tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" ,HBO *
@@ -2121,10 +2173,14 @@ http://201.186.41.99:8001/play/a06e/index.m3u8
 http://38.7.195.44:8000/play/a0c0
 #EXTINF:-1 group-title="z backup" ,-*MX PRIME
 http://38.7.195.44:8000/play/a0c6
+#EXTINF:-1 group-title="z backup" ,--FHM1
+http://200.60.124.25:8000/play/a0p0/index.m3u8
+#EXTINF:-1 group-title="z backup" ,--FHM2
+http://200.60.124.25:8000/play/a0kr/index.m3u8
+#EXTINF:-1 group-title="z backup" ,--FHM3
+http://200.60.124.25:8000/play/a0ks/index.m3u8
 #EXTINF:-1 group-title="z backup" ,24/7 Bob Esponja
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/362432.ts
-#EXTINF:-1 group-title="z backup" tvg-id="24/7 Caso Cerrado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Caso_Cerrado_octubre_2018.png/revision/latest/scale-to-width-down/340?cb=20200816205635&path-prefix=es" ,24/7 Caso Cerrado
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0 group-title="z backup" ,24/7 Chespirito
 https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
 #EXTINF:-1 group-title="z backup" ,24/7 Dragon Ball
@@ -2135,8 +2191,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="z backup" ,24/7 GOKU TV
 http://38.3.162.3:18009/play/a0c2/index.m3u8
-#EXTINF:-1 group-title="z backup" ,24/7 Héroes
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317153.ts
 #EXTINF:0 group-title="z backup" ,24/7 Johnny Bravo
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/584.m3u8
 #EXTINF:-1 group-title="z backup" ,24/7 La Pantera Rosa
@@ -2151,24 +2205,16 @@ https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
 http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
 #EXTINF:0 group-title="z backup" ,24/7 Los Simpson Latino
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
-#EXTINF:-1 group-title="z backup" ,24/7 Marvel movies
-https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
-#EXTINF:-1 group-title="z backup" ,24/7 Merlina
-http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526322.m3u8
 #EXTINF:-1 group-title="z backup" ,24/7 Mi pobre angelito
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317138.ts
 #EXTINF:0 group-title="z backup" ,24/7 Mr. Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:0 group-title="z backup" ,24/7 Pinky y el Cerebro
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/771.m3u8
-#EXTINF:-1 group-title="z backup" ,24/7 Pixar
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317145.ts
 #EXTINF:-1 group-title="z backup" ,24/7 Shrek
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317150.ts
 #EXTINF:-1 group-title="z backup" tvg-logo="https://w7.pngwing.com/pngs/506/211/png-transparent-the-simpsons-bart-simpson-lisa-simpson-homer-simpson-mr-burns-marge-simpson-the-simpsons-movie-food-springfield-text.png" ,24/7 Simpson 3
 http://138.118.213.242:85/Live/ed8c8b5970e2179091fa605853b6ccc7/online-24-7.playlist.m3u8
-#EXTINF:-1 group-title="z backup" ,24/7 Spider-Man
-http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317151.ts
 #EXTINF:-1 group-title="z backup" ,24/7 Sígueme kids
 https://lbgo.bozztv.com/ssh101/ssh101/siguemekids/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 group-title="z backup" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,24/7 The Simpson -
@@ -2227,6 +2273,8 @@ http://190.60.39.220:8000/play/a01z/index.m3u8
 http://38.190.100.202:8000/play/a061/index.m3u8
 #EXTINF:-1 group-title="z backup" ,History Channel HD
 http://38.190.100.202:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="z backup" ,MAXTV2
+http://200.60.124.25:8000/play/a0pw/index.m3u8
 #EXTINF:-1 group-title="z backup" ,MEMORIAS 1 CLASICC
 http://181.78.67.171:8000/play/a0xp/index.m3u8
 #EXTINF:-1 group-title="z backup" ,MEMORIAS 1 CORAZON
@@ -2270,9 +2318,17 @@ https://lbgo.bozztv.com/ssh101/ssh101/liveretroplustv/playlist.m3u8
 #EXTINF:-1 group-title="z backup" ,Warner TV HD
 http://38.190.100.202:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="z backup" ,WEST
+http://200.60.124.25:8000/play/a0n1/index.m3u8
+#EXTINF:-1 group-title="z backup" ,WEST
 http://38.210.105.10:8000/play/a0bn/index.m3u8
 #EXTINF:-1 group-title="z backup" ,WEST  AMAZONAS
 http://181.65.155.51:8000/play/a0pe/index.m3u8
+#EXTINF:-1 group-title="z backup" ,WEST TV
+http://38.190.100.202:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="z backup" ,west tv
+http://38.210.3.64:8090/play/a0p8/index.m3u8
+#EXTINF:-1 group-title="z backup" ,WESTERN PUC
+http://200.60.124.25:8000/play/a0mi/index.m3u8
 #EXTINF:-1 group-title="z backup" tvg-logo="https://i.ibb.co/gZvpC8b6/Photoroom-20250719-000750.png" ,WOW MOVIES
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
 #EXTINF:-1 group-title="z backup" ,x ADULTOS

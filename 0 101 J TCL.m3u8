@@ -13,13 +13,13 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8
 https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 #EXTINF:-1 group-title="011" tvg-id="*Western 2" tvg-name="*Western 2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251111T011930SQUARE.png" ,*Western 2
 https://jmp2.uk/stvp-ES2300005G7
-#EXTINF:-1 group-title="011" ,*Western 3
+#EXTINF:-1 group-title="011" tvg-id="*Western 3" tvg-name="*Western 3" ,*Western 3
 http://38.190.100.202:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="011" tvg-id="*Western 4" tvg-name="*Western 4" ,*Western 4
+#EXTINF:-1 group-title="011" tvg-id="*Western 4" tvg-name="*Western 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24kOmnDjALZzm7IJAGYHIotW6-iohk8F314bB2EdEWqi3rbSdq-_yIDk&s=10" ,*Western 4
 http://38.210.105.10:8000/play/a0bn/index.m3u8
-#EXTINF:-1 group-title="011" tvg-id="*Western 5" ,*Western 5
+#EXTINF:-1 group-title="011" tvg-id="*Western 5" tvg-name="*Western 5" ,*Western 5
 http://38.7.195.44:8000/play/a0bt
-#EXTINF:-1 group-title="011" tvg-id="*Western 6" ,*Western 6
+#EXTINF:-1 group-title="011" tvg-id="*Western 6" tvg-name="*Western 6" tvg-logo="https://fmh.la/img/logo_farwest.png" ,*Western 6
 http://201.186.41.99:8001/play/a06l/index.m3u8
 #EXTINF:-1 group-title="011" ,+Anime Animash
 http://38.210.105.10:8000/play/a07p/index.m3u8
@@ -205,82 +205,6 @@ https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 #EXTINF:-1 group-title="011" tvg-id="ESBC1700004PX" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" ,Trailers
 https://jmp2.uk/stvp-ESBC1700004PX
-#EXTINF:-1 group-title="0a-Magma" tvg-id="158" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Accion HD
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="158" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Accion HD
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/158.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="161" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="161" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/161.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia 2
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Comedia 2
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/163.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="166" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia 2
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="166" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia 2
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/166.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="168" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia HD
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="168" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Ficcion/Fantasia HD
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/168.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="171" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="171" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/171.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="172" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas HD
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="172" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Infantil Sagas HD
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/172.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Marvel
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Marvel
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/176.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="181" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Terror HD
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="181" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Terror HD
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/181.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="184" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Zombis HD
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="184" tvg-logo="http://i.tvcluboficial.com/cine247.png" ,Cine Zombis HD
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/184.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="470" tvg-logo="http://i.tvcluboficial.com/247.png" ,Friends 24/7
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="470" tvg-logo="http://i.tvcluboficial.com/247.png" ,Friends 24/7
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/470.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="484" tvg-logo="http://i.tvcluboficial.com/gameofthrones.png" ,Game of Thrones 24/7
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="484" tvg-logo="http://i.tvcluboficial.com/gameofthrones.png" ,Game of Thrones 24/7
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/484.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="607" tvg-logo="http://i.tvcluboficial.com/247.png" ,Las Aventuras de Tom Sawyer 24/7
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="607" tvg-logo="http://i.tvcluboficial.com/247.png" ,Las Aventuras de Tom Sawyer 24/7
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/607.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="619" tvg-logo="http://i.tvcluboficial.com/los3chiflados.png" ,Los 3 Chiflados 24/7
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="619" tvg-logo="http://i.tvcluboficial.com/los3chiflados.png" ,Los 3 Chiflados 24/7
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/619.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="623" tvg-logo="http://i.tvcluboficial.com/247.png" ,Los Expedientes Secretos X 24/7
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="623" tvg-logo="http://i.tvcluboficial.com/247.png" ,Los Expedientes Secretos X 24/7
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/623.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="747" tvg-logo="http://i.tvcluboficial.com/padredefamilia.png" ,Padre de Familia 24/7
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="747" tvg-logo="http://i.tvcluboficial.com/padredefamilia.png" ,Padre de Familia 24/7
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/747.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="1168" tvg-logo="http://i.tvcluboficial.com/rickymorty.png" ,Rick y Morty
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="1168" tvg-logo="http://i.tvcluboficial.com/rickymorty.png" ,Rick y Morty
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/1168.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="899" tvg-logo="http://i.tvcluboficial.com/thebigbangtheory.png" ,The Big Bang Theory 24/7
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="899" tvg-logo="http://i.tvcluboficial.com/thebigbangtheory.png" ,The Big Bang Theory 24/7
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/899.m3u8
-#EXTINF:-1 group-title="0a-Magma" tvg-id="973" tvg-logo="http://i.tvcluboficial.com/twoandhalfmen.png" ,Two And a Half Men 24/7
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTINF:-1 group-title="0a-Magma" tvg-id="973" tvg-logo="http://i.tvcluboficial.com/twoandhalfmen.png" ,Two And a Half Men 24/7
-http://tv.m3uts.xyz/stream/secure/T_-bCN43/973.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" ,*   IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 #EXTINF:-1 group-title="2 ar01" ,*  CLASSIC +
@@ -409,6 +333,8 @@ http://181.224.200.5:2277/play/a0df/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:0 group-title="2 ar01" ,Paramount Network
 http://lamtv.site:8080/27116808/zs2Bbc7Zu5/79165.ts
+#EXTINF:-1 group-title="2 ar01" tvg-id="AlegriaTV.bo@SD" tvg-logo="https://i.imgur.com/MIBZ2pZ.png" ,✔️ Alegria TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01" ,✔️ NITRO
 http://38.210.105.10:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,FX HD
@@ -469,6 +395,8 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,✔️ B&N
 http://38.7.195.44:8000/play/a0c7
+#EXTINF:-1 group-title="2 ar01.1" tvg-id="BayresTV.ar@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" ,✔️ Bayres TV
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,✔️ blu
 http://38.210.105.10:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,✔️ blu medios
@@ -891,9 +819,9 @@ https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
 #EXTINF:-1 group-title="2 ar03" ,Sony One Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 group-title="2 ar03" tvg-logo="https://i.postimg.cc/26NfJ14K/sony-one-exitos.png" ,SONY ONE ÉXITOS
-https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 #EXTINF:-1 group-title="2 ar03" ,Sony One Éxitos
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="2 ar03" tvg-logo="https://i.postimg.cc/26NfJ14K/sony-one-exitos.png" ,SONY ONE ÉXITOS
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 #EXTINF:-1 group-title="2 ar03" ,Space
 http://38.252.215.33:8000/play/a00z/index.m3u8
@@ -1057,7 +985,7 @@ http://45.5.118.152:8000/play/a0bm/index.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 group-title="2 Cable0" tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" ,A24 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 group-title="2 Cable0" tvg-id="A24.ar@SD" ,A24 (720p)
+#EXTINF:-1 group-title="2 Cable0" tvg-id="A24.ar@SD" tvg-logo="https://logos-world.net/wp-content/uploads/2025/04/A24-Logo-New.png" ,A24 (720p)
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:0 group-title="2 Cable0" tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" ,AMERICA TV *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -1109,7 +1037,7 @@ http://190.151.80.242:9990/play/a0ka/index.m3u8
 http://38.210.3.64:8090/play/a0el/index.m3u8
 #EXTINF:-1 group-title="2 Cable0" ,CNN Español
 http://38.211.118.56:50002/play/a0ev/index.m3u8
-#EXTINF:-1 group-title="2 Cable0" ,CNN Internacional
+#EXTINF:-1 group-title="2 Cable0" tvg-logo="https://e7.pngegg.com/pngimages/507/10/png-clipart-cnn-logo-graphics-hand-painted-decoration-television-text.png" ,CNN Internacional
 http://38.210.3.64:8090/play/a0ek/index.m3u8
 #EXTINF:-1 group-title="2 Cable0" tvg-id="673248f9030a2c0008033af8" tvg-name="CNN XPRESS" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1755019014490.png" ,CNN XPRESS
 https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8
@@ -1345,9 +1273,7 @@ http://190.14.10.19:16000/play/a08k/index.m3u8
 http://45.181.122.46:8090/play/a018?PlaylistM3UCL
 #EXTINF:-1 group-title="4 HBO" tvg-id="318520" tvg-name="HBO • Este" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20201126030141" ,HBO • Este
 http://45.181.122.46:8090/play/a029?PlaylistM3UCL
-#EXTINF:-1 group-title="4 Salta" tvg-logo="https://tinyurl.com/4hzz7tsn" ,Salta Canal 7
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-#EXTINF:-1 group-title="4 Salta" tvg-id="Eloncesalta.ar" tvg-name="Salta Canal 7" ,Salta Canal 7 .1
+#EXTINF:-1 group-title="4 Salta" tvg-id="Canal7Salta.ar@SD" tvg-logo="https://i.imgur.com/CudG6sl.png" ,Salta Canal 7 (1080p)
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 group-title="4 Salta" tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" ,Salta Canal MILENIUM TV
 https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
@@ -1357,9 +1283,9 @@ https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfedera
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 group-title="4 Salta" tvg-id="eldossalta.ar" tvg-name="Salta Canal TV Dos" tvg-logo="https://cdn.m3u.cl/logo/788_TV_Dos_Salta.png" ,Salta Canal TV Dos
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="5 Jujuy" tvg-id="Canal13Jujuy.ar" tvg-name="Jujuy Canal 13" ,Jujuy Canal 13
+#EXTINF:-1 group-title="5 Jujuy" tvg-id="Canal13Jujuy.ar@SD" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" ,Jujuy Canal 13 TV (720p)
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-#EXTINF:-1 group-title="5 Jujuy" tvg-id="Canal4Jujuy.ar@SD" ,Jujuy CANAL 4
+#EXTINF:-1 group-title="5 Jujuy" tvg-id="Canal4Jujuy.ar@SD" tvg-logo="https://i.imgur.com/qB6I274.png" ,Jujuy Canal 4
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 group-title="5 Jujuy" tvg-logo="https://w7.pngwing.com/pngs/364/653/png-transparent-channel-4-jujuy-television-channel-m3u-http-live-streaming-others-television-m3u-symbol.png" ,Jujuy CANAL 4 Cam00
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live10/playlist.m3u8
@@ -1479,9 +1405,9 @@ https://cdn.wfc.tv/cdn/stream-eng.m3u8
 https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
 #EXTINF:-1 group-title="AR los84" ,13 Max HD
 http://los84hijosdelsol.com/live/Mago200200/Mago200200/712730.m3u8
-#EXTINF:-1 group-title="AR los84" ,A24 FHD
+#EXTINF:-1 group-title="AR los84" tvg-logo="https://logos-world.net/wp-content/uploads/2025/04/A24-Logo-New.png" ,A24 FHD
 http://los84hijosdelsol.com/live/Mago200200/Mago200200/712702.m3u8
-#EXTINF:-1 group-title="AR los84" ,A24 | AR
+#EXTINF:-1 group-title="AR los84" tvg-logo="https://logos-world.net/wp-content/uploads/2025/04/A24-Logo-New.png" ,A24 | AR
 http://los84hijosdelsol.com/live/Mago200200/Mago200200/712701.m3u8
 #EXTINF:-1 group-title="AR los84" ,America TV FHD
 http://los84hijosdelsol.com/live/Mago200200/Mago200200/712704.m3u8
@@ -1669,7 +1595,7 @@ http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712755.ts
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/722820.ts
 #EXTINF:-1 group-title="ARatlMX" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" ,Volver HD
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712741.ts
-#EXTINF:-1 group-title="ARG planettvweb" tvg-id="0222" tvg-name="A24" ,A24
+#EXTINF:-1 group-title="ARG planettvweb" tvg-id="0222" tvg-name="A24" tvg-logo="https://logos-world.net/wp-content/uploads/2025/04/A24-Logo-New.png" ,A24
 http://planettvweb.com:8091/Carmen65/RMap9748d/11865
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0932" tvg-name="C5N" ,C5N
 http://planettvweb.com:8091/Carmen65/RMap9748d/11863
@@ -1711,7 +1637,7 @@ http://planettvweb.com:8091/Carmen65/RMap9748d/20322
 http://181.209.38.115:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="ASTRA Argentina 3" ,A&E
 http://181.209.38.115:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,A24
+#EXTINF:-1 group-title="ASTRA Argentina 3" tvg-logo="https://logos-world.net/wp-content/uploads/2025/04/A24-Logo-New.png" ,A24
 http://181.209.38.115:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="ASTRA Argentina 3" ,ADULTO SWIM HD
 http://181.209.38.115:8000/play/a06g/index.m3u8

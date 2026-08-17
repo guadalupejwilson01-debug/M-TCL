@@ -1,4 +1,98 @@
 #EXTM3U
+#EXTINF:-1 group-title="0 Cable" tvg-name="A24 FHD" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" ,A24 FHD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712702.ts
+#EXTINF:-1 group-title="0 Cable" tvg-name="America TV FHD" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" ,America TV FHD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712704.ts
+#EXTINF:-1 group-title="0 Cable" tvg-name="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" ,ARGENTINISIMA
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712721.ts
+#EXTINF:-1 group-title="0 Cable" tvg-name="C5N FHD| AR" tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" ,C5N FHD| AR
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712705.ts
+#EXTINF:-1 group-title="0 Cable" tvg-name="Canal 26 FHD" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" ,Canal 26 FHD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712725.ts
+#EXTINF:-1 group-title="0 Cable" tvg-name="CIUDAD MAGAZINE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-0odv_2wgxZHAqMfic5Q9Qh9eKutgZ3F0A&s" ,CIUDAD MAGAZINE HD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712732.ts
+#EXTINF:-1 group-title="0 Cable" tvg-name="Crónica TV  HD| AR" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" ,Crónica TV  HD| AR
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712707.ts
+#EXTINF:-1 group-title="0 Cable" tvg-name="El Nueve HD" tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" ,El Nueve HD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712709.ts
+#EXTINF:-1 group-title="0 Cable" tvg-name="El Trece FHD" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" ,El Trece FHD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712711.ts
+#EXTINF:-1 group-title="0 Cable" ,FX HD
+http://38.190.100.202:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-name="Garage TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es" ,Garage TV
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712751.ts
+#EXTINF:-1 group-title="0 Cable" ,Golden Edge
+http://38.190.100.202:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,Golden HD
+http://38.190.100.202:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,Golden Premiere 2 HD
+http://38.190.100.202:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,Golden Premiere HD
+http://38.190.100.202:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO Family HD
+http://38.190.100.202:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO Family HD
+http://38.190.100.202:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO HD
+http://38.190.100.202:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO HD
+http://38.190.100.202:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO Mundi
+http://38.190.100.202:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO Plus HD
+http://38.190.100.202:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO POP HD
+http://38.190.100.202:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO Signature
+http://38.190.100.202:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO Xtreme HD
+http://38.190.100.202:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO2 HD
+http://38.190.100.202:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-id="Canal4Jujuy.ar@SD" tvg-logo="https://i.imgur.com/qB6I274.png" ,Jujuy Canal 4
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-logo="https://w7.pngwing.com/pngs/364/653/png-transparent-channel-4-jujuy-television-channel-m3u-http-live-streaming-others-television-m3u-symbol.png" ,Jujuy CANAL 4 Cam00
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live10/playlist.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-id="canal7.ar" tvg-name="Jujuy Canal 7" tvg-logo="https://i.imgur.com/q6BQ5YO.png" ,Jujuy Canal 7
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w279385552_b1146880.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-name="La Nación + HD" tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" ,La Nación + HD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712713.ts
+#EXTINF:-1 group-title="0 Cable" tvg-id="Canal7Salta.ar@SD" tvg-logo="https://i.imgur.com/CudG6sl.png" ,Salta Canal 7 (1080p)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-logo="https://tinyurl.com/3xxchupk" ,Salta Canal Multivisión
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-id="eldossalta.ar" tvg-name="Salta Canal TV Dos" tvg-logo="https://cdn.m3u.cl/logo/788_TV_Dos_Salta.png" ,Salta Canal TV Dos
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="0 Cable" tvg-name="Telefe FHD" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" ,Telefe FHD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712715.ts
+#EXTINF:-1 group-title="0 Cable" tvg-name="TN Noticias" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" ,TN Noticias
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712717.ts
+#EXTINF:-1 group-title="0 Cable" ,TNT HD
+http://38.190.100.202:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,TNT Series HD
+http://38.190.100.202:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-name="TV Publica FHD" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" ,TV Publica FHD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712720.ts
+#EXTINF:-1 group-title="0 Cable" tvg-name="TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" ,TyC Sports
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712754.ts
+#EXTINF:-1 group-title="0 Cable" ,UNIVERSAL CHANNEL HD
+http://38.190.100.202:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,UNIVERSAL CINEMA ESTE HD
+http://38.190.100.202:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,UNIVERSAL COMEDY HD
+http://38.190.100.202:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,UNIVERSAL CRIME HD
+http://38.190.100.202:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,UNIVERSAL PREMIERE HD
+http://38.190.100.202:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,UNIVERSAL PREMIERE O HD
+http://38.190.100.202:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,UNIVERSAL REALITY HD
+http://38.190.100.202:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" ,Volver HD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712741.ts
+#EXTINF:0 group-title="011" tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png" ,*ArtFlix
+https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-id="USBD2700005KL" tvg-name="*Cine de Oro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20241228T011503SQUARE.png" ,*Cine de Oro
 https://jmp2.uk/stvp-USBD2700005KL
 #EXTINF:-1 group-title="011" tvg-id="*Grjngo 1" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20250527T014622SQUARE.png" ,*Grjngo 1
@@ -111,8 +205,6 @@ http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317157.ts
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317159.ts
 #EXTINF:-1 group-title="011" tvg-id="Yo soy Betty la fea" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg" ,24/7 Yo soy Betty la fea
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16128
-#EXTINF:0 group-title="011" ,ArtFlix
-https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="011" ,c Discovery H&H
 http://38.224.231.47:8000/play/a06s/index.m3u8
 #EXTINF:-1 group-title="011" ,c Discovery Turbo
@@ -169,8 +261,6 @@ https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-v
 https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="011" ,m XITE metal & rock
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?
-#EXTINF:-1 group-title="011" tvg-logo="https://tinyurl.com/Dicimar" ,MARVEL & DC
-https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-id="5ec5761aabe4690007f6e047" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png" ,Pluto TV Star Trek
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" ,Red Bull Tv
@@ -301,14 +391,12 @@ http://38.7.195.44:8000/play/a0c6
 http://201.186.41.99:8001/play/a02i/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,24/7 Películas
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317127.ts
-#EXTINF:-1 group-title="2 ar01" ,AVI Cconcert
-http://38.7.216.102:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="2 ar01" ,AVI Cine
-http://38.7.216.102:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="2 ar01" ,AVI Rewinds
-http://38.7.216.102:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://energeek.cl/wp-content/themes/EnerGeek-Theme-pop/assets/img/logo.png" ,ENERGEEK RETRO
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 group-title="2 ar01" ,Marvel #
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317137.ts
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://cdn.phototourl.com/free/2026-07-21-cc1d4e4d-57e2-4680-ace6-057ce5927cb5.png" ,MARVEL & DC
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01" ,Marvel 1
 http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526363.m3u8
 #EXTINF:-1 group-title="2 ar01" ,Marvel 2
@@ -319,12 +407,6 @@ http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526365.m3u8
 http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526366.m3u8
 #EXTINF:-1 group-title="2 ar01" ,Marvel 5
 http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526367.m3u8
-#EXTINF:-1 group-title="2 ar01" ,MIC-MIRAI
-http://200.60.124.25:8000/play/a0so/index.m3u8
-#EXTINF:-1 group-title="2 ar01" ,MIC-VIBRA SERIES
-http://200.60.124.25:8000/play/a0sr/index.m3u8
-#EXTINF:-1 group-title="2 ar01" ,MIC-WARZONE
-http://200.60.124.25:8000/play/a0st/index.m3u8
 #EXTINF:0 group-title="2 ar01" ,Paramount
 #EXTVLCOPT:network-caching=1000
 #EXTINF:0 group-title="2 ar01" ,Paramount
@@ -337,54 +419,12 @@ http://lamtv.site:8080/27116808/zs2Bbc7Zu5/79165.ts
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01" ,✔️ NITRO
 http://38.210.105.10:8000/play/a09k/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,FX HD
-http://38.190.100.202:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,Golden Edge
-http://38.190.100.202:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,Golden HD
-http://38.190.100.202:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,Golden Premiere 2 HD
-http://38.190.100.202:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,Golden Premiere HD
-http://38.190.100.202:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,HBO Family HD
-http://38.190.100.202:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,HBO Family HD
-http://38.190.100.202:8000/play/a089/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,HBO HD
-http://38.190.100.202:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,HBO HD
-http://38.190.100.202:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,HBO Mundi
-http://38.190.100.202:8000/play/a07q/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,HBO Plus HD
-http://38.190.100.202:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,HBO POP HD
-http://38.190.100.202:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,HBO Signature
-http://38.190.100.202:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,HBO Xtreme HD
-http://38.190.100.202:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,HBO2 HD
-http://38.190.100.202:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,TNT HD
-http://38.190.100.202:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,TNT Series HD
-http://38.190.100.202:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,UNIVERSAL CHANNEL HD
-http://38.190.100.202:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,UNIVERSAL CINEMA ESTE HD
-http://38.190.100.202:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,UNIVERSAL COMEDY HD
-http://38.190.100.202:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,UNIVERSAL CRIME HD
-http://38.190.100.202:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,UNIVERSAL PREMIERE HD
-http://38.190.100.202:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,UNIVERSAL PREMIERE O HD
-http://38.190.100.202:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,UNIVERSAL REALITY HD
-http://38.190.100.202:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/1YYrnKzs/IMG-20260718-WA0049.png" ,PLENITUD TV 2
+https://live20.bozztv.com/giatvplayout7/giatv-212033/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://tinyurl.com/ytawb6ju" ,PLENITUD TV HD 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://tinyurl.com/Restellitv" ,RESTELLI TV
+https://live20.bozztv.com/giatvplayout7/giatv-208744/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,✔️ +MAS
 http://38.210.105.10:8000/play/a09s/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://tinyurl.com/4j9nba94" ,✔️ 34 HD
@@ -411,6 +451,8 @@ https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist_w961062293.m3u8?Monte
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,✔️ Chocho HD
 http://200.229.147.210:9999/play/a00u/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,✔️ Cine Acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://tinyurl.com/Cine35mm" ,✔️ Cine35mm
 https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,✔️ CINEMA AZTECA
@@ -1821,6 +1863,204 @@ http://181.209.38.115:8000/play/a01f/index.m3u8
 http://181.209.38.115:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="ASTRA Argentina 3" ,WARNER
 http://181.209.38.115:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,26TV
+http://138.121.113.175:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,A&E HD
+http://138.121.113.175:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,A24
+http://138.121.113.175:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Adult swim HD
+http://138.121.113.175:8000/play/a08q/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,AM Sports
+http://138.121.113.175:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,AMC
+http://138.121.113.175:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,America TV HD
+http://138.121.113.175:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,AXN HD
+http://138.121.113.175:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Baby TV
+http://138.121.113.175:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,C5N
+http://138.121.113.175:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Canal a
+http://138.121.113.175:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Canal de la Ciudad
+http://138.121.113.175:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Cartoon Network HD
+http://138.121.113.175:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Cine.AR
+http://138.121.113.175:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Cinecanal HD
+http://138.121.113.175:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Cinemax
+http://138.121.113.175:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,ciudad magazine
+http://138.121.113.175:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,CNN en Espa?ol
+http://138.121.113.175:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Comedy Central HD
+http://138.121.113.175:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Cr?nica
+http://138.121.113.175:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,DeporTV
+http://138.121.113.175:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery Channel HD
+http://138.121.113.175:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery H&H HD
+http://138.121.113.175:8000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery Kids
+http://138.121.113.175:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery Science
+http://138.121.113.175:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery Theater HD
+http://138.121.113.175:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery Turbo
+http://138.121.113.175:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery World HD
+http://138.121.113.175:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Disney Channel HD
+http://138.121.113.175:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Disney Junior
+http://138.121.113.175:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,DSports 2 HD
+http://138.121.113.175:8000/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,DSports HD
+http://138.121.113.175:8000/play/a0cj/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,E! Entertainment
+http://138.121.113.175:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,El Canal  de las Estrellas
+http://138.121.113.175:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,El Gourmet
+http://138.121.113.175:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,el nueve HD
+http://138.121.113.175:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,el trece HD
+http://138.121.113.175:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Encuentro
+http://138.121.113.175:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,ESPN 2 HD
+http://138.121.113.175:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,ESPN 3 HD
+http://138.121.113.175:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,ESPN 4 HD
+http://138.121.113.175:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,ESPN HD
+http://138.121.113.175:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,ESPN Premium HD
+http://138.121.113.175:8000/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Europa Europa
+http://138.121.113.175:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Film & Arts HD
+http://138.121.113.175:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Fox Sports 2 HD
+http://138.121.113.175:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Fox Sports 3 HD
+http://138.121.113.175:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Fox Sports HD
+http://138.121.113.175:8000/play/a0au/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,FX HD
+http://138.121.113.175:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Galicia TV
+http://138.121.113.175:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO 2
+http://138.121.113.175:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO Family
+http://138.121.113.175:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO Mundi
+http://138.121.113.175:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO Plus
+http://138.121.113.175:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO POP
+http://138.121.113.175:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO Signature
+http://138.121.113.175:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO Xtreme
+http://138.121.113.175:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,HGTV
+http://138.121.113.175:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,History 2
+http://138.121.113.175:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,HTV
+http://138.121.113.175:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,La Nacion TV
+http://138.121.113.175:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,LAGUNA TV
+http://138.121.113.175:8000/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Lapacho HD
+http://138.121.113.175:8000/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Lifetime
+http://138.121.113.175:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Metro
+http://138.121.113.175:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,MTV
+http://138.121.113.175:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,MTV?00
+http://138.121.113.175:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Nat Geo HD
+http://138.121.113.175:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Nick Jr
+http://138.121.113.175:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Nickelodeon
+http://138.121.113.175:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Pakapaka
+http://138.121.113.175:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Paramount HD
+http://138.121.113.175:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Quiero Musica
+http://138.121.113.175:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,RAI Italia
+http://138.121.113.175:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,RT en Espa?ol
+http://138.121.113.175:8000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Rural
+http://138.121.113.175:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Sextreme
+http://138.121.113.175:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Sony HD
+http://138.121.113.175:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Sony Movies HD
+http://138.121.113.175:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Space HD
+http://138.121.113.175:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Star Channel HD
+http://138.121.113.175:8000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Studio Universal
+http://138.121.113.175:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TCM
+http://138.121.113.175:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,The History Channel HD
+http://138.121.113.175:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TIGO
+http://138.121.113.175:8000/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TLNovelas
+http://138.121.113.175:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TN HD
+http://138.121.113.175:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TNT
+http://138.121.113.175:8000/play/a09i/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TNT Novelas HD
+http://138.121.113.175:8000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TNT Series HD
+http://138.121.113.175:8000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TNT Sports HD
+http://138.121.113.175:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TV Publica HD
+http://138.121.113.175:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TVE
+http://138.121.113.175:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,TyC Sports HD
+http://138.121.113.175:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,UCL
+http://138.121.113.175:8000/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Universal HD
+http://138.121.113.175:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,USA Network
+http://138.121.113.175:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Volver
+http://138.121.113.175:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="ASTRA Argentina 4" ,Warner Channel HD
+http://138.121.113.175:8000/play/a03t/index.m3u8
 #EXTINF:0 group-title="Canela0" ,Canela (Mexico)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatvrewardedtv-rewardedtv/playlist.m3u8
 #EXTINF:0 group-title="Canela0" ,Canela Cinema (Mexico)
@@ -2241,6 +2481,8 @@ http://200.37.201.98:8000/play/a0c7/index.m3u8
 http://200.37.201.98:8000/play/a0cn/index.m3u8
 #EXTINF:-1 group-title="z backup" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,RetroPLUS
 https://lbgo.bozztv.com/ssh101/ssh101/liveretroplustv/playlist.m3u8
+#EXTINF:-1 group-title="z backup" tvg-logo="https://tinyurl.com/Postermax" ,SPIDERMAN
+https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 #EXTINF:-1 group-title="z backup" ,Warner TV HD
 http://38.190.100.202:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="z backup" ,WEST
@@ -2271,6 +2513,8 @@ http://200.115.120.1:8000/play/ca95/index.m3u8
 http://200.37.201.35:8000/play/a0cl/index.m3u8
 #EXTINF:-1 group-title="z backup" ,x Venus
 http://38.190.100.202:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="z backup" tvg-logo="https://tinyurl.com/Postermax" ,XMEN
+https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
 #EXTINF:-1 group-title="z backup" ,Xx BRAZZERS TV
 http://200.115.120.1:8000/play/ca98/index.m3u8
 #EXTINF:-1 group-title="z backup" ,Xx HUSTLER TV

@@ -55,12 +55,18 @@ http://38.252.213.209:8000/play/a007
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="0 Cable" tvg-logo="https://media.canalnet.tv/2024/05/CYaZv3N-1157x720.jpg" ,Caras TV
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1 group-title="0 Cable" ,CINECANAL
+http://181.78.8.199:8000/play/a094/index.m3u8
 #EXTINF:-1 group-title="0 Cable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,Cinecanal
 http://190.14.10.19:16000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,CINEMAX
+http://190.60.48.151:8010/play/a0bk/index.m3u8
 #EXTINF:-1 group-title="0 Cable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" ,Cinemax
 http://38.252.213.209:8000/play/a0bc
 #EXTINF:-1 group-title="0 Cable" tvg-logo="https://e7.pngegg.com/pngimages/507/10/png-clipart-cnn-logo-graphics-hand-painted-decoration-television-text.png" ,CNN
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="0 Cable" ,CNN ES
+http://181.78.8.199:8000/play/a08a/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,CNN Español
 http://181.65.155.51:8000/play/a0o8/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,CNN Español
@@ -99,6 +105,8 @@ http://38.190.100.202:8000/play/a029/index.m3u8
 http://38.190.100.202:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,Golden HD
 http://38.190.100.202:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,GOLDEN PREMIER
+http://190.60.32.178:8178/play/a097/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,Golden Premiere 2 HD
 http://38.190.100.202:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,GOLDEN PREMIERE 2 HD
@@ -107,6 +115,8 @@ http://38.252.213.209:8000/play/a08r
 http://38.190.100.202:8000/play/a046/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,h TV
 http://38.224.175.2:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBO
+http://190.217.66.92:8000/play/a0pt/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,HBO 2
 http://181.65.155.51:8000/play/a0h9/index.m3u8
 #EXTINF:0 group-title="0 Cable" tvg-id="HBO 2.ar" tvg-name="HBO 2" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" ,HBO 2 *
@@ -137,8 +147,18 @@ http://38.252.213.209:8000/play/a00s
 http://38.224.231.47:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,HBO Xtreme HD
 http://38.252.213.209:8000/play/a00r
+#EXTINF:-1 group-title="0 Cable" ,HBO+
+http://190.61.101.11:7050/play/a050/index.m3u8?hls
 #EXTINF:-1 group-title="0 Cable" ,HBO+ HD
 http://38.252.213.209:8000/play/a00n
+#EXTINF:-1 group-title="0 Cable" ,HBO2
+http://200.229.147.210:9999/play/a00z/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HBOX
+http://45.228.233.60:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,HISTORY
+http://181.78.84.78:8910/play/a01i/index.m3u8?hls
+#EXTINF:-1 group-title="0 Cable" ,HISTORY 2
+http://190.108.83.69:8000/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,History 2
 http://38.252.213.209:8000/play/a008
 #EXTINF:-1 group-title="0 Cable" ,History HD
@@ -155,8 +175,12 @@ https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 http://38.252.213.209:8000/play/a00c
 #EXTINF:-1 group-title="0 Cable" ,National Geographic
 http://38.252.213.209:8000/play/a005
+#EXTINF:-1 group-title="0 Cable" ,PARAMOUNT
+http://181.224.200.5:2277/play/a0df/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,Paramount HD
 http://181.224.200.5:2277/play/a0df/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,RCN
+http://181.78.82.130:8000/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="0 Cable" tvg-id="Canal7Salta.ar@SD" tvg-logo="https://i.imgur.com/CudG6sl.png" ,Salta Canal 7 (1080p)
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 group-title="0 Cable" tvg-logo="https://tinyurl.com/3xxchupk" ,Salta Canal Multivisión
@@ -177,6 +201,8 @@ https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 #EXTINF:-1 group-title="0 Cable" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" ,Space
 http://179.60.51.134:8888/SPACE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="0 Cable" ,SPACE
+http://181.78.8.199:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,Space HD
 http://38.224.175.2:8000/play/a0u2/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,Star Channel
@@ -185,6 +211,8 @@ http://38.252.213.209:8000/play/a08w
 http://181.65.155.51:8000/play/a0h7/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,TLC HD
 http://38.252.213.209:8000/play/a00d
+#EXTINF:-1 group-title="0 Cable" ,TNT
+http://181.78.8.199:8000/play/a097/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,TNT HD
 http://38.252.213.209:8000/play/a00m
 #EXTINF:-1 group-title="0 Cable" ,TNT Series HD
@@ -205,6 +233,8 @@ http://38.190.100.202:8000/play/a04p/index.m3u8
 http://38.190.100.202:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,UNIVERSAL Reality HD
 http://38.190.100.202:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,WARNER
+http://190.60.48.151:8010/play/a03w/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,Warner Channel
 http://200.37.201.35:8000/play/a0co/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,Warner HD
@@ -317,6 +347,8 @@ http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317146.ts
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317151.ts
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory #
 http://zonacero.lat:8080/bkVXbnJCdmZpbVVGcEVBbmVsODZydHdBT0JtZDNncm41RTBoMXlTK0dWVT0
+#EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory &
+http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/35854.ts
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory 1-6
 http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526563.m3u8
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory 7-12
@@ -349,6 +381,10 @@ http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317157.ts
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317159.ts
 #EXTINF:-1 group-title="011" tvg-id="Yo soy Betty la fea" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg" ,24/7 Yo soy Betty la fea
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16128
+#EXTINF:-1 group-title="011" ,ALIEN
+http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/42064.ts
+#EXTINF:-1 group-title="011" ,Avengers
+http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/13433.ts
 #EXTINF:-1 group-title="011" ,c Discovery H&H
 http://38.224.231.47:8000/play/a06s/index.m3u8
 #EXTINF:-1 group-title="011" ,c Discovery Turbo
@@ -371,6 +407,8 @@ https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 group-title="011" ,ETC TV
 http://190.110.96.238:8000/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="011" ,Juego de tronos
+http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/35840.ts
 #EXTINF:-1 group-title="011" tvg-logo="http://127.0.0.1/" ,m ASPEN CLASSIC
 https://copaco.desdeparaguay.net:443/aspentv/aspentv/playlist.m3u8
 #EXTINF:-1 group-title="011" ,m Exa TV
@@ -421,6 +459,8 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="011" tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" ,Retro Plus TV Señal 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:-1 group-title="011" ,Spartacus
+http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/17380.ts
 #EXTINF:-1 group-title="011" ,Stingray 70s
 https://d30hccj9v28bt6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jp7qdac3e1wzj/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="011" ,Stingray 80s

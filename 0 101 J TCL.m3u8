@@ -37,6 +37,8 @@ http://liketv.pro:80/diegos2024/Coly2413/244
 http://179.60.51.134:8888/SYFY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="0 Cable" ,A&E HD
 http://38.252.213.209:8000/play/a006
+#EXTINF:-1 group-title="0 Cable" tvg-name="A24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQflil18QOJFwvAk5RA_ihMoJb2HMx68Ta0A&s" ,A24 HD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4bkVYUXg1SnBZSE5vRGZXdmRLKytMNUd6dGY4M3cyUWNMM0l6c2FUbUxXTw
 #EXTINF:-1 group-title="0 Cable" tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png" ,AMC en Español
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="0 Cable" ,AMC HD
@@ -47,10 +49,22 @@ http://38.252.213.209:8000/play/a0ao
 http://38.224.175.2:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,AMC Series
 http://38.252.213.209:8000/play/a0an
+#EXTINF:-1 group-title="0 Cable" tvg-name="AMERICA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png" ,AMERICA FHD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4aE5JNkdmQzhSSVhET2pWaFp4RGUyT2VQek81UVhzNUdxTkRqVWZINVliSw
+#EXTINF:-1 group-title="0 Cable" tvg-name="AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png" ,AMERICA TV HD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4aE5JNkdmQzhSSVhET2pWaFp4RGUyUFdUVzg3MXlCcWhLcUd5aWRrbWo4cA
 #EXTINF:-1 group-title="0 Cable" ,Animal Planet
 http://38.252.213.209:8000/play/a00g
 #EXTINF:-1 group-title="0 Cable" ,AXN HD
 http://38.252.213.209:8000/play/a007
+#EXTINF:-1 group-title="0 Cable" tvg-name="C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,C5N HD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4ck05WEhQaDFiMUlzWDNJaWZpM2U4bSttaVpnQXQxNWkvUi9sWkxNc3JpZw
+#EXTINF:-1 group-title="0 Cable" tvg-name="Canal 26 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" ,Canal 26 FHD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4aE5JNkdmQzhSSVhET2pWaFp4RGUyTjY0OUpYRHFxbFFOWTNYUmZ0OWg4Lw
+#EXTINF:-1 group-title="0 Cable" tvg-name="Canal 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" ,Canal 26 HD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4aE5JNkdmQzhSSVhET2pWaFp4RGUyT2RPenM5R1gwckZnbjMvSFFhMnpWeA
+#EXTINF:-1 group-title="0 Cable" tvg-name="CANAL 4" tvg-logo="http://127.0.0.1/" ,CANAL 4
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4ck05WEhQaDFiMUlzWDNJaWZpM2U4bnFxcFFFV0RsL3ljYldxUjJGMXpOag
 #EXTINF:-1 group-title="0 Cable" tvg-name="Canal E" tvg-logo="https://files.catbox.moe/tacipf.png" ,Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="0 Cable" tvg-logo="https://media.canalnet.tv/2024/05/CYaZv3N-1157x720.jpg" ,Caras TV
@@ -93,6 +107,14 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 #EXTINF:-1 group-title="0 Cable" ,El Gourmet HD
 http://38.210.105.10:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-name="EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" ,EL NUEVE FHD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ2SXVkMkFVZXBEVXJkWklZWGs1MVpjNQ
+#EXTINF:-1 group-title="0 Cable" tvg-name="EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" ,EL NUEVE HD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ2S21wNlNDNVdVelkzclB6MEY1M1ZYLw
+#EXTINF:-1 group-title="0 Cable" tvg-name="EL TRECE" tvg-logo="http://flx.lat:8080/images/fa016b4219f079b9bba349fd30ed9351.jpg" ,EL TRECE
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ2TFpPNEVBcWUvRy8yUlJxQVdDaUc5eQ
+#EXTINF:-1 group-title="0 Cable" tvg-name="ENCUENTRO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXokMAG55aOfeG2q3mJqp6W6IW5nfBIVzs7Q&s" ,ENCUENTRO HD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4bkVYUXg1SnBZSE5vRGZXdmRLKytMN0RmcEt4Uk5nSFIxYlF0ZVI0UWpSeA
 #EXTINF:-1 group-title="0 Cable" tvg-id="321179" tvg-name="Eurochannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Qppj0AtJDCzjcBYlOY5nWD9RR2Kpx_9Zxg&s" ,Eurochannel
 http://45.239.31.254:8000/play/a00f/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="0 Cable" ,Europa Europa
@@ -169,6 +191,8 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live10/playlist.m3u8
 #EXTINF:-1 group-title="0 Cable" tvg-id="canal7.ar" tvg-name="Jujuy Canal 7" tvg-logo="https://i.imgur.com/q6BQ5YO.png" ,Jujuy Canal 7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w279385552_b1146880.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-name="LA NACION HD" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/05/la-nacion-vector-logo.png" ,LA NACION HD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ2TFUyYmdLQ2lqbVVkU2Mxb2Q5My9Rbw
 #EXTINF:-1 group-title="0 Cable" tvg-logo="https://i.ibb.co/XrmgkZX4/file-0000000001f8720eb375fc22eaa3f385.png" ,LA TV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 #EXTINF:-1 group-title="0 Cable" ,Lifetime
@@ -209,8 +233,12 @@ http://38.224.175.2:8000/play/a0u2/index.m3u8
 http://38.252.213.209:8000/play/a08w
 #EXTINF:-1 group-title="0 Cable" ,TCM
 http://181.65.155.51:8000/play/a0h7/index.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-name="TELEFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,TELEFE SD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ2SjhjdEJWT3grTFdXdldyT0JCMkw4cg
 #EXTINF:-1 group-title="0 Cable" ,TLC HD
 http://38.252.213.209:8000/play/a00d
+#EXTINF:-1 group-title="0 Cable" tvg-name="TN NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" ,TN NOTICIAS HD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4bkVYUXg1SnBZSE5vRGZXdmRLKytMNnJ5WkNIdnNHdTR5bDBoSHpXUm1tNQ
 #EXTINF:-1 group-title="0 Cable" ,TNT
 http://181.78.8.199:8000/play/a097/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,TNT HD
@@ -219,6 +247,10 @@ http://38.252.213.209:8000/play/a00m
 http://38.190.100.202:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,TNT Series HD
 http://38.252.213.209:8000/play/a00q
+#EXTINF:-1 group-title="0 Cable" tvg-name="TRECE  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,TRECE  FHD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ2S1pZU1hNS2VqbWFOeVBhVUswRmFlKw
+#EXTINF:-1 group-title="0 Cable" tvg-name="TV PUBLICA  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" ,TV PUBLICA  HD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4bkVYUXg1SnBZSE5vRGZXdmRLKytMNVFtcVpFUTAxb2JVUjVib3d2a1J3Rg
 #EXTINF:-1 group-title="0 Cable" ,UNIVERSAL Channel HD
 http://38.190.100.202:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,UNIVERSAL Cinema Este HD
@@ -233,6 +265,8 @@ http://38.190.100.202:8000/play/a04p/index.m3u8
 http://38.190.100.202:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,UNIVERSAL Reality HD
 http://38.190.100.202:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="0 Cable" tvg-name="VOLVER HD" tvg-logo="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo-thumbnail.png" ,VOLVER HD
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ2SWV2TkZsNUhJcHNTK0tMUzljb3I3cw
 #EXTINF:-1 group-title="0 Cable" ,WARNER
 http://190.60.48.151:8010/play/a03w/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,Warner Channel

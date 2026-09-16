@@ -609,6 +609,24 @@ https://live20.bozztv.com/giatvplayout7/giatv-208138/tracks-v1a1/mono.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-id="* ENT Family" tvg-logo="https://cdn.phototourl.com/free/2026-04-19-6f57f921-9009-4f58-a0a5-d3ab6f07b80d.png" ,* ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://www.fmh.la/img/logo_family.png" ,* FMH  Family HD
+http://190.110.96.238:8000/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://www.fmh.la/img/logo_kids.png" ,* FMH  Kids HD
+http://190.110.96.238:8000/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://www.fmh.la/img/logo_movies.png" ,* FMH  Movies HD
+http://190.110.96.238:8000/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_animotion2.png" ,* FMH Animotion
+http://190.110.96.238:8000/play/a0co/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_atlas.png" ,* FMH Atlas
+http://190.110.96.238:8000/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_farwest.png" ,* FMH Farwest
+http://190.110.96.238:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_flashback.png" ,* FMH Flashback
+http://190.110.96.238:8000/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_kizzi.png" ,* FMH Kiizi
+http://190.110.96.238:8000/play/a0cz/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_rewind.png" ,* FMH Rewind
+http://190.110.96.238:8000/play/a0cw/index.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://tinyurl.com/Max2fucsia" ,* MAX 2
 https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://tinyurl.com/Maxcinefucsia" ,* MAX Cine
@@ -621,16 +639,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://cdn.phototourl.com/free/2026-08-20-915c867d-c967-4e53-aaff-7be608c19bcb.png" ,* MAX TV
 https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374_output_0.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://cdn.phototourl.com/free/2026-04-19-5fe2ce6c-9242-4b39-b719-547e682cd68c.png" ,+CINE
-http://190.102.242.130:25461/live/tpowercine/12345678/31.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://cdn.phototourl.com/free/2026-04-19-220156c8-2e18-4706-a57b-3b8d691d71d4.png" ,+CINE CLASSIC
-http://190.102.242.130:25461/live/cineclasiipowe/123456/143.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://cdn.phototourl.com/free/2026-04-19-1558b1a7-6e3f-40b1-ada0-f106ff98c48b.png" ,+CINE FAMILY
-http://190.102.242.130:25461/live/familypower/1234567/149.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://sitelco.tv/img/canales/logos/70.webp" ,+CINE TERROR
-http://190.102.242.130:25461/live/terrorpower/123456789/99.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://tinyurl.com/Cinewar1" ,+CINE WAR
-http://190.102.242.130:25461/live/cinrwarpower/123456789/190.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" ,+ESTRENO 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" ,+ESTRENO 2
@@ -657,24 +665,6 @@ http://181.78.8.199:8000/play/a0bt/index.m3u8
 http://190.110.96.238:8000/play/a0bu/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,-# OLD Music
 http://190.110.96.238:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://www.fmh.la/img/logo_family.png" ,-* FMH  Family HD
-http://38.199.67.246:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://www.fmh.la/img/logo_kids.png" ,-* FMH  Kids HD
-http://38.199.67.246:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://www.fmh.la/img/logo_movies.png" ,-* FMH  Movies HD
-http://38.199.67.246:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_animotion2.png" ,-* FMH Animotion
-http://38.199.67.246:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_atlas.png" ,-* FMH Atlas
-http://38.199.67.246:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_farwest.png" ,-* FMH Farwest
-http://38.199.67.246:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_flashback.png" ,-* FMH Flashback
-http://38.199.67.246:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_kizzi.png" ,-* FMH Kiizi
-http://38.199.67.246:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_rewind.png" ,-* FMH Rewind
-http://38.199.67.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://sitelco.tv/img/canales/logos/60.webp" ,-* MX Clasicc
 http://190.110.96.238:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="2 ar01" ,-* MX Drama
@@ -725,38 +715,6 @@ http://38.199.67.246:8000/play/a00q/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01" ,✔️ NITRO
 http://38.210.105.10:8000/play/a09k/index.m3u8
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 1" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 01
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469968
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 2" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 02
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469969
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 3" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 03
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469970
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 4" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 04
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469971
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 5" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 05
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469972
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 6" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 06
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469973
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 7" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 07
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469974
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 8" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 08
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469975
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 9" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 09
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469976
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 10" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 10
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469977
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 11" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 11
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469978
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 12" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 12
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469979
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 13" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 13
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469980
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 14" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 14
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469981
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 15" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 15
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469982
-#EXTINF:-1 group-title="2 ar01.1 24/7 CINEMA" tvg-name="Cinema 16" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 16
-http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469983
 #EXTINF:-1 group-title="2 ar01.2" ,40-USA SD
 http://190.110.96.238:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="2 ar01.2" ,Alterna TV (720p)
@@ -1789,30 +1747,72 @@ https://stmv2.voxtvhd.com.br/xphereone/xphereone/playlist.m3u8
 https://stmv2.voxtvhd.com.br/xpherescience/xpherescience/playlist.m3u8
 #EXTINF:-1 group-title="cultural" ,Xphere Wild
 https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
-#EXTINF:-1 group-title="z" tvg-logo="https://www.fmh.la/img/logo_family.png" ,* FMH  Family HD
-http://190.110.96.238:8000/play/a0cv/index.m3u8
-#EXTINF:-1 group-title="z" tvg-logo="https://www.fmh.la/img/logo_kids.png" ,* FMH  Kids HD
-http://190.110.96.238:8000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="z" tvg-logo="https://www.fmh.la/img/logo_movies.png" ,* FMH  Movies HD
-http://190.110.96.238:8000/play/a0cu/index.m3u8
-#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_animotion2.png" ,* FMH Animotion
-http://190.110.96.238:8000/play/a0co/index.m3u8
-#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_atlas.png" ,* FMH Atlas
-http://190.110.96.238:8000/play/a0d1/index.m3u8
-#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_farwest.png" ,* FMH Farwest
-http://190.110.96.238:8000/play/a0ct/index.m3u8
-#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_flashback.png" ,* FMH Flashback
-http://190.110.96.238:8000/play/a0i5/index.m3u8
-#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_kizzi.png" ,* FMH Kiizi
-http://190.110.96.238:8000/play/a0cz/index.m3u8
-#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_rewind.png" ,* FMH Rewind
-http://190.110.96.238:8000/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://cdn.phototourl.com/free/2026-04-19-5fe2ce6c-9242-4b39-b719-547e682cd68c.png" ,+CINE
+http://190.102.242.130:25461/live/tpowercine/12345678/31.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://cdn.phototourl.com/free/2026-04-19-220156c8-2e18-4706-a57b-3b8d691d71d4.png" ,+CINE CLASSIC
+http://190.102.242.130:25461/live/cineclasiipowe/123456/143.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://cdn.phototourl.com/free/2026-04-19-1558b1a7-6e3f-40b1-ada0-f106ff98c48b.png" ,+CINE FAMILY
+http://190.102.242.130:25461/live/familypower/1234567/149.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://sitelco.tv/img/canales/logos/70.webp" ,+CINE TERROR
+http://190.102.242.130:25461/live/terrorpower/123456789/99.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://tinyurl.com/Cinewar1" ,+CINE WAR
+http://190.102.242.130:25461/live/cinrwarpower/123456789/190.m3u8
 #EXTINF:-1 group-title="z" ,-# MX Drama
 http://190.110.96.238:8000/play/a0bn/index.m3u8
 #EXTINF:-1 group-title="z" tvg-logo="https://sitelco.tv/img/canales/logos/63.webp" ,-# MX Prime
 http://190.110.96.238:8000/play/a0cx/index.m3u8
 #EXTINF:-1 group-title="z" ,-# MX Series
 http://190.110.96.238:8000/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://www.fmh.la/img/logo_family.png" ,-* FMH  Family HD
+http://38.199.67.246:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://www.fmh.la/img/logo_kids.png" ,-* FMH  Kids HD
+http://38.199.67.246:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://www.fmh.la/img/logo_movies.png" ,-* FMH  Movies HD
+http://38.199.67.246:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_animotion2.png" ,-* FMH Animotion
+http://38.199.67.246:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_atlas.png" ,-* FMH Atlas
+http://38.199.67.246:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_farwest.png" ,-* FMH Farwest
+http://38.199.67.246:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_flashback.png" ,-* FMH Flashback
+http://38.199.67.246:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_kizzi.png" ,-* FMH Kiizi
+http://38.199.67.246:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://fmh.la/img/logo_rewind.png" ,-* FMH Rewind
+http://38.199.67.246:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="z" tvg-name="Cinema 1" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 01
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469968
+#EXTINF:-1 group-title="z" tvg-name="Cinema 2" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 02
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469969
+#EXTINF:-1 group-title="z" tvg-name="Cinema 3" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 03
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469970
+#EXTINF:-1 group-title="z" tvg-name="Cinema 4" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 04
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469971
+#EXTINF:-1 group-title="z" tvg-name="Cinema 5" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 05
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469972
+#EXTINF:-1 group-title="z" tvg-name="Cinema 6" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 06
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469973
+#EXTINF:-1 group-title="z" tvg-name="Cinema 7" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 07
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469974
+#EXTINF:-1 group-title="z" tvg-name="Cinema 8" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 08
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469975
+#EXTINF:-1 group-title="z" tvg-name="Cinema 9" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 09
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469976
+#EXTINF:-1 group-title="z" tvg-name="Cinema 10" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 10
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469977
+#EXTINF:-1 group-title="z" tvg-name="Cinema 11" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 11
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469978
+#EXTINF:-1 group-title="z" tvg-name="Cinema 12" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 12
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469979
+#EXTINF:-1 group-title="z" tvg-name="Cinema 13" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 13
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469980
+#EXTINF:-1 group-title="z" tvg-name="Cinema 14" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 14
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469981
+#EXTINF:-1 group-title="z" tvg-name="Cinema 15" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 15
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469982
+#EXTINF:-1 group-title="z" tvg-name="Cinema 16" tvg-logo="https://png.pngtree.com/element_our/png/20181119/cinema-vector-illustration-png_242108.jpg" ,Cinema 16
+http://iptvpremium.ink:55577/Maniatados84/Maniatados84/469983
 #EXTINF:-1 group-title="z" tvg-logo="https://cdn.phototourl.com/free/2026-07-21-cc1d4e4d-57e2-4680-ace6-057ce5927cb5.png" ,Marvel -24/7
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 group-title="z" ,MEMORIAS

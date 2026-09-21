@@ -295,6 +295,8 @@ http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ
 http://190.110.96.238:8000/play/a0fk/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,WARNER
 http://190.60.48.151:8010/play/a03w/index.m3u8
+#EXTINF:-1 group-title="0 Cable" ,WARNER
+http://redworld.pro:8880/@eder@zamora/axRLmPZgKyeA/414486
 #EXTINF:-1 group-title="0 Cable" ,Warner Channel
 http://200.37.201.35:8000/play/a0co/index.m3u8
 #EXTINF:-1 group-title="0 Cable" ,Warner HD
@@ -367,6 +369,8 @@ http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/316942.ts
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281224
 #EXTINF:-1 group-title="011" ,24/7 Game of Thrones #
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/35840.ts
+#EXTINF:-1 group-title="011" ,24/7 Game of Thrones 2
+http://redworld.pro:8880/@eder@zamora/axRLmPZgKyeA/526567
 #EXTINF:-1 group-title="011" ,24/7 Héroes
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317153.ts
 #EXTINF:-1 group-title="011" ,24/7 Jim Carrey
@@ -403,6 +407,8 @@ http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317146.ts
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/17380.ts
 #EXTINF:-1 group-title="011" ,24/7 Spider-Man
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317151.ts
+#EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory !
+http://redworld.pro:8880/@eder@zamora/axRLmPZgKyeA/526564
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory #
 http://zonacero.lat:8080/bkVXbnJCdmZpbVVGcEVBbmVsODZydHdBT0JtZDNncm41RTBoMXlTK0dWVT0
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory &
@@ -439,10 +445,18 @@ http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317159.ts
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16128
 #EXTINF:-1 group-title="011" ,_ Alien
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/42064.ts
+#EXTINF:-1 group-title="011" ,_ Alien 1
+http://mundocorp.pro:55577/live/Carminats48/Carminats48/252164.ts
+#EXTINF:-1 group-title="011" ,_ Alien 2
+http://1000digital.pw:8080/live/cuenta289/Q6XW6xMSw2/364876.ts
 #EXTINF:-1 group-title="011" ,_ Depredador
 http://liontv.es:8080/RobertoArce/pZbSDnRqam/1383572
+#EXTINF:-1 group-title="011" ,_ Depredador 1
+http://1000digital.pw:8080/live/cuenta289/Q6XW6xMSw2/364883.ts
 #EXTINF:-1 group-title="011" tvg-logo="https://tinyurl.com/Postermax" ,_ Spiderman
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
+#EXTINF:-1 group-title="011" ,_ X Men
+http://mundocorp.pro:55577/live/Carminats48/Carminats48/258053.ts
 #EXTINF:-1 group-title="011" tvg-logo="https://tinyurl.com/Postermax" ,_ Xmen
 https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
 #EXTINF:-1 group-title="011" ,c Discovery H&H
@@ -681,6 +695,8 @@ http://38.137.192.250:8000/play/okok
 http://38.137.192.250:8000/play/cvmseries
 #EXTINF:-1 group-title="2 ar01" ,Marvel
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/13433.ts
+#EXTINF:-1 group-title="2 ar01" ,Marvel "
+http://1000digital.pw:8080/live/cuenta289/Q6XW6xMSw2/364877.ts
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://cdn.phototourl.com/free/2026-07-21-cc1d4e4d-57e2-4680-ace6-057ce5927cb5.png" ,Marvel #
 http://mundo2.vip:80/live/7B9D819DD8D2/7B9D819DD8D/317137.ts
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://cdn.phototourl.com/free/2026-07-21-cc1d4e4d-57e2-4680-ace6-057ce5927cb5.png" ,MARVEL & DC
@@ -1467,204 +1483,6 @@ http://181.209.38.115:8000/play/a01f/index.m3u8
 http://181.209.38.115:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="ASTRA Argentina 3" ,WARNER
 http://181.209.38.115:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,26TV
-http://138.121.113.175:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,A&E HD
-http://138.121.113.175:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,A24
-http://138.121.113.175:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Adult swim HD
-http://138.121.113.175:8000/play/a08q/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,AM Sports
-http://138.121.113.175:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,AMC
-http://138.121.113.175:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,America TV HD
-http://138.121.113.175:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,AXN HD
-http://138.121.113.175:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Baby TV
-http://138.121.113.175:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,C5N
-http://138.121.113.175:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Canal a
-http://138.121.113.175:8000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Canal de la Ciudad
-http://138.121.113.175:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Cartoon Network HD
-http://138.121.113.175:8000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Cine.AR
-http://138.121.113.175:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Cinecanal HD
-http://138.121.113.175:8000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Cinemax
-http://138.121.113.175:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,ciudad magazine
-http://138.121.113.175:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,CNN en Espa?ol
-http://138.121.113.175:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Comedy Central HD
-http://138.121.113.175:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Cr?nica
-http://138.121.113.175:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,DeporTV
-http://138.121.113.175:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery Channel HD
-http://138.121.113.175:8000/play/a08t/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery H&H HD
-http://138.121.113.175:8000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery Kids
-http://138.121.113.175:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery Science
-http://138.121.113.175:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery Theater HD
-http://138.121.113.175:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery Turbo
-http://138.121.113.175:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Discovery World HD
-http://138.121.113.175:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Disney Channel HD
-http://138.121.113.175:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Disney Junior
-http://138.121.113.175:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,DSports 2 HD
-http://138.121.113.175:8000/play/a0ca/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,DSports HD
-http://138.121.113.175:8000/play/a0cj/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,E! Entertainment
-http://138.121.113.175:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,El Canal  de las Estrellas
-http://138.121.113.175:8000/play/a089/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,El Gourmet
-http://138.121.113.175:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,el nueve HD
-http://138.121.113.175:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,el trece HD
-http://138.121.113.175:8000/play/a08l/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Encuentro
-http://138.121.113.175:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,ESPN 2 HD
-http://138.121.113.175:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,ESPN 3 HD
-http://138.121.113.175:8000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,ESPN 4 HD
-http://138.121.113.175:8000/play/a08h/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,ESPN HD
-http://138.121.113.175:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,ESPN Premium HD
-http://138.121.113.175:8000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Europa Europa
-http://138.121.113.175:8000/play/a085/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Film & Arts HD
-http://138.121.113.175:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Fox Sports 2 HD
-http://138.121.113.175:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Fox Sports 3 HD
-http://138.121.113.175:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Fox Sports HD
-http://138.121.113.175:8000/play/a0au/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,FX HD
-http://138.121.113.175:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Galicia TV
-http://138.121.113.175:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO 2
-http://138.121.113.175:8000/play/a080/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO Family
-http://138.121.113.175:8000/play/a081/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO Mundi
-http://138.121.113.175:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO Plus
-http://138.121.113.175:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO POP
-http://138.121.113.175:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO Signature
-http://138.121.113.175:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,HBO Xtreme
-http://138.121.113.175:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,HGTV
-http://138.121.113.175:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,History 2
-http://138.121.113.175:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,HTV
-http://138.121.113.175:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,La Nacion TV
-http://138.121.113.175:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,LAGUNA TV
-http://138.121.113.175:8000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Lapacho HD
-http://138.121.113.175:8000/play/a0cr/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Lifetime
-http://138.121.113.175:8000/play/a07x/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Metro
-http://138.121.113.175:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,MTV
-http://138.121.113.175:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,MTV?00
-http://138.121.113.175:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Nat Geo HD
-http://138.121.113.175:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Nick Jr
-http://138.121.113.175:8000/play/a084/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Nickelodeon
-http://138.121.113.175:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Pakapaka
-http://138.121.113.175:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Paramount HD
-http://138.121.113.175:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Quiero Musica
-http://138.121.113.175:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,RAI Italia
-http://138.121.113.175:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,RT en Espa?ol
-http://138.121.113.175:8000/play/a07p/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Rural
-http://138.121.113.175:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Sextreme
-http://138.121.113.175:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Sony HD
-http://138.121.113.175:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Sony Movies HD
-http://138.121.113.175:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Space HD
-http://138.121.113.175:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Star Channel HD
-http://138.121.113.175:8000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Studio Universal
-http://138.121.113.175:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TCM
-http://138.121.113.175:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,The History Channel HD
-http://138.121.113.175:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TIGO
-http://138.121.113.175:8000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TLNovelas
-http://138.121.113.175:8000/play/a08a/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TN HD
-http://138.121.113.175:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TNT
-http://138.121.113.175:8000/play/a09i/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TNT Novelas HD
-http://138.121.113.175:8000/play/a08r/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TNT Series HD
-http://138.121.113.175:8000/play/a08p/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TNT Sports HD
-http://138.121.113.175:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TV Publica HD
-http://138.121.113.175:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TVE
-http://138.121.113.175:8000/play/a08c/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,TyC Sports HD
-http://138.121.113.175:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,UCL
-http://138.121.113.175:8000/play/a0bu/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Universal HD
-http://138.121.113.175:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,USA Network
-http://138.121.113.175:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Volver
-http://138.121.113.175:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 4" ,Warner Channel HD
-http://138.121.113.175:8000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="cultural" ,-Discovery CHANNEL
 http://190.102.247.126:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="cultural" ,-Discovery H&H

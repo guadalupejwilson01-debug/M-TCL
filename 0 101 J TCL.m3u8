@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 group-title="011" tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png" ,*ArtFlix
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="011" tvg-name="CINE: ORO" ,*Cine Oro
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74607
 #EXTINF:-1 group-title="011" tvg-id="*Grjngo 1" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20250527T014622SQUARE.png" ,*Grjngo 1
 https://amogo-networx-grjngopelculasdeloeste-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-id="*Grjngo 2" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" ,*Grjngo 2
@@ -8,7 +10,7 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8
 #EXTINF:-1 group-title="011" tvg-id="*Grjngo 3" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20251028T011352SQUARE.png" ,*Grjngo 3
 https://jmp2.uk/stvp-ESBC2700002LO
 #EXTINF:-1 group-title="011" tvg-id="6385e82900ab2e000768a058" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" ,*Western 1
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6385e82900ab2e000768a058/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQ0ODJmOGViLTczMjgtNDIxMi1iMmNjLTZmYTE0NGJiZTQ1OCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhM2Y3ZGQyZC1jN2VlLTExZjEtOTMzYy03ZWJhMThiZjYwZDYiLCJjbGllbnRJUCI6Ijg4LjI2LjI0MS4yNDgiLCJjaXR5IjoiRWl2aXNzYSIsInBvc3RhbENvZGUiOiIwNzgwMCIsImNvdW50cnkiOiJFUyIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiRVMiLCJkZXZpY2VMYXQiOjM4LjkwOTk5OTg0NzQxMjExLCJkZXZpY2VMb24iOjEuNDE5OTk5OTU3MDg0NjU1OCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJpdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTIyLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4wLjAtMTExYjJiOWRjMDBiZDBiZWE5MDMwYjMwNjYyMTU5ZWQ5ZTdjOGJjNiIsImNsaWVudElEIjoiMWNlNzY5MzUtNjIzNy00MzgzLWFiNzUtNmU2NTU1OTU3ZDdiIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMWNlNzY5MzUtNjIzNy00MzgzLWFiNzUtNmU2NTU1OTU3ZDdiIiwiZndWY0lEMkNvcHBhIjoiMWNlNzY5MzUtNjIzNy00MzgzLWFiNzUtNmU2NTU1OTU3ZDdiIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIxY2U3NjkzNS02MjM3LTQzODMtYWI3NS02ZTY1NTU5NTdkN2IiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDEzLDEwMDE2LDEwMDIwLDEwMDIxLDEwMDIzLDEwMDAwLDEwMDE0LDEwMDE1LDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkxOTk2MzE5MjI3LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6TVdObE56WTVNelV0TmpJek55MDBNemd6TFdGaU56VXRObVUyTlRVMU9UVTNaRGRpIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjA4MjcxOSwiaWF0IjoxNzkxOTk2MzE5LCJqdGkiOiJjZDA0OTRhYy1iNTkwLTQ3MGEtODkyNy1mMDQ0MzAxMWUwZjUifQ.aginRBDcUijimr49-bm5so9lyaeb-1AeHcUla1f_DyU&masterJWTPassthrough=true
+https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 #EXTINF:-1 group-title="011" tvg-id="*Western 2" tvg-name="*Western 2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251111T011930SQUARE.png" ,*Western 2
 https://jmp2.uk/stvp-ES2300005G7
 #EXTINF:-1 group-title="011" tvg-id="*Western 3" tvg-name="*Western 3" ,*Western 3
@@ -41,24 +43,76 @@ https://lbgo.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks
 https://lbgo.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 #EXTINF:-1 group-title="011" ,+Anime Totoro HD
 https://lbgo.bozztv.com/ssh101/ssh101/totorohd/playlist.m3u8
+#EXTINF:-1 group-title="011" ,- Alien  24°7
+http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/42064.ts
+#EXTINF:-1 group-title="011" tvg-name="Breaking Bad [Completo]" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,- Breaking Bad [Completo]
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20344
+#EXTINF:-1 group-title="011" ,- Depredador 24°7
+http://liontv.es:8080/RobertoArce/pZbSDnRqam/1383572
+#EXTINF:-1 group-title="011" ,- Dr. House 24/7
+http://myultratv.com:8080/966831715tv/92thjy4apt/281152
+#EXTINF:-1 group-title="011" tvg-logo="https://static.wikia.nocookie.net/house/images/e/e5/House%2C_M.D._Season_7.jpg/revision/latest?cb=20251009033345" ,- Dr. House 24°7
+https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8
+#EXTINF:-1 group-title="011" tvg-name="24/7 | EL GRAN CHAPARRAL ⭐️" tvg-logo="http://2.bp.blogspot.com/_7-NlknExAYo/TMrLkFFgmAI/AAAAAAAAIUQ/F7DcyMwnxfQ/s1600/HC%2520GRAPHIC.jpg" ,- El Gran Chaparral 24°7
+http://xdplus.site:8880/live/NHWSZ/YVKFH/217386.ts
+#EXTINF:-1 group-title="011" tvg-name="El Mentalista 24/7" tvg-logo="https://i.postimg.cc/ncCq5YjC/749ea02e-946e-11ee-a91d-02038fb3271b-host-wbd-images-prod-vod-h264.jpg" ,- El Mentalista 24/7
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/737506.ts
+#EXTINF:-1 group-title="011" tvg-name="El mentalista" ,- El Mentalista 24°7
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74604
+#EXTINF:-1 group-title="011" tvg-name="24/7 | EL ZORRO 1957 ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Zorro_1957_show_logo.jpg" ,- El Zorro (1957) 24°7
+http://xdplus.site:8880/live/NHWSZ/YVKFH/107878.ts
+#EXTINF:-1 group-title="011" tvg-name="Elementary" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,- Elementary
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17790
+#EXTINF:-1 group-title="011" tvg-name="Friends" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,- Friends
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16437
+#EXTINF:-1 group-title="011" tvg-name="24/7 | FRIENDS TEMP 1 Y 2  ⭐️" tvg-logo="https://www.formulatv.com/images/series/posters/000/45/2_m3.jpg" ,- Friends (Temp 1 y 2)
+http://xdplus.site:8880/live/NHWSZ/YVKFH/107923.ts
+#EXTINF:-1 group-title="011" tvg-name="24/7 | FUTURAMA ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/h4xfofursz2py5j/futurama.png" ,- Futurama 24°7
+http://xdplus.site:8880/live/NHWSZ/YVKFH/46284.ts
+#EXTINF:-1 group-title="011" tvg-id="Happy Tree Friends" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/HTF_Tree_logo.png/revision/latest/scale-to-width-down/250?cb=20231021193938" ,- Happy Tree Friends 24°7
+http://23.153.217.158:8080/998411519tv/pa9qnqi/281226
+#EXTINF:-1 group-title="011" ,- IMCU 24/7
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 group-title="011" tvg-name="24/7 | LA CASA DE LA PRADERA ⭐️" tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/pizap-com15509369442614f_orig.jpg" ,- La casa de la pradera 24°7
+http://xdplus.site:8880/live/NHWSZ/YVKFH/107945.ts
+#EXTINF:-1 group-title="011" tvg-name="SD:Los Picapiedra" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,- Los Picapiedras
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16431
+#EXTINF:-1 group-title="011" ,- Los Tres Chiflados 24°7
+http://promas.lat:2082/CHRISTIAN1/MARCECALA/49650
+#EXTINF:-1 group-title="011" tvg-name="Peliculas Batman" ,- Peliculas Batman
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74617
+#EXTINF:-1 group-title="011" tvg-name="Peliculas Inframundo" ,- Peliculas Inframundo
+http://planettvweb.com:8091/Schnyder56/VLap5784d/101815
+#EXTINF:-1 group-title="011" tvg-name="Peliculas Marvel Cronologia" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,- Peliculas Marvel Cronologia
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20343
+#EXTINF:-1 group-title="011" tvg-name="Peliculas Marvel Orden Estreno" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,- Peliculas Marvel Orden Estreno
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20353
+#EXTINF:-1 group-title="011" tvg-name="24/7 | PELÍCULAS SPIDER-MAN ⭐️" tvg-logo="https://w7.pngwing.com/pngs/702/302/png-transparent-red-and-blue-spider-man-illustration-spider-man-spider-man-comics-heroes-comic-book.png" ,- Películas de Spider-Man
+http://xdplus.site:8880/live/NHWSZ/YVKFH/217011.ts
+#EXTINF:-1 group-title="011" tvg-name="24/7 | PIRATAS DEL CARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" ,- Piratas del Caribe
+http://xdplus.site:8880/live/NHWSZ/YVKFH/531712.ts
+#EXTINF:-1 group-title="011" ,- Robotech
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="011" tvg-name="24/7 | DOS HOMBRES Y MEDIO ⭐️" tvg-logo="https://3.bp.blogspot.com/-cGeiUwrSxYI/TgokidqR8CI/AAAAAAAAAnM/i--EjVmQIlg/s1600/dos-hombres-y-medio.jpg" ,- Two and a Half Men 24°7
+http://xdplus.site:8880/live/NHWSZ/YVKFH/177379.ts
+#EXTINF:-1 group-title="011" ,- Two and a Half Men [SUB]
+http://myultratv.com:8080/966831715tv/92thjy4apt/281254
 #EXTINF:-1 group-title="011" tvg-id="24/7 Caso Cerrado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Caso_Cerrado_octubre_2018.png/revision/latest/scale-to-width-down/340?cb=20200816205635&path-prefix=es" ,24/7 Caso Cerrado
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="011" ,24/7 Dragon Ball / GokuTV
 http://38.3.162.3:18009/play/a0i8/index.m3u8
 #EXTINF:-1 group-title="011" tvg-id="El chavo del 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" ,24/7 El Chavo del 8
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16057
-#EXTINF:-1 group-title="011" tvg-id="El Mentalista" tvg-logo="https://static.wikia.nocookie.net/thementalist/images/9/96/El_mentalista.png/revision/latest?cb=20130111174359&path-prefix=es" ,24/7 El Mentalista
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16062
 #EXTINF:-1 group-title="011" tvg-id="Game of Thrones" tvg-logo="https://www.nicepng.com/png/full/2-20309_game-of-thrones-logo-png-image-background-graphic.png" ,24/7 Game of Thrones
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281224
 #EXTINF:-1 group-title="011" ,24/7 Game of Thrones #
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/35840.ts
 #EXTINF:-1 group-title="011" ,24/7 Game of Thrones 2
 http://redworld.pro:8880/@eder@zamora/axRLmPZgKyeA/526567
+#EXTINF:-1 group-title="011" tvg-name="24/7 | LA PANTERA ROSA" tvg-logo="https://e7.pngegg.com/pngimages/987/947/png-clipart-illustration-logo-graphic-design-brand-pink-panther-love-text.png" ,24/7 La Pantera Rosa
+http://xdplus.site:8880/live/NHWSZ/YVKFH/107989.ts
 #EXTINF:-1 group-title="011" tvg-id="LOCOMOTION24/7" tvg-name="LOCOMOTION 24/7" tvg-logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png" ,24/7 Locomotion HD
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
-#EXTINF:-1 group-title="011" ,24/7 Los Tres Chiflados
-http://promas.lat:2082/CHRISTIAN1/MARCECALA/49650
 #EXTINF:-1 group-title="011" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the Middle
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 group-title="011" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the Middle
@@ -71,6 +125,10 @@ http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBc3FWNnlZL3hrVERnVHlhSHd5
 http://starlatino.tv:8880/live/Lalo2/HSBYJbjeZKSe/526322.m3u8
 #EXTINF:-1 group-title="011" ,24/7 Spartacus
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/17380.ts
+#EXTINF:-1 group-title="011" tvg-name="24/7 | THE BIG BANG THEORY TEMP 1 Y 2 ⭐️" tvg-logo="https://e1.pngegg.com/pngimages/941/448/png-clipart-tv-folder-icons-colorflow-set-5-the-big-bang-theory-2-the-big-bang-theory-file-icon-thumbnail.png" ,24/7 The Big Bang Theory  T 1 Y 2 ⭐️
+http://xdplus.site:8880/live/NHWSZ/YVKFH/51331.ts
+#EXTINF:-1 group-title="011" tvg-name="24/7 | THE BIG BANG THEORY T 3- 4- 5 ⭐️" tvg-logo="https://e1.pngegg.com/pngimages/941/448/png-clipart-tv-folder-icons-colorflow-set-5-the-big-bang-theory-2-the-big-bang-theory-file-icon-thumbnail.png" ,24/7 The Big Bang Theory  T 3- 4- 5 ⭐️
+http://xdplus.site:8880/live/NHWSZ/YVKFH/216987.ts
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory !
 http://redworld.pro:8880/@eder@zamora/axRLmPZgKyeA/526564
 #EXTINF:-1 group-title="011" ,24/7 The Big Bang Theory &
@@ -89,10 +147,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="011" tvg-logo="https://w7.pngwing.com/pngs/771/352/png-transparent-the-simpsons-characters-illustration-homer-simpson-marge-simpson-maggie-simpson-lisa-simpson-bart-simpson-the-simpsons-text-cartoon-fictional-character.png" ,24/7 The Simpsons  #
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
-#EXTINF:-1 group-title="011" ,_ Alien
-http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/42064.ts
-#EXTINF:-1 group-title="011" ,_ Depredador
-http://liontv.es:8080/RobertoArce/pZbSDnRqam/1383572
 #EXTINF:-1 group-title="011" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true" ,c Discovery H&H
 http://170.82.115.10:8000/play/a04u/index.m3u8
 #EXTINF:-1 group-title="011" ,c Discovery Turbo
@@ -109,36 +163,36 @@ https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
 #EXTINF:-1 group-title="011" tvg-id="68b88712e777774982269ce9" tvg-name="Tastemade Viajes" tvg-logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png" ,c Tastemade Viajes
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
-#EXTINF:-1 group-title="011" tvg-logo="https://static.wikia.nocookie.net/house/images/e/e5/House%2C_M.D._Season_7.jpg/revision/latest?cb=20251009033345" ,Dr. HOUSE 24°7
-https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8
+#EXTINF:-1 group-title="011" tvg-name="24/7 Tuneadme la casa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8V34eljwZD-k1s3ZTFs68li2N_knzBeUUA&s" ,c Tuneadme la casa
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/783501.ts
 #EXTINF:-1 group-title="011" ,DroneTV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-id="5f230e416b68ff00075b0139" tvg-name="Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" ,e Misterios Medicos
 https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 #EXTINF:-1 group-title="011" tvg-id="66ba53cda4ee2700083fac09" tvg-name="Sala de Emergencias: Historias Inéditas" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" ,e Sala de Emergencias: Historias Inéditas
 https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
+#EXTINF:-1 group-title="011" tvg-name="El Coyote y el Correcaminos [Completo]" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,El Coyote y el Correcaminos [Completo]
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17749
 #EXTINF:-1 group-title="011" tvg-id="Friends" tvg-logo="https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png" ,Friends 🇺🇸 (Op. 1)
 http://planettvweb.com:8091/Schnyder56/VLap5784d/16437
 #EXTINF:-1 group-title="011" tvg-id="Friends" tvg-logo="https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png" ,Friends 🇺🇸 (Op. 2)
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281223
-#EXTINF:-1 group-title="011" tvg-name="24/7 | FUTURAMA ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/h4xfofursz2py5j/futurama.png" ,FUTURAMA ⭐️
-http://xdplus.site:8880/live/NHWSZ/YVKFH/46284.ts
-#EXTINF:-1 group-title="011" tvg-id="Happy Tree Friends" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/HTF_Tree_logo.png/revision/latest/scale-to-width-down/250?cb=20231021193938" ,Happy Tree Friends 🇺🇸
-http://23.153.217.158:8080/998411519tv/pa9qnqi/281226
+#EXTINF:-1 group-title="011" tvg-name="Game of Thrones HD" ,Game of Thrones HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74618
 #EXTINF:-1 group-title="011" ,Los Simpson Latino 24/7
 http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
 #EXTINF:-1 group-title="011" ,Los Simpson Latino 24/7
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 group-title="011" ,One Piece HD (subtitulado)
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
-#EXTINF:-1 group-title="011" tvg-id="6385e82900ab2e000768a058" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" ,Pluto TV Western
-https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" ,Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="011" ,REDBULL
 http://190.110.96.238:8000/play/a061/index.m3u8
 #EXTINF:-1 group-title="011" tvg-id="68b88712e777774982269ce9" tvg-logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png" ,Tastemade Viajes
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/68b88712e777774982269ce9/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=89c5695a-b837-11f1-a931-000d3a303cc4&clientModelNumber=1.0.0&country=MX&deviceDNT=false&deviceId=89c5695a-b837-11f1-a931-000d3a303cc4&deviceLat=19.4300&deviceLon=-99.1000&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=89cf3127-b837-11f1-befc-0aeeb2ac3260&sid=89cf3127-b837-11f1-befc-0aeeb2ac3260&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImVlMjk0MDJjLTM2NjItNDdhYS04NzZiLTdjMmRhZDllZDZiOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4OWNmMzEyNy1iODM3LTExZjEtYmVmYy0wYWVlYjJhYzMyNjAiLCJjbGllbnRJUCI6IjIwMC42OC4xMjguODMiLCJjaXR5IjoiTWV4aWNvIENpdHkiLCJwb3N0YWxDb2RlIjoiMTU1MzAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MzAwMDAzMDUxNzU3OCwiZGV2aWNlTG9uIjotOTkuMDk5OTk4NDc0MTIxMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6Ijg5YzU2OTVhLWI4MzctMTFmMS1hOTMxLTAwMGQzYTMwM2NjNCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJBZFNlc3Npb25FdmVudCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJEYXNoTmciOnsiaml0UGFjayI6InJlcGFja0ppdCxkZWNyeXB0In0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6Ijg5YzU2OTVhLWI4MzctMTFmMS1hOTMxLTAwMGQzYTMwM2NjNCIsImZ3VmNJRDJDb3BwYSI6Ijg5YzU2OTVhLWI4MzctMTFmMS1hOTMxLTAwMGQzYTMwM2NjNCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiODljNTY5NWEtYjgzNy0xMWYxLWE5MzEtMDAwZDNhMzAzY2M0IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiMTA0NSIsIl9md18zUF9VSUQiOiJJREw6QXVac29uSmVEbWsyLTJRVEkzNkJROTBsVU9abmZ0VV9Vb1k4UzRBYWhBdWFYRTBVTGJRbU80S1dBNkFsbnFXekZBSkJZcWRycmRFM0hmRnYteFVRQklmRklGN0tWaUZzRTVDN01jX0I5SnNrNHdwYTdodlpVZ2laRnhFSUs1VVFPWkwxaTlsQURacmhSQVJxYnJudFk0MTA2VWVITE84TzNyalNTRzVhbThncGk5VFFOVzdWd0pGQnpERzc1S3dlMDNmUjRXbmg2MFFXeTdyR1I0ZERuWXJWTzZlbTFLdnRKNENlV3h0R1BRb3FVMTFzMlZwOVdBZXk5dHZtVF9wMy1tdDEyNjdoQ0NtU3FZN3BDMWtUeHVFZUlraU92WV92eGVpbmJJZ3AwLWN6YnhzaGR2YnkyTGQtZFZYZDB6RE1yTUFWQUhtc2RfMlc2SW9Qa2lsdi1HVVRUNHViWWtVQjExTF9LQnBkT1EiLCJmbXNfcnVsZWlkIjoiMTAwMDksMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMjMsMTAwMDAsMTAwMTMifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3OTAyNjg0MDk5OTYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpPRGxqTlRZNU5XRXRZamd6TnkweE1XWXhMV0U1TXpFdE1EQXdaRE5oTXpBelkyTTAiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkwMzU0ODEwLCJpYXQiOjE3OTAyNjg0MTAsImp0aSI6IjBkZjBiODVkLTQ5MTUtNGZkYS1hZTRmLWRiY2ExNzNkNGJlMyJ9.8WlI4U_L4CY1QscsJ3nLHjtFPs0P_zEpd--Ul4b59Ak&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+#EXTINF:-1 group-title="011" tvg-name="The Big Bang Theory" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,The Big Bang Theory
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17787
 #EXTINF:-1 group-title="011" tvg-id="The Simpsons" tvg-logo="https://freepngimg.com/thumb/categories/534.png" ,The Simpsons 🇺🇸 (Op. 1)
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-id="The Simpsons" tvg-logo="https://freepngimg.com/thumb/categories/534.png" ,The Simpsons 🇺🇸 (Op. 2)
@@ -149,6 +203,8 @@ http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/online-24-7.pla
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-id="The Simpsons" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" ,The Simpsons 🇺🇸 (Op. 5)
 http://mundo2.pro/live/iker12/iker12/316941.ts
+#EXTINF:-1 group-title="011" tvg-name="24/7 | THE WALKING DEAD ⭐️" tvg-logo="https://static.wikia.nocookie.net/thewalkingdead/images/a/a8/S5Intro025.jpg/revision/latest?cb=20141013200013&path-prefix=es" ,The Walking Dead
+http://xdplus.site:8880/live/NHWSZ/YVKFH/169822.ts
 #EXTINF:-1 group-title="011" tvg-id="5e82bb378601b80007b4bd78" tvg-name="The Walking Dead en español" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" ,The Walking Dead en español
 https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 #EXTINF:-1 group-title="011" tvg-id="ESBC1700004PX" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" ,Trailers
@@ -457,6 +513,478 @@ https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01.2" tvg-logo="https://cdn.phototourl.com/free/2026-04-19-a10b079b-1f69-4336-9484-318d950b25ac.png" ,✔️ Wow Movies
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,,La Hora TV
+https://edge.enhdtv.com/8206/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,3 inprecionnante
+https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,A3
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/1.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Accion total
+https://live20.bozztv.com/giatvplayout7/giatv-209634/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Action Prime
+http://201.218.140.30:9000/play/a0fl
+#EXTINF:-1 group-title="2 ar01.3" ,alcarrizostv
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,aldiatvSRT
+https://live-evg11.tv360.bitel.com.pe/bitel/aldiatvSRT/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Antena Sur
+http://190.117.20.37:8000/play/a0d4/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Atacama
+https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="2 ar01.3" ,aura tv
+https://live-evg8.tv360.bitel.com.pe/bitel/auratvSRT/chunks.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,austral tv
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Auténtica Televisión
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,AVI
+http://45.172.92.111:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,AVI Rewind
+http://45.172.92.111:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Barbe Tv
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Bombi TV
+https://tv.arkeo.cl:1936/bombitv/bombitv/chunklist_w1423969722.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,BoxCinema
+https://distrib.noisypeak.com/d/K9U16RORPWBMXX3B09JH/hls3/now,-1m/1.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,bum tv
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Canal 3
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,CANAL 3 CR HD
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Canal 5
+http://45.172.92.111:8000/play/a0n6/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,CANAL 8 ROSARIO
+https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Canal 9 San Luis
+https://edge.enhdtv.com/canal9sanluis/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Canal del sol
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,canalda
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,canaleta
+https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,canalvztelevisionweb
+https://www.vztv.online/canalvztelevisionweb/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Chapulin Colorado 24/7
+http://m3u.tvcluboficial.com/free/oct/oct/152.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine 2025
+http://m3u.tvcluboficial.com/free/oct/oct/1159.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Accion Sagas HD
+http://m3u.tvcluboficial.com/free/oct/oct/160.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Comedia
+http://m3u.tvcluboficial.com/free/oct/oct/161.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Comedia 1 HD
+http://m3u.tvcluboficial.com/free/oct/oct/162.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,CINE FAMILIAR
+http://181.78.12.119:16123/play/ch52/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,CINE FAMILIAR HD
+http://138.99.179.64:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Ficcion/Fantasia 2
+http://m3u.tvcluboficial.com/free/oct/oct/166.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Ficcion/Fantasia 2 HD
+http://m3u.tvcluboficial.com/free/oct/oct/167.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Ficcion/Fantasia HD
+http://m3u.tvcluboficial.com/free/oct/oct/168.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Friki (1080p)
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine heroes
+https://183.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Infantil
+http://m3u.tvcluboficial.com/free/oct/oct/169.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Infantil HD
+http://m3u.tvcluboficial.com/free/oct/oct/170.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Infantil Sagas
+http://m3u.tvcluboficial.com/free/oct/oct/171.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Infantil Sagas HD
+http://m3u.tvcluboficial.com/free/oct/oct/172.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Marvel HD
+http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Navideño HD
+http://m3u.tvcluboficial.com/free/oct/oct/1059.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,CINE PREMIUM
+http://181.78.12.119:16123/play/ch49/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Premium HD
+http://138.99.179.64:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Romance
+http://m3u.tvcluboficial.com/free/oct/oct/178.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Romance HD
+http://m3u.tvcluboficial.com/free/oct/oct/179.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Sony
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/47.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Zombis
+http://m3u.tvcluboficial.com/free/oct/oct/183.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cine Zombis HD
+http://m3u.tvcluboficial.com/free/oct/oct/184.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,cine2
+https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,cine2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/61.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,cine3
+https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,cinepicanteltus
+https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Classic
+http://45.172.92.111:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Clover
+http://45.186.254.75:8000/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Codigo TV
+https://edge.essastream.com/codigotv/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Comedia
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/973.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,CONTIVISION
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,cosmos tv
+http://138.59.227.20:8000/play/a0ek/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cosmos TV (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Cr televisión
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Creo Latino
+http://190.117.20.37:8000/play/a0d8/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Creo Movie HD
+https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
+#EXTINF:-1 group-title="2 ar01.3" ,Del ReyTV
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,DELTA TV
+https://fox.hostlagarto.com:8081/deltatv50/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Deltabolivia
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,DeltaTV
+https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,DOceVision
+https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,El Chavo
+http://45.224.96.220:18000/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,ENT_Family
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Entuno TV RD
+https://soportedvb.click:3442/live/entunotvlive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Farovisión RD
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,FMH FAMILY
+http://38.210.3.64:8090/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,FMH Family
+http://45.181.120.147:9800/play/080/index.m3u8?hl
+#EXTINF:-1 group-title="2 ar01.3" ,FMH Family
+http://45.186.254.75:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,FMH Family
+http://64.76.53.91:9002/play/a003
+#EXTINF:-1 group-title="2 ar01.3" ,FMH KIDS
+http://38.210.3.64:8090/play/a0gk/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,FMH Kids
+http://64.76.53.91:9002/play/a005
+#EXTINF:-1 group-title="2 ar01.3" ,FMH Movies
+http://181.78.8.199:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,FMH MOVIES
+http://38.210.3.64:8090/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,FMH Movies
+http://45.172.92.111:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,FMH Movies
+http://45.186.254.75:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,FMH Movies
+http://64.76.53.91:9002/play/a008
+#EXTINF:-1 group-title="2 ar01.3" ,FREE TV ACCION
+http://38.210.3.64:8090/play/a0p9/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Free TV Action
+http://38.210.3.64:8090/play/a0p9/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,FX
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/23.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,giatvplayout7
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Golden Edge
+http://m3u.tvcluboficial.com/free/oct/oct/495.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO
+http://179.1.199.50:9000/play/a049/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,hbo
+http://190.108.91.206:9050/play/a035/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/31.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO  XTREME
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/40.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO Family
+http://179.1.199.50:9000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,hbo family
+http://190.108.91.206:9050/play/a03x/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO Family
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,hbo mundi
+http://190.108.91.206:9050/play/a01h/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO Mundi
+http://190.117.20.37:8000/play/a0f6/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO Mundi
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/42.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO POP
+http://179.1.199.50:9000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,hbo pop
+http://190.108.91.206:9050/play/a03k/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO POP
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO Signature
+http://181.224.255.210:8001/play/a0re/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,hbo signature
+http://190.108.91.206:9050/play/a01g/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO XTREME
+http://179.1.199.50:9000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,hbo xtreme
+http://190.108.91.206:9050/play/a03y/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO+
+http://181.119.185.32:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO+
+http://200.59.191.177:8000/play/a00m/index.m3u8?hls
+#EXTINF:-1 group-title="2 ar01.3" ,HBO+
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO2
+http://179.1.199.50:9000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,hbo2
+http://190.108.91.206:9050/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HBO2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/32.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HGTV
+http://179.1.199.50:9000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,hgtv
+http://190.108.91.206:9050/play/a08b/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,HGTV
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/30.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,History Channel
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/34.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Imagen TV RD
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,imagen universal
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,imagen universal
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Infinita tv
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,innovatv
+https://ott1.hdlatam.tv/live/innovatv/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Invasiva TV (720p)
+https://tv-omega-nine.vercel.app/hls/live.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Kalu TV (1080p)
+https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,KTV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,La Caleta TV
+https://edge.essastream.com/lacaletatv/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,La Melinkana TV (720p)
+https://v1.tustreaming.cl/melinkana/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Latina TV RD
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,LaTV
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,lencatelevision
+https://www.lencatelevision.com/hls/0/stream.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,libertad tv
+https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Los Picapiedra 24/7
+http://m3u.tvcluboficial.com/free/oct/oct/625.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Los Pitufos 24/7
+http://m3u.tvcluboficial.com/free/oct/oct/627.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,LOS SIMPSONS3
+http://srv3.zcast.com.br/sim16al20/sim16al20/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,LUNA VISION
+https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,MagoTV
+https://lbgo.bozztv.com/ssh101/ssh101/elmagotv2/chunks.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Manaclar
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,MARCA TV
+https://eu1.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Marvel2
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Maxcine Comedy
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Mega Cine TV (1080p)
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Mega TV
+http://201.218.140.30:9000/play/a0cg
+#EXTINF:-1 group-title="2 ar01.3" ,melinkana
+https://v1.tustreaming.cl/melinkana/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,mi pelicula
+http://45.173.203.73:12000/play/a07l/index.m3u8?hl
+#EXTINF:-1 group-title="2 ar01.3" ,micro visión
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,milenial
+https://live-evg5.tv360.bitel.com.pe/bitel/milenial/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Milenium TV
+http://201.218.140.30:9000/play/a016
+#EXTINF:-1 group-title="2 ar01.3" ,MILLENIUM
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,MiMusica HD Reggaeton
+http://190.60.37.154:45000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,MiMusica Popular
+http://190.60.37.154:45000/play/a010/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,MiMusica Romantica
+http://190.60.37.154:45000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,MiMusica Salsa
+http://190.60.37.154:45000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Mix TV
+http://201.218.140.30:9000/play/a0fj
+#EXTINF:-1 group-title="2 ar01.3" ,MixTV
+https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,montegrandetv
+https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,moyo tv
+https://live.obslivestream.com/mayo/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,msinteractiva
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,MultiCanal
+http://45.172.92.111:8000/play/a0co/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,MX Prime
+http://45.181.120.147:9800/play/076/index.m3u8?hl
+#EXTINF:-1 group-title="2 ar01.3" ,Next HD (480p)
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,nexthd
+https://edge.enhdtv.com/nexthd/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Nicarao TV
+http://45.182.22.53:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,NOW 70
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,NOW 80
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,NSTV
+http://181.78.8.199:8000/play/a0i6/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Onda TV
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,ORBIT TV (1080p)
+https://edge.essastream.com/orbittv/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,orientaltv
+https://ott1.hdlatam.tv/live/orientaltv/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,oriente tv
+https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Panama tv
+http://38.134.250.110:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Peliculas Mania
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,pelis
+https://live20.bozztv.com/giatvplayout7/giatv-209634/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,pelis
+https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,pinamar
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Primavera 15
+https://mc.servidor.stream:19360/8244/8244.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Primired HD
+https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,PTV (Bolivia) (720p)
+https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Punto TV
+https://fox.hostlagarto.com:8081/puntotv/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,READY HD
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,RNTV
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,rtvlibertad
+https://live.obslivestream.com/rtvlibertad/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Sabormix
+https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Sony Action
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Sony Comedia
+https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Space
+http://181.78.8.199:8000/play/a0jt/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Space
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/51.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,star channel
+http://190.108.91.206:9050/play/a04j/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Star Channel HD
+http://m3u.tvcluboficial.com/free/oct/oct/835.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,studio universal
+http://190.108.91.206:9050/play/a0az/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Studio Universal
+http://45.172.92.111:8000/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,STUDIO UNIVERSAL
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/19.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,STUDIO UNIVERSAL
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,STUDIO-UNIVERSAL
+http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,supercanal
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,tdn
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Telecolor
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Telemax
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,telemix
+https://183.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,tELENOSTALGIA
+http://190.60.37.154:45000/play/a011/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Telesur Costa Rica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,THE SIMPSONS
+http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,tnt
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/93.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,tnt series
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/95.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Tom y Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,tv centro2
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Tv Florencia
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,TV FLORENCIA
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,TV+
+https://tv.streamcasthd.com:3450/live/tvmaslive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,tvflorecialive
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,tvs
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,tvsretrogtlive
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,TVSUR
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,UltraTV
+https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Unitel
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,UNIVERSAL
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/59.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,universal channel
+http://190.108.91.206:9050/play/a031/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,UNIVERSAL CINEMA
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/364.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Universal Cinema Este
+http://45.167.1.138:8000/play/a06m
+#EXTINF:-1 group-title="2 ar01.3" ,Universal Premier
+http://45.167.1.138:8000/play/a063
+#EXTINF:-1 group-title="2 ar01.3" ,Universal Premier Oeste
+http://45.167.1.138:8000/play/a064
+#EXTINF:-1 group-title="2 ar01.3" ,UNIVERSAL-CHANNEL
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,universo tv
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/88.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Univision
+http://m3u.tvcluboficial.com/free/oct/oct/1009.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,unto TV Digital RD
+https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist_w1822190565.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Uranio TV
+https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,UriolTV
+http://181.65.191.173:8069/play/a08z
+#EXTINF:-1 group-title="2 ar01.3" ,Vegavision RD
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,VisionTV
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,VIX UNIVISION HD
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,WAPA
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/167.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,warner tv
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/66.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,WarZone
+http://45.70.201.81:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Wayra TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,Wise tv
+http://45.224.96.220:18000/play/a079/index.m3u8
+#EXTINF:-1 group-title="2 ar01.3" ,wowchannelsd
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 group-title="2 ar02" tvg-logo="https://i.ibb.co/x7d9FT0/images-removebg-preview.png" ,# - CINE DIOS
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1 group-title="2 ar02" tvg-logo="https://i.ibb.co/XxNFb5Jq/images-26.png" ,# - CNC
@@ -651,8 +1179,6 @@ http://myultratv.com:8080/966831715tv/92thjy4apt/281160
 http://myultratv.com:8080/966831715tv/92thjy4apt/281153
 #EXTINF:-1 group-title="24/7 I" ,24/7*Dinosaurios
 http://myultratv.com:8080/966831715tv/92thjy4apt/281162
-#EXTINF:-1 group-title="24/7 I" ,24/7*DR House
-http://myultratv.com:8080/966831715tv/92thjy4apt/281152
 #EXTINF:-1 group-title="24/7 I" ,24/7*El Coyote y el Correcaminos [Completo]
 http://myultratv.com:8080/966831715tv/92thjy4apt/281218
 #EXTINF:-1 group-title="24/7 I" ,24/7*Elfen Lied
@@ -689,8 +1215,6 @@ http://myultratv.com:8080/966831715tv/92thjy4apt/281201
 http://myultratv.com:8080/966831715tv/92thjy4apt/281202
 #EXTINF:-1 group-title="24/7 I" ,24/7*The Big Bang Theory
 http://myultratv.com:8080/966831715tv/92thjy4apt/281127
-#EXTINF:-1 group-title="24/7 I" ,24/7*Two and a Half Men [SUB]
-http://myultratv.com:8080/966831715tv/92thjy4apt/281254
 #EXTINF:-1 group-title="24/7 I" tvg-logo="https://tinyurl.com/Postermax" ,_ Spiderman
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 #EXTINF:-1 group-title="24/7 I" ,_ X Men
@@ -721,8 +1245,6 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16167
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
 #EXTINF:-1 group-title="24/7 II" ,Canal 24/7 01
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-#EXTINF:-1 group-title="24/7 II" ,Canal 24/7 02
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 group-title="24/7 II" ,Canal 24/7 03
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 group-title="24/7 II" ,Canal 24/7 04
@@ -731,8 +1253,6 @@ https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="24/7 II" ,Canal 24/7 06
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 group-title="24/7 II" ,Canal 24/7 07
-https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="24/7 II" ,Canal 24/7 08
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="24/7 II" ,Canal 24/7 09
@@ -747,8 +1267,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 #EXTINF:-1 group-title="24/7 II" ,Dragon Ball Super Latino 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
-#EXTINF:-1 group-title="24/7 II" ,IMCU 24/7
-https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 group-title="24/7 II" ,El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 group-title="24/7 II" ,Live Streaming TV 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF:-1 group-title="24/7 II" ,Los Pitufos 24/7
@@ -767,202 +1287,136 @@ https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/chunks.m3u8
 #EXTINF:-1 group-title="24/7 II" ,Retro Toons 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
-#EXTINF:-1 group-title="24/7 III" tvg-name="Accion" tvg-logo="http://mundo2.vip:8080/images/bfd3667cda89eb146170ffc51eb6021c.png" ,Accion
-http://daleplaytv.vip/live/123MMM/654321/317104.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Adam Sandler" tvg-logo="http://mundo2.vip:8080/images/30b5e165c2cb5c2ff8ddf5a78107f9fb.png" ,Adam Sandler
-http://daleplaytv.vip/live/123MMM/654321/317105.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Adventure Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Adventure Movies
-http://daleplaytv.vip/live/123MMM/654321/317084.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Animation Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Animation Movies
-http://daleplaytv.vip/live/123MMM/654321/317085.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Animation Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Animation Movies
-http://daleplaytv.vip/live/123MMM/654321/317094.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Artes Marciales" tvg-logo="http://mundo2.vip:8080/images/fa9c93cf0e562823a0453e08cc7b181a.png" ,Artes Marciales
-http://daleplaytv.vip/live/123MMM/654321/317107.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Aventura" tvg-logo="http://mundo2.vip:8080/images/2166506e3dbb85eab9a2977a12623fcc.png" ,Aventura
-http://daleplaytv.vip/live/123MMM/654321/317108.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Batman (Saga de Nolan)" tvg-logo="http://mundo2.vip:8080/images/4e42e34a6da0498328641a287c97b8fc.png" ,Batman (Saga de Nolan)
-http://daleplaytv.vip/live/123MMM/654321/317109.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Cincuenta Sombras" tvg-logo="http://mundo2.vip:8080/images/44265d5fa194c0ecab7de1c6a3d2a900.png" ,Cincuenta Sombras
-http://daleplaytv.vip/live/123MMM/654321/317111.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Cine infantil" tvg-logo="http://mundo2.pro:80/images/8f0cbeb1c76d9357e9b4d95f813eae72.png" ,Cine infantil
-http://daleplaytv.vip/live/123MMM/654321/317112.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Cinema Latino" tvg-logo="http://mundo2.vip:8080/images/7c9d91ecb61667b5897647c99979b54d.png" ,Cinema Latino
-http://daleplaytv.vip/live/123MMM/654321/317113.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Cinema Latino 2" tvg-logo="http://mundo2.vip:8080/images/49a376276a2f8166bd616e2731549bc7.png" ,Cinema Latino 2
-http://daleplaytv.vip/live/123MMM/654321/317114.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Clasicos de Disney" tvg-logo="http://mundo2.vip:8080/images/b1ce6a1fb68ff48cc951410b5b10106a.png" ,Clasicos de Disney
-http://daleplaytv.vip/live/123MMM/654321/317115.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Comedia" tvg-logo="http://mundo2.vip:8080/images/c2c297265f07b150b186ea9196dac8ba.png" ,Comedia
-http://daleplaytv.vip/live/123MMM/654321/317116.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Crimen" tvg-logo="http://mundo2.vip:8080/images/3dba3aba74fa0292935dd657f7d80068.png" ,Crimen
-http://daleplaytv.vip/live/123MMM/654321/317118.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Deportes" tvg-logo="http://mundo2.vip:8080/images/8e2454555ce7c41df9d7a501d3909583.png" ,Deportes
-http://daleplaytv.vip/live/123MMM/654321/317119.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Destino Final" tvg-logo="http://mundo2.vip:8080/images/09a39b71c7aba23d764e3cd30038e309.png" ,Destino Final
-http://daleplaytv.vip/live/123MMM/654321/317120.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Disney Classics (ENG)" tvg-logo="http://mundo2.vip:8080/images/a442e86f8c0a054032686f811c50c7f6.png" ,Disney Classics (ENG)
-http://daleplaytv.vip/live/123MMM/654321/317087.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Documental" tvg-logo="http://mundo2.vip:8080/images/1c3f2b9695627271cddcb1dd5fee08a5.png" ,Documental
-http://daleplaytv.vip/live/123MMM/654321/317121.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Documentary Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Documentary Movies
-http://daleplaytv.vip/live/123MMM/654321/317088.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Don gato y su Pandilla" ,Don gato y su Pandilla
-http://daleplaytv.vip/live/123MMM/654321/362429.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Drama" tvg-logo="http://mundo2.vip:8080/images/c1b75758f0afe8a3aace13411dc89229.png" ,Drama
-http://daleplaytv.vip/live/123MMM/654321/317122.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Drama Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Drama Movies
-http://daleplaytv.vip/live/123MMM/654321/317089.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Dreamworks" tvg-logo="http://mundo2.vip:8080/images/5993f9a70bb430a436bf2362610d6910.png" ,Dreamworks
-http://daleplaytv.vip/live/123MMM/654321/317123.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Dreamworks Movies (ENG)" tvg-logo="http://mundo2.vip:8080/images/15e1baa29c68919926ed2a17fa4a4aee.png" ,Dreamworks Movies (ENG)
-http://daleplaytv.vip/live/123MMM/654321/317090.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Duro de Matar" tvg-logo="http://mundo2.vip:8080/images/0408b31e430661859d9caf14e8fdf3ae.png" ,Duro de Matar
-http://daleplaytv.vip/live/123MMM/654321/317124.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="El planeta de los simios" tvg-logo="http://mundo2.vip:8080/images/24589c13a7563e458f899d648ea3d4d0.png" ,El planeta de los simios
-http://daleplaytv.vip/live/123MMM/654321/317125.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="El señor de los anillos" tvg-logo="http://mundo2.vip:8080/images/7ad0f5e859dc39e0d67f96716390c76d.png" ,El señor de los anillos
-http://daleplaytv.vip/live/123MMM/654321/317126.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Estrenos" tvg-logo="http://mundo2.vip:8080/images/03e96fca6176a0a87bfea41ba1e5c767.png" ,Estrenos
-http://daleplaytv.vip/live/123MMM/654321/317127.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Fantasia" tvg-logo="http://mundo2.vip:8080/images/0781e4d5f818a46523aa589156fb2c07.png" ,Fantasia
-http://daleplaytv.vip/live/123MMM/654321/317128.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Fantasy Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Fantasy Movies
-http://daleplaytv.vip/live/123MMM/654321/317092.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="FUTURAMA" tvg-logo="http://flx.lat:8080/images/daea1a007ed18a34901f1ea896238fc3.png" ,FUTURAMA
-http://daleplaytv.vip/live/123MMM/654321/316942.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Halloween" tvg-logo="http://mundo2.vip:8080/images/50cf0fea656c9089b404acc05bf6bc8a.jpg" ,Halloween
-http://daleplaytv.vip/live/123MMM/654321/317103.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Harry Potter" tvg-logo="http://mundo2.vip:8080/images/73b703d384b0fd46c2ef733c409ef199.png" ,Harry Potter
-http://daleplaytv.vip/live/123MMM/654321/317129.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Harry Potter Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Harry Potter Movies
-http://daleplaytv.vip/live/123MMM/654321/317093.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Horror Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Horror Movies
-http://daleplaytv.vip/live/123MMM/654321/317095.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="James Bond 007" tvg-logo="http://mundo2.vip:8080/images/b9e713445e968bf9efb1341c92e2aafe.png" ,James Bond 007
-http://daleplaytv.vip/live/123MMM/654321/317130.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Jim Carrey" tvg-logo="http://mundo2.vip:8080/images/3c90a1228345919bad6bda0cc13766b4.png" ,Jim Carrey
-http://daleplaytv.vip/live/123MMM/654321/317131.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Jurassic Park" tvg-logo="http://mundo2.vip:8080/images/b62c613d6ade788d6c7cd56187f353dc.png" ,Jurassic Park
-http://daleplaytv.vip/live/123MMM/654321/317132.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Karate Kid" tvg-logo="http://mundo2.vip:8080/images/9aea6b44c63981e55f8c76e9c7835764.png" ,Karate Kid
-http://daleplaytv.vip/live/123MMM/654321/317133.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="l RETROcine TV" tvg-logo="http://daleplaypro.com:8080/images/1101ff95c5bd5fb6a2528002ae896226.png" ,l RETROcine TV
-http://daleplaytv.vip/live/123MMM/654321/93104.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="L0S PICAPlEDRAS" ,L0S PICAPlEDRAS
-http://daleplaytv.vip/live/123MMM/654321/362435.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="L0S SlMPS0NS" tvg-logo="http://127.0.0.1/" ,L0S SlMPSONS
-http://daleplaytv.vip/live/123MMM/654321/316941.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="La era de hielo" tvg-logo="http://mundo2.vip:8080/images/8a389ace3ae049cadf0a84b793a4a8f8.png" ,La era de hielo
-http://daleplaytv.vip/live/123MMM/654321/317134.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="LA Pantera Rosa" ,LA Pantera Rosa
-http://daleplaytv.vip/live/123MMM/654321/366251.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Las leyendas de México" tvg-logo="http://mundo2.vip:8080/images/924caf606afab98501bec613c6c4783f.png" ,Las leyendas de México
-http://daleplaytv.vip/live/123MMM/654321/317135.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Los Juegos del Hambre" tvg-logo="http://mundo2.vip:8080/images/bdd4296056f5c5e006ff0b64fed0890a.png" ,Los Juegos del Hambre
-http://daleplaytv.vip/live/123MMM/654321/317136.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Los Magníficos" tvg-logo="http://mundo2.pro:80/images/0775191dc39aebdf2487b7adf0bba3b5.jpg" ,Los Magníficos
-http://daleplaytv.vip/live/123MMM/654321/316962.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Los Tres Chiflados" tvg-logo="http://flx.lat:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" ,Los Tres Chiflados
-http://daleplaytv.vip/live/123MMM/654321/403686.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="MARVEL" tvg-logo="http://mundo2.vip:8080/images/aa1f3ed99b5b46d0cded24f0cb235754.png" ,MARVEL
-http://daleplaytv.vip/live/123MMM/654321/317137.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Marvel Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Marvel Movies
-http://daleplaytv.vip/live/123MMM/654321/317096.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="MI vilano favorito (MInions)" tvg-logo="http://mundo2.vip:8080/images/7cba402fc14273db375f42741dc55b87.png" ,MI vilano favorito (MInions)
-http://daleplaytv.vip/live/123MMM/654321/317139.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Mistery Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Mistery Movies
-http://daleplaytv.vip/live/123MMM/654321/317097.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Navidad" tvg-logo="http://mundo2.vip:8080/images/12b995313f5b88341586f8f3c3054546.png" ,Navidad
-http://daleplaytv.vip/live/123MMM/654321/317140.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Pedro Infante" tvg-logo="http://mundo2.vip:8080/images/c2d21fd22f6af29fe3a7e58b5747a9c6.png" ,Pedro Infante
-http://daleplaytv.vip/live/123MMM/654321/317141.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="PELICULAS ESTRENOS 2022" tvg-logo="http://mundo2.vip:8080/images/b08c624ecea26f6536ed9aac94c6ac56.png" ,PELICULAS ESTRENOS 2022
-http://daleplaytv.vip/live/123MMM/654321/317161.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Peliculas Subtituladas" tvg-logo="http://mundo2.vip:8080/images/4611f0f268b34ec2b767fd5844cf783f.png" ,Peliculas Subtituladas
-http://daleplaytv.vip/live/123MMM/654321/317142.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Peliculas Subtituladas ||" tvg-logo="http://mundo2.vip:8080/images/c2bdade64ebb4e5023d662829fbc7102.png" ,Peliculas Subtituladas ||
-http://daleplaytv.vip/live/123MMM/654321/317143.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Piratas del caribe" tvg-logo="http://mundo2.vip:8080/images/b5329d643b5d824af5b3dca97d357220.png" ,Piratas del caribe
-http://daleplaytv.vip/live/123MMM/654321/317144.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Pixar" tvg-logo="http://mundo2.vip:8080/images/4386e94f1e58a09c0b0eb4bce76aacf4.png" ,Pixar
-http://daleplaytv.vip/live/123MMM/654321/317145.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Pixar Movies (ENG)" tvg-logo="http://mundo2.vip:8080/images/0b48468c1501561a7580652f2dd6497d.png" ,Pixar Movies (ENG)
-http://daleplaytv.vip/live/123MMM/654321/317098.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Rapido y furioso" tvg-logo="http://mundo2.vip:8080/images/6cf083864f433ac3e734060103fd69ab.png" ,Rapido y furioso
-http://daleplaytv.vip/live/123MMM/654321/317146.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Religion Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Religion Movies
-http://daleplaytv.vip/live/123MMM/654321/317099.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Rocky" tvg-logo="http://mundo2.vip:8080/images/a579b4ccfdbd90db56ddc433905ddf6e.png" ,Rocky
-http://daleplaytv.vip/live/123MMM/654321/317147.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Romance" tvg-logo="http://mundo2.vip:8080/images/cc49a7daed87db1934f451e981db8b99.png" ,Romance
-http://daleplaytv.vip/live/123MMM/654321/317148.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Romance Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Romance Movies
-http://daleplaytv.vip/live/123MMM/654321/317100.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="SAW" tvg-logo="http://mundo2.vip:8080/images/71ca1c1872bc1f13eb4e53acf59ae22f.png" ,SAW
-http://daleplaytv.vip/live/123MMM/654321/317149.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Science Fiction Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Science Fiction Movies
-http://daleplaytv.vip/live/123MMM/654321/317101.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Shrek" tvg-logo="http://mundo2.vip:8080/images/66fb2f4d90c89415e5f46c69259bea83.png" ,Shrek
-http://daleplaytv.vip/live/123MMM/654321/317150.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Spiderman" tvg-logo="http://mundo2.vip:8080/images/7282678212cb484ac805708e3abb5230.png" ,Spiderman
-http://daleplaytv.vip/live/123MMM/654321/317151.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Star Wars" tvg-logo="http://mundo2.vip:8080/images/963d8cfbf60ec1691e60f8e0a184f494.png" ,Star Wars
-http://daleplaytv.vip/live/123MMM/654321/317152.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Superheroes" tvg-logo="http://mundo2.vip:8080/images/e22d3bdaea5f50db418e7536845db218.png" ,Superheroes
-http://daleplaytv.vip/live/123MMM/654321/317153.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Suspense Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" ,Suspense Movies
-http://daleplaytv.vip/live/123MMM/654321/317102.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Suspenso" tvg-logo="http://mundo2.vip:8080/images/487141148d55d9541a0a9d09bebf1eed.png" ,Suspenso
-http://daleplaytv.vip/live/123MMM/654321/317154.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Terror" tvg-logo="http://mundo2.vip:8080/images/6df7e9403c937dc3195f01a1017d0bf6.png" ,Terror
-http://daleplaytv.vip/live/123MMM/654321/317155.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="The Big Bang Theory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/The_Big_Bang_Theory_logo.png" ,The Big Bang Theory
-http://daleplaytv.vip/live/123MMM/654321/316947.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Tim Burton" tvg-logo="http://mundo2.vip:8080/images/0efd92e2a10db5ef9c1a869ba10fad74.png" ,Tim Burton
-http://daleplaytv.vip/live/123MMM/654321/317156.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Tom y Jerry" ,Tom y Jerry
-http://daleplaytv.vip/live/123MMM/654321/366256.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Toy Story" tvg-logo="http://mundo2.pro:80/images/b767cabd22effcd69db08c94ad59eb9c.png" ,Toy Story
-http://daleplaytv.vip/live/123MMM/654321/317157.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="Volver al Futuro" tvg-logo="http://mundo2.vip:8080/images/80fd03343279bfdf40fb21d96fd22333.png" ,Volver al Futuro
-http://daleplaytv.vip/live/123MMM/654321/317158.ts
-#EXTINF:-1 group-title="24/7 III" tvg-name="X MEN" tvg-logo="http://mundo2.vip:8080/images/8ba43870fb4bf354f801330e6a2d0f9c.png" ,X MEN
-http://daleplaytv.vip/live/123MMM/654321/317159.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | ARMA MORTAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" ,24/7 | ARMA MORTAL
-http://xdplus.site:8880/live/NHWSZ/YVKFH/107966.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | CANTINFLAS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/929a9419701211.562ded5592985.jpg" ,24/7 | CANTINFLAS
-http://xdplus.site:8880/live/NHWSZ/YVKFH/107891.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | DOS HOMBRES Y MEDIO ⭐️" tvg-logo="https://3.bp.blogspot.com/-cGeiUwrSxYI/TgokidqR8CI/AAAAAAAAAnM/i--EjVmQIlg/s1600/dos-hombres-y-medio.jpg" ,24/7 | DOS HOMBRES Y MEDIO ⭐️
-http://xdplus.site:8880/live/NHWSZ/YVKFH/177379.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | FRIENDS TEMP 1 Y 2  ⭐️" tvg-logo="https://www.formulatv.com/images/series/posters/000/45/2_m3.jpg" ,24/7 | FRIENDS TEMP 1 Y 2  ⭐️
-http://xdplus.site:8880/live/NHWSZ/YVKFH/107923.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | JUEGO DE TRONOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" ,24/7 | JUEGO DE TRONOS
-http://xdplus.site:8880/live/NHWSZ/YVKFH/169813.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | LA PANTERA ROSA" tvg-logo="https://e7.pngegg.com/pngimages/987/947/png-clipart-illustration-logo-graphic-design-brand-pink-panther-love-text.png" ,24/7 | LA PANTERA ROSA
-http://xdplus.site:8880/live/NHWSZ/YVKFH/107989.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | LOS 3 CHIFLADOS" tvg-logo="https://i.pinimg.com/236x/a1/88/5b/a1885b75c13ac52ef1e5ba6d022d1ffb--charlie-chaplin.jpg" ,24/7 | LOS 3 CHIFLADOS
-http://xdplus.site:8880/live/NHWSZ/YVKFH/107893.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | PELÍCULAS SPIDER-MAN ⭐️" tvg-logo="https://w7.pngwing.com/pngs/702/302/png-transparent-red-and-blue-spider-man-illustration-spider-man-spider-man-comics-heroes-comic-book.png" ,24/7 | PELÍCULAS SPIDER-MAN ⭐️
-http://xdplus.site:8880/live/NHWSZ/YVKFH/217011.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | PIRATAS DEL CARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" ,24/7 | PIRATAS DEL CARIBE
-http://xdplus.site:8880/live/NHWSZ/YVKFH/531712.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | SOUTH PARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" ,24/7 | SOUTH PARK
-http://xdplus.site:8880/live/NHWSZ/YVKFH/177097.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | THE BIG BANG THEORY T 3- 4- 5 ⭐️" tvg-logo="https://e1.pngegg.com/pngimages/941/448/png-clipart-tv-folder-icons-colorflow-set-5-the-big-bang-theory-2-the-big-bang-theory-file-icon-thumbnail.png" ,24/7 | THE BIG BANG THEORY T 3- 4- 5 ⭐️
-http://xdplus.site:8880/live/NHWSZ/YVKFH/216987.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | THE BIG BANG THEORY TEMP 1 Y 2 ⭐️" tvg-logo="https://e1.pngegg.com/pngimages/941/448/png-clipart-tv-folder-icons-colorflow-set-5-the-big-bang-theory-2-the-big-bang-theory-file-icon-thumbnail.png" ,24/7 | THE BIG BANG THEORY TEMP 1 Y 2 ⭐️
-http://xdplus.site:8880/live/NHWSZ/YVKFH/51331.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | THE WALKING DEAD ⭐️" tvg-logo="https://static.wikia.nocookie.net/thewalkingdead/images/a/a8/S5Intro025.jpg/revision/latest?cb=20141013200013&path-prefix=es" ,24/7 | THE WALKING DEAD ⭐️
-http://xdplus.site:8880/live/NHWSZ/YVKFH/169822.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | EL GRAN CHAPARRAL ⭐️" tvg-logo="http://2.bp.blogspot.com/_7-NlknExAYo/TMrLkFFgmAI/AAAAAAAAIUQ/F7DcyMwnxfQ/s1600/HC%2520GRAPHIC.jpg" ,EL GRAN CHAPARRAL ⭐️
-http://xdplus.site:8880/live/NHWSZ/YVKFH/217386.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | EL ZORRO 1957 ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Zorro_1957_show_logo.jpg" ,EL ZORRO 1957 ⭐️
-http://xdplus.site:8880/live/NHWSZ/YVKFH/107878.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | LA CASA DE LA PRADERA ⭐️" tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/pizap-com15509369442614f_orig.jpg" ,LA CASA DE LA PRADERA ⭐️
-http://xdplus.site:8880/live/NHWSZ/YVKFH/107945.ts
-#EXTINF:-1 group-title="24/7 IV" tvg-name="24/7 | PEDRO INFANTE" tvg-logo="https://cdn.shopify.com/s/files/1/0267/4661/7902/products/ScreenShot2021-03-22at6.14.28PM_300x300.png?v=1616458584" ,PEDRO INFANTE
-http://xdplus.site:8880/live/NHWSZ/YVKFH/107879.ts
+#EXTINF:-1 group-title="24/7 III" tvg-name="Alf" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Alf
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16430
+#EXTINF:-1 group-title="24/7 III" tvg-name="CANTINFLAS SD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,CANTINFLAS SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16422
+#EXTINF:-1 group-title="24/7 III" tvg-name="CINE ACCION 01" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,CINE ACCION 01
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20347
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Accion 2" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Accion 2
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17788
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Club" ,Cine Club
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74605
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Comedia 2" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Comedia 2
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17789
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine drama" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine drama
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17784
+#EXTINF:-1 group-title="24/7 III" tvg-name="CINE ESTELAR" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,CINE ESTELAR
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17758
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine familia" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine familia
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17766
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Ficcion/Fantasia 1" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Ficcion/Fantasia 1
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20345
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Infantil" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Infantil
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20349
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Infantil HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Infantil HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20350
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Infantil Sagas HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Infantil Sagas HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20351
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Latino" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Latino
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20352
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Romance" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Romance
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17759
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Romance HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Romance HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20354
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Romantico" ,Cine Romantico
+http://planettvweb.com:8091/Schnyder56/VLap5784d/101814
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Terror" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Terror
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20355
+#EXTINF:-1 group-title="24/7 III" tvg-name="Cine Zombis" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Cine Zombis
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20356
+#EXTINF:-1 group-title="24/7 III" tvg-name="CINE: Acción 02" ,CINE: Acción 02
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74599
+#EXTINF:-1 group-title="24/7 III" tvg-name="CINE: Acción 03" ,CINE: Acción 03
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74600
+#EXTINF:-1 group-title="24/7 III" tvg-name="CINE: Acción 04" ,CINE: Acción 04
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74601
+#EXTINF:-1 group-title="24/7 III" tvg-name="CINE: Acción 05" ,CINE: Acción 05
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74602
+#EXTINF:-1 group-title="24/7 III" tvg-name="CINE: Familiar 01" ,CINE: Familiar 01
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74606
+#EXTINF:-1 group-title="24/7 III" tvg-name="Clásicos Disney" ,Clásicos Disney
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74614
+#EXTINF:-1 group-title="24/7 III" tvg-name="Doraemon" ,Doraemon
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73715
+#EXTINF:-1 group-title="24/7 III" tvg-name="DR House" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,DR House
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20342
+#EXTINF:-1 group-title="24/7 III" tvg-name="Dragin Ball Z" ,Dragin Ball Z
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74612
+#EXTINF:-1 group-title="24/7 III" tvg-name="DraginBall" ,DraginBall
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74609
+#EXTINF:-1 group-title="24/7 III" tvg-name="Dragon Ball Super" ,Dragon Ball Super
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74611
+#EXTINF:-1 group-title="24/7 III" tvg-name="Dragon BallGT" ,Dragon BallGT
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74610
+#EXTINF:-1 group-title="24/7 III" tvg-name="Ed, Edd y Eddy" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Ed, Edd y Eddy
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17785
+#EXTINF:-1 group-title="24/7 III" tvg-name="El Gallo Claudio" ,El Gallo Claudio
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73706
+#EXTINF:-1 group-title="24/7 III" tvg-name="El Laboratorio de Dexter [1 - 4T]" ,El Laboratorio de Dexter [1 - 4T]
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74608
+#EXTINF:-1 group-title="24/7 III" tvg-name="El Pato Darkwing" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,El Pato Darkwing
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17779
+#EXTINF:-1 group-title="24/7 III" tvg-name="El Principel del Rap" ,El Principel del Rap
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73712
+#EXTINF:-1 group-title="24/7 III" tvg-name="Elfen Lied" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Elfen Lied
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17747
+#EXTINF:-1 group-title="24/7 III" tvg-name="Estrellas de Acción" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Estrellas de Acción
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17760
+#EXTINF:-1 group-title="24/7 III" tvg-name="Family Guy" ,Family Guy
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74613
+#EXTINF:-1 group-title="24/7 III" tvg-name="Ficcion/Fantasia 2" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Ficcion/Fantasia 2
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20346
+#EXTINF:-1 group-title="24/7 III" tvg-name="House of Cards" ,House of Cards
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74620
+#EXTINF:-1 group-title="24/7 III" tvg-name="La casa de papel" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,La casa de papel
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20341
+#EXTINF:-1 group-title="24/7 III" tvg-name="LA PANTERA ROSA" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,LA PANTERA ROSA
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17765
+#EXTINF:-1 group-title="24/7 III" tvg-name="Las aventuras de Tom Sawyer" ,Las aventuras de Tom Sawyer
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74615
+#EXTINF:-1 group-title="24/7 III" tvg-name="Las nuevas aventuras de Batman" ,Las nuevas aventuras de Batman
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74619
+#EXTINF:-1 group-title="24/7 III" tvg-name="Liga De La Justicia Ilimitada" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Liga De La Justicia Ilimitada
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17752
+#EXTINF:-1 group-title="24/7 III" tvg-name="Looney Tunes" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Looney Tunes
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17748
+#EXTINF:-1 group-title="24/7 III" tvg-name="Los archivos del FBI" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Los archivos del FBI
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17772
+#EXTINF:-1 group-title="24/7 III" tvg-name="Los años maravillosos" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Los años maravillosos
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20348
+#EXTINF:-1 group-title="24/7 III" tvg-name="Los Picapiedra" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Los Picapiedra
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17763
+#EXTINF:-1 group-title="24/7 III" tvg-name="Los Simpson (Temporadas 1-5)" ,Los Simpson (Temporadas 1-5)
+http://planettvweb.com:8091/Schnyder56/VLap5784d/38573
+#EXTINF:-1 group-title="24/7 III" tvg-name="Los Simpson (Temporadas 18-21)" ,Los Simpson (Temporadas 18-21)
+http://planettvweb.com:8091/Schnyder56/VLap5784d/38575
+#EXTINF:-1 group-title="24/7 III" tvg-name="Los Simpson (Temporadas 22-26)" ,Los Simpson (Temporadas 22-26)
+http://planettvweb.com:8091/Schnyder56/VLap5784d/38576
+#EXTINF:-1 group-title="24/7 III" tvg-name="Los Tres Chiflados" ,Los Tres Chiflados
+http://planettvweb.com:8091/Schnyder56/VLap5784d/39174
+#EXTINF:-1 group-title="24/7 III" tvg-name="Nuestro Cine" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Nuestro Cine
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17750
+#EXTINF:-1 group-title="24/7 III" tvg-name="One Punch Man" ,One Punch Man
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73713
+#EXTINF:-1 group-title="24/7 III" tvg-name="Pablo Escobar" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Pablo Escobar
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17770
+#EXTINF:-1 group-title="24/7 III" tvg-name="PADRE DE FAMILIA SERIE TEMPORADA 1 - 9 HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,PADRE DE FAMILIA SERIE TEMPORADA 1 - 9 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17780
+#EXTINF:-1 group-title="24/7 III" tvg-name="PADRE DE FAMILIA SERIE TEMPORADA 10 - 14 HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,PADRE DE FAMILIA SERIE TEMPORADA 10 - 14 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17781
+#EXTINF:-1 group-title="24/7 III" tvg-name="TOM Y JERRY SERIE COMPLETA" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,TOM Y JERRY SERIE COMPLETA
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17751
+#EXTINF:-1 group-title="24/7 III" tvg-name="TrollHunters" ,TrollHunters
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73710
+#EXTINF:-1 group-title="24/7 III" tvg-name="TV ANIME" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,TV ANIME
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17762
+#EXTINF:-1 group-title="24/7 III" tvg-name="TV Series Retro" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,TV Series Retro
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16433
+#EXTINF:-1 group-title="24/7 III" tvg-name="Un Show Más" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" ,Un Show Más
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17764
+#EXTINF:-1 group-title="24/7 III" tvg-name="Yu-Gi-Oh!" ,Yu-Gi-Oh!
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73711
 #EXTINF:-1 group-title="3 AR02 Pluto ar" tvg-id="5dfcde52d28b09000a42d7a2" tvg-name="Pluto TV A La Mexicana" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" ,Pluto AR Cine A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 #EXTINF:-1 group-title="3 AR02 Pluto ar" tvg-id="5dcb62e63d4d8f0009f36881" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" ,Pluto AR Cine Acción
@@ -1051,68 +1505,18 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w279385552
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 group-title="5 Jujuy" tvg-logo="https://tinyurl.com/54ybehp4" ,Jujuy Canal 7  2
 https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w906685609_b1146880.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="64dab1f835425100080e1e7b" tvg-name="Acapulco Shore" tvg-logo="https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoPNG_1751300628513.png" ,Acapulco Shore
-https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="60d393e5579a420007ee553c" tvg-name="Casos de la Dra. Polo" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" ,Casos de la Dra. Polo
-https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="668c5cb4f01dbe0008dd4082" tvg-name="CBS en español" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" ,CBS en español
-https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 #EXTINF:-1 group-title="6Varios" tvg-id="673248f9030a2c0008033af8" tvg-name="CNN Noticias" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1777908720377.png" ,CNN Noticias
 https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="5cf96dad1652631e36d43320" tvg-name="Comedy Central en español" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png" ,Comedy Central en español
-https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="5ffcc21a432945000762d06b" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1762352083476.png" ,Comedy Central Pluto TV
-https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 #EXTINF:-1 group-title="6Varios" tvg-id="6419ab7c9189ce000865a469" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" ,COPS
 https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="6732499ce40c4a0008bb9894" tvg-name="Crimen" tvg-logo="https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/colorLogoPNG.png" ,Crimen
-https://jmp2.uk/plu-6732499ce40c4a0008bb9894.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="5e94cd036cc69d0007e8a1ba" tvg-name="Crímenes imperfectos" tvg-logo="https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" ,Crímenes imperfectos
-https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="604928d54a4f730007ff76bc" tvg-name="CSI en Español" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" ,CSI en Español
-https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="632b5950b515b000079e6b81" tvg-name="CSI: Miami en español" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" ,CSI: Miami en español
-https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="632b606e12a67b0007c9e371" tvg-name="CSI: NY en español" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png" ,CSI: NY en español
-https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
 #EXTINF:-1 group-title="6Varios" tvg-id="US2200003ZN" tvg-name="Curiosity Motores" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200003ZN_20240910T003743SQUARE.png" ,Curiosity Motores
 https://jmp2.uk/stvp-US2200003ZN
-#EXTINF:-1 group-title="6Varios" tvg-id="5f9992c685a2a80007fa414a" tvg-name="Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" ,Dog el cazarrecompensas
-https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="61099f2b40d0640007fc5aa2" tvg-name="El Encantador de Perros" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" ,El Encantador de Perros
-https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="5f23102d5e239d00074b092a" tvg-name="Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" ,Empeños a lo bestia
-https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
 #EXTINF:-1 group-title="6Varios" tvg-id="699763d184235f26d5056002" tvg-name="Enchufe.TV" tvg-logo="https://images.pluto.tv/channels/699763d184235f26d5056002/colorLogoPNG_1773231206751.png" ,Enchufe.TV
 https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="60492e6d7f3f560007ab0f62" tvg-name="Estrella News" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" ,Estrella News
-https://jmp2.uk/plu-60492e6d7f3f560007ab0f62.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="5cf0622da00ca1e2f6fac712" tvg-name="EstrellaTV" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" ,EstrellaTV
-https://jmp2.uk/plu-5cf0622da00ca1e2f6fac712.m3u8
 #EXTINF:-1 group-title="6Varios" tvg-id="5ebaccf1734aaf0007142c86" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" ,FailArmy
 https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="ESBC27000040I" tvg-name="GoUSA TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250610T010506SQUARE.png" ,GoUSA TV
-https://jmp2.uk/stvp-ESBC27000040I
-#EXTINF:-1 group-title="6Varios" tvg-id="68779a09c691b3f0964127c6" tvg-name="Heidi" tvg-logo="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png" ,Heidi
-https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="US2600019IC" tvg-name="Historia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" ,Historia
-https://jmp2.uk/stvp-US2600019IC
-#EXTINF:-1 group-title="6Varios" tvg-id="62154548a2be360007cb02f0" tvg-name="Ice Pilots" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" ,Ice Pilots
-https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="ES24000028L" tvg-name="Ice Pilots" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png" ,Ice Pilots
-https://jmp2.uk/stvp-ES24000028L
 #EXTINF:-1 group-title="6Varios" tvg-id="ESBC3500002PW" tvg-name="Ideas en 5 Minutos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png" ,Ideas en 5 Minutos
 https://jmp2.uk/stvp-ESBC3500002PW
-#EXTINF:-1 group-title="6Varios" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-name="Investiga" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" ,Investiga
-https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="668c566d08d5490008075948" tvg-name="La Familia del Barrio" tvg-logo="https://images.pluto.tv/channels/668c566d08d5490008075948/colorLogoPNG.png" ,La Familia del Barrio
-https://jmp2.uk/plu-668c566d08d5490008075948.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="ES1600002QL" tvg-name="La Fiebre del Jade" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png" ,La Fiebre del Jade
-https://jmp2.uk/stvp-ES1600002QL
-#EXTINF:-1 group-title="6Varios" tvg-id="68d27949793c71d988ca624c" tvg-name="Los Pitufos" tvg-logo="https://images.pluto.tv/channels/68d27949793c71d988ca624c/colorLogoPNG_1760370849099.png" ,Los Pitufos
-https://jmp2.uk/plu-68d27949793c71d988ca624c.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="5c01df1759ee03633e7b272c" tvg-name="Lucha Libre AAA" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" ,Lucha Libre AAA
-https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
 #EXTINF:-1 group-title="6Varios" tvg-id="656e2536fbc15b00084ae29d" tvg-name="Mi Coche Clásico" tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png" ,Mi Coche Clásico
 https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
 #EXTINF:-1 group-title="6Varios" tvg-id="5f4d882d5233170007ee880e" tvg-name="Misterios sin resolver" tvg-logo="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" ,Misterios sin resolver
@@ -1127,12 +1531,6 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:-1 group-title="6Varios" tvg-id="64025592953da40008bf9238" tvg-name="Obsesión por los Autos" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" ,Obsesión por los Autos
 https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="5cf96c0222df39f1a338d163" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png" ,Pluto TV Novelas
-https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="64ff270f30ab3300084e259c" tvg-name="Rookie Blue: Policías Novatos" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" ,Rookie Blue: Policías Novatos
-https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="605e479d5b8229000763e697" tvg-name="Sony Canal Escape Perfecto" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" ,Sony Canal Escape Perfecto
-https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8
 #EXTINF:-1 group-title="6Varios" tvg-id="65790feacbd0d60008fac87a" tvg-name="Telemundo Noticias California" tvg-logo="https://images.pluto.tv/channels/65790feacbd0d60008fac87a/colorLogoPNG.png" ,Telemundo Noticias California
 https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
 #EXTINF:-1 group-title="6Varios" tvg-id="64dab5fe35425100080e2991" tvg-name="Vevo Regional Mexicano" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" ,Vevo Regional Mexicano
@@ -1143,30 +1541,70 @@ https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 https://jmp2.uk/plu-673249afc7626f0008c7205d.m3u8
 #EXTINF:-1 group-title="6Varios" ,World Fashion Channel
 https://cdn.wfc.tv/cdn/stream-eng.m3u8
-#EXTINF:-1 group-title="6Varios" tvg-id="63c69c87808b740007599fe1" tvg-name="Érase una vez..." tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" ,Érase una vez...
-https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0222" tvg-name="A24" tvg-logo="https://logos-world.net/wp-content/uploads/2025/04/A24-Logo-New.png" ,# A24
 http://planettvweb.com:8091/Carmen65/RMap9748d/11865
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="A 24 HD" tvg-logo="http://descargas.podzone.net/logos/-A24.png" ,# A24 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11903
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="A 24 SD" tvg-logo="http://descargas.podzone.net/logos/-A24.png" ,# A24 SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11865
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0932" tvg-name="C5N" ,# C5N
 http://planettvweb.com:8091/Carmen65/RMap9748d/11863
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="C5N HD" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" ,# C5N HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11902
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="C5N" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" ,# C5N SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11863
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="CANAL 26 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-26.png" ,# Canal 26 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11900
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0934" tvg-name="Crónica TV" ,# Cronica
 http://planettvweb.com:8091/Carmen65/RMap9748d/11894
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="CRONICA TV HD" tvg-logo="http://descargas.podzone.net/logos/-cronica.png" ,# Cronica TV HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11894
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0916" tvg-name="El Nueve" ,# El Nueve
 http://planettvweb.com:8091/Carmen65/RMap9748d/11859
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="CANAL 9 HD" tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" ,# El Nueve HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11899
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="CANAL 9 SD" tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" ,# El Nueve SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11859
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0915" tvg-name="El Trece" ,# El Trece
 http://planettvweb.com:8091/Carmen65/RMap9748d/11862
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="CANAL 13 HD" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" ,# El Trece HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11901
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="Canal 13 Internacional" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" ,# El Trece Internacional
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12443
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="CANAL 13 SD" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" ,# El Trece SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11862
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0904" tvg-name="La Nacion" ,# La Nacion TV
 http://planettvweb.com:8091/Carmen65/RMap9748d/11878
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="LN+" tvg-logo="http://descargas.podzone.net/logos/-LN+.png" ,# LN+
+http://planettvweb.com:8091/Schnyder56/VLap5784d/14186
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="LN+ SD" tvg-logo="http://descargas.podzone.net/logos/-LN+.png" ,# LN+ SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11878
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0909" tvg-name="Telefe" ,# Telefe
 http://planettvweb.com:8091/Carmen65/RMap9748d/11840
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0905" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" ,# TN
 http://planettvweb.com:8091/Carmen65/RMap9748d/11839
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="TN HD" tvg-logo="http://descargas.podzone.net/logos/-TN-argentina.png" ,# TN HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11874
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="TN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" ,# TN SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11839
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0903" tvg-name="TV Pública" tvg-logo="https://files.catbox.moe/kezveb.png" ,# TV Publica
 http://planettvweb.com:8091/Carmen65/RMap9748d/14415
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="AMERICA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" ,AMERICA
+http://planettvweb.com:8091/Schnyder56/VLap5784d/28071
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="AMERICA HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" ,AMERICA HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11904
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="AMERICA SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" ,AMERICA SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11866
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="ARGENTINISIMA" tvg-logo="http://television.com.ar/wp-content/uploads/2010/07/ARGENTINISIMA-.jpg" ,ARGENTINISIMA
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11864
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="CINEAR HD" tvg-logo="http://pensilvaniafilms.com/wp-content/uploads/2017/10/CINEAR.png" ,CINEAR HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11897
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0431" ,DSports
 http://planettvweb.com:8091/Carmen65/RMap9748d/12739
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0432" ,DSports 2
 http://planettvweb.com:8091/Carmen65/RMap9748d/12042
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="ENCUENTRO HD" tvg-logo="http://descargas.podzone.net/logos/-encuentro.png" ,ENCUENTRO HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11892
 #EXTINF:-1 group-title="ARG planettvweb" ,ESPN
 http://planettvweb.com:8091/Carmen65/RMap9748d/12755
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="1418" ,ESPN Premium
@@ -1175,14 +1613,28 @@ http://planettvweb.com:8091/Carmen65/RMap9748d/16453
 http://planettvweb.com:8091/Carmen65/RMap9748d/11702
 #EXTINF:-1 group-title="ARG planettvweb" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" ,GH - La Casa
 http://planettvweb.com:8091/Carmen65/RMap9748d/116384
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="METRO HD" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2263.png" ,METRO HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11884
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="TELEFE HD" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" ,TELEFE HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11879
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="TELEFE HD ARG" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" ,TELEFE HD ARG
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16274
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="TELEFE INTERNACIONAL SD" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" ,TELEFE INTERNACIONAL SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11858
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="TELEFE SD 1" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" ,TELEFE SD 1
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11840
 #EXTINF:-1 group-title="ARG planettvweb" ,TNT Sports HD
 http://planettvweb.com:8091/Carmen65/RMap9748d/12004
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="0404" ,TNT Sports Premium
 http://planettvweb.com:8091/Carmen65/RMap9748d/11873
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="TV PUBLICA SD" tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" ,TV PUBLICA SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/14415
 #EXTINF:-1 group-title="ARG planettvweb" tvg-id="1409" ,TyC Sports
 http://planettvweb.com:8091/Carmen65/RMap9748d/12040
 #EXTINF:-1 group-title="ARG planettvweb" ,TyC Sports HD
 http://planettvweb.com:8091/Carmen65/RMap9748d/20322
+#EXTINF:-1 group-title="ARG planettvweb" tvg-name="VOLVER" tvg-logo="http://descargas.podzone.net/logos/-volver.png" ,VOLVER
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11868
 #EXTINF:-1 group-title="ARG PLAYtv" tvg-name="A24  ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" ,A24  ʜᴅ
 http://daleplaytv.vip/live/123MMM/654321/81289.ts
 #EXTINF:-1 group-title="ARG PLAYtv" tvg-name="A24  ꜱᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" ,A24  ꜱᴅ
@@ -1337,194 +1789,6 @@ http://daleplaytv.vip/live/123MMM/654321/81265.ts
 http://daleplaytv.vip/live/123MMM/654321/140128.ts
 #EXTINF:-1 group-title="ARG PLAYtv" tvg-name="VOLVER HD opc  ²" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" ,VOLVER HD opc  ²
 http://daleplaytv.vip/live/123MMM/654321/421649.ts
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,26 TV
-http://181.209.38.115:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,A&E
-http://181.209.38.115:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" tvg-logo="https://logos-world.net/wp-content/uploads/2025/04/A24-Logo-New.png" ,A24
-http://181.209.38.115:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,ADULTO SWIM HD
-http://181.209.38.115:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,AM SPORT
-http://181.209.38.115:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,AMC
-http://181.209.38.115:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,AMC SERIE
-http://181.209.38.115:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,AMERICA HD
-http://181.209.38.115:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,ANIMAL PLANET
-http://181.209.38.115:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,AXN
-http://181.209.38.115:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,BABY TV
-http://181.209.38.115:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,C5N
-http://181.209.38.115:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,CANAL A
-http://181.209.38.115:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,CANAL DE LAS ESTRELLAS
-http://181.209.38.115:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,CARTOON NETWORK HD
-http://181.209.38.115:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,CINE AR
-http://181.209.38.115:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,CINECANAL HD
-http://181.209.38.115:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,CINEMAX
-http://181.209.38.115:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,CIUDAD MAGAZINE
-http://181.209.38.115:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,CNN EN ESPAÑOL
-http://181.209.38.115:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,COMEDY CENTRAL HD
-http://181.209.38.115:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,CRONICA HD
-http://181.209.38.115:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DEPORTV
-http://181.209.38.115:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DISCOVERY H&H
-http://181.209.38.115:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DISCOVERY HD
-http://181.209.38.115:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DISCOVERY KIDS
-http://181.209.38.115:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DISCOVERY SCIENCE
-http://181.209.38.115:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DISCOVERY THEATHER
-http://181.209.38.115:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DISCOVERY TURBO
-http://181.209.38.115:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DISCOVERY WORLD
-http://181.209.38.115:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DISNEY HD
-http://181.209.38.115:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DISNEY JR
-http://181.209.38.115:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,DW
-http://181.209.38.115:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,E! HD
-http://181.209.38.115:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,EL GOURMET
-http://181.209.38.115:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,EL NUEVE HD
-http://181.209.38.115:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,EL TRECE
-http://181.209.38.115:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,ENCUENTRO
-http://181.209.38.115:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,ESPN 2 HD
-http://181.209.38.115:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,ESPN 3
-http://181.209.38.115:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,ESPN 4
-http://181.209.38.115:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,ESPN HD
-http://181.209.38.115:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,ESPN PREMIUM
-http://181.209.38.115:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,EUROPA
-http://181.209.38.115:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,EWTN
-http://181.209.38.115:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,FILM & ARTS
-http://181.209.38.115:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,FOX SPORT
-http://181.209.38.115:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,FOX SPORT 2
-http://181.209.38.115:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,FOX SPORT 3
-http://181.209.38.115:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,FX HD
-http://181.209.38.115:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,GARAGE
-http://181.209.38.115:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,HBO
-http://181.209.38.115:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,HBO +
-http://181.209.38.115:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,HBO 2
-http://181.209.38.115:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,HBO FAMILY
-http://181.209.38.115:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,HBO MUNDI
-http://181.209.38.115:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,HBO SIGNATURE
-http://181.209.38.115:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,HBO XTREME
-http://181.209.38.115:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,HGTV
-http://181.209.38.115:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,HISTORY 2
-http://181.209.38.115:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,HTV
-http://181.209.38.115:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,LA NACION +
-http://181.209.38.115:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,LIFE TIME
-http://181.209.38.115:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,METRO
-http://181.209.38.115:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,MTV
-http://181.209.38.115:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,NATGEO
-http://181.209.38.115:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,NICK
-http://181.209.38.115:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,NICK JR
-http://181.209.38.115:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,PAKAPAKA
-http://181.209.38.115:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,QUIERO MUSICA
-http://181.209.38.115:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,RAI
-http://181.209.38.115:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,RT
-http://181.209.38.115:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,RURAL
-http://181.209.38.115:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,SONY HD
-http://181.209.38.115:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,SONY MOVIE
-http://181.209.38.115:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,SPACE HD
-http://181.209.38.115:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,STAR CHANNEL
-http://181.209.38.115:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,STUDIO UNIVERSAL
-http://181.209.38.115:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TCM
-http://181.209.38.115:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TELEFE HD
-http://181.209.38.115:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,THE HISTORY CHANNEL HD
-http://181.209.38.115:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TL NOVELAS
-http://181.209.38.115:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TN HD
-http://181.209.38.115:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TNT HD
-http://181.209.38.115:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TNT NOVELAS
-http://181.209.38.115:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TNT SERIE
-http://181.209.38.115:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TNT SPORT
-http://181.209.38.115:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TV PUBLICA HD
-http://181.209.38.115:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TVE
-http://181.209.38.115:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,TYC SPORT
-http://181.209.38.115:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,UNIVERSAL
-http://181.209.38.115:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,USA NETWORK
-http://181.209.38.115:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,VOLVER
-http://181.209.38.115:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="ASTRA Argentina 3" ,WARNER
-http://181.209.38.115:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="CINE" tvg-name="A&E HD" tvg-logo="http://imgfz.com/i/mR0lHE3.png" ,A&E HD
 http://daleplaytv.vip/live/123MMM/654321/435979.ts
 #EXTINF:-1 group-title="CINE" tvg-name="A&E SD" tvg-logo="http://imgfz.com/i/fyhe0NT.png" ,A&E SD
@@ -2163,6 +2427,8 @@ https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://190.110.96.238:8000/play/a06t/index.m3u8
 #EXTINF:-1 group-title="Rumtime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRaIxjMsQBKfVur1plYW9ZPugaR4FMzTC4m-WhwRpGg&s=10" ,Rumtime
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh_720.m3u8
+#EXTINF:-1 group-title="Rumtime" ,RUN:TIME
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 group-title="z" tvg-logo="https://i.ibb.co/MDn5f3F/Logo-Grjngo.jpg" ,*Grjngo 1.1
 https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
 #EXTINF:-1 group-title="z" ,*Western 2  HD 2
@@ -2185,6 +2451,10 @@ http://190.102.242.130:25461/live/familypower/1234567/149.m3u8
 http://190.102.242.130:25461/live/terrorpower/123456789/99.m3u8
 #EXTINF:-1 group-title="z" tvg-logo="https://tinyurl.com/Cinewar1" ,+CINE WAR
 http://190.102.242.130:25461/live/cinrwarpower/123456789/190.m3u8
+#EXTINF:-1 group-title="z" tvg-name="El Mentalista  24/7" tvg-logo="https://i.postimg.cc/9f3PyRQk/MV5BMTgw-ZWU1MWEt-Mz-U3ZC00ZGE4LTlh-Zm-Mt-Mm-Zk-Nj-Aw-NWFh-MDU3Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" ,- El Mentalista  24/7
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/737505.ts
+#EXTINF:-1 group-title="z" tvg-id="El Mentalista" tvg-logo="https://static.wikia.nocookie.net/thementalist/images/9/96/El_mentalista.png/revision/latest?cb=20130111174359&path-prefix=es" ,- El Mentalista 24/7
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16062
 #EXTINF:-1 group-title="z" ,-# MX Drama
 http://190.110.96.238:8000/play/a0bn/index.m3u8
 #EXTINF:-1 group-title="z" tvg-logo="https://sitelco.tv/img/canales/logos/63.webp" ,-# MX Prime

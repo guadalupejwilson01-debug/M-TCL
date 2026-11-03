@@ -253,21 +253,3 @@ https://cdn-zapster-ros.trapemn.tv:1936/zapster/TNT_Novelas.stream/playlist.m3u8
 https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/tvpublica.stream/playlist.m3u8
 #EXTINF:-1 group-title="ARG zapster" ,vive.TV
 https://cdn-zapster-ros.trapemn.tv:1936/Zapster-hls/vivetv.stream/playlist.m3u8
-#EXTINF:-1 group-title="1" ,COWBOY
-http://200.123.40.1:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="1" ,CREO MOVIES
-http://200.123.40.1:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="1" ,CREO TV
-http://200.123.40.1:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="1" ,EPICRISE
-http://200.123.40.1:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="1" ,FAMICHANNELS
-http://200.123.40.1:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="1" ,HEI HD
-http://200.123.40.1:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="1" ,HERO MAX
-http://200.123.40.1:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="1" ,OLD MOVIES
-http://200.123.40.1:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="1" ,WarZone
-http://200.123.40.1:8000/play/a060/index.m3u8

@@ -56,7 +56,7 @@ http://iptvpremium.ink:55577/Kevin4466/Kevin4466ddd/252452
 #EXTINF:-1 group-title="011" ,- Depredador 24°7
 http://liontv.es:8080/RobertoArce/pZbSDnRqam/1383572
 #EXTINF:-1 group-title="011" tvg-logo="https://static.wikia.nocookie.net/house/images/e/e5/House%2C_M.D._Season_7.jpg/revision/latest?cb=20251009033345" ,- Dr. House 24°7
-https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211979/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-name="24/7 | EL GRAN CHAPARRAL ⭐️" tvg-logo="http://2.bp.blogspot.com/_7-NlknExAYo/TMrLkFFgmAI/AAAAAAAAIUQ/F7DcyMwnxfQ/s1600/HC%2520GRAPHIC.jpg" ,- El Gran Chaparral 24°7 Op1
 http://xdplus.site:8880/live/NHWSZ/YVKFH/217386.ts
 #EXTINF:-1 group-title="011" tvg-name="ElGranChaparral" tvg-logo="http://127.0.0.1/" ,- El Gran Chaparral 24°7 Op2
@@ -96,7 +96,7 @@ http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" ,- Marvel STUDIO 1
 http://23.153.217.158:8080/live/950056120tv/x334rews27/281251.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" ,- Marvel STUDIO 2
-http://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 group-title="011" tvg-name="24/7 | PELÍCULAS SPIDER-MAN ⭐️" tvg-logo="https://w7.pngwing.com/pngs/702/302/png-transparent-red-and-blue-spider-man-illustration-spider-man-spider-man-comics-heroes-comic-book.png" ,- Películas de Spider-Man
 http://xdplus.site:8880/live/NHWSZ/YVKFH/217011.ts
 #EXTINF:-1 group-title="011" tvg-name="24/7 | PIRATAS DEL CARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" ,- Piratas del Caribe
@@ -247,6 +247,16 @@ http://201.186.41.99:8001/play/a06m/index.m3u8
 http://190.60.39.220:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://fmh.la/img/logo_rewind.png" ,* FMH Rewind -
 http://190.60.39.220:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://gia.tv/streams/pptv/209163.png" ,* MAX 2
+https://183.giatvcdn.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://gia.tv/streams/pptv/208138.png" ,* MAX Cine
+https://183.giatvcdn.com/giatvplayout7/giatv-208138/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://gia.tv/streams/pptv/208730.png" ,* MAX Comedy
+https://183.giatvcdn.com/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://gia.tv/streams/pptv/208817.png" ,* MAX Family
+https://183.giatvcdn.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://gia.tv/streams/pptv/209909.png" ,* MAX Kids
+https://183.giatvcdn.com/giatvplayout7/giatv-209909/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" ,+ESTRENO 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" ,+ESTRENO 2
@@ -357,6 +367,26 @@ https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 group-title="2 ar01" tvg-id="Paramount+ Terror" tvg-name="Paramount+ Terror" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png" ,Paramount+ Terror
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,AVI_CINE
+http://45.70.201.81:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,AVI_REWIND
+http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/rGHsn9Rh/file-00000000b124820e9015d373d7bf9af1.png" ,IPERSONICATV
+https://183.giatvcdn.com/ssh101/ssh101/ipersonica/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/twwhpNg7/1768151365360.png" ,MIX TV BOLIVIA
+https://183.giatvcdn.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/q3mftBF7/HD-wallpaper-ios-14-ipados-dark-red-and-black-stock-abstract-1.png" ,MOVIEFLIX
+https://183.giatvcdn.com/ssh101/ssh101/montegrandetv/chunks.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/tPY671yt/HD-wallpaper-ios-14-ipados-dark-red-and-black-stock-abstract-3.png" ,MOVIEFLIX SERIES
+https://183.giatvcdn.com/giatvplayout7/giatv-212443/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/nMfXKRY7/file-00000000e454820ea6ec23736d49c485.png" ,RESTELLI TV
+https://183.giatvcdn.com/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/b57Q9kcL/images-62.png" ,UNIVERSO
+https://183.giatvcdn.com/giatv/giatv-universotv/universotv/chunks.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,WARZONE
+http://45.70.201.81:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/j9B3Dm4j/1768077488179.png" ,WOW MOVIES
+https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,✔️ +MAS
 http://38.210.105.10:8000/play/a09s/index.m3u8
 #EXTINF:0 group-title="2 ar01.1" ,✔️ Aurora Media Films
@@ -3047,12 +3077,16 @@ http://190.102.242.130:25461/live/familypower/1234567/149.m3u8
 http://190.102.242.130:25461/live/terrorpower/123456789/99.m3u8
 #EXTINF:-1 group-title="z" tvg-logo="https://tinyurl.com/Cinewar1" ,+CINE WAR
 http://190.102.242.130:25461/live/cinrwarpower/123456789/190.m3u8
+#EXTINF:-1 group-title="z" tvg-logo="https://static.wikia.nocookie.net/house/images/e/e5/House%2C_M.D._Season_7.jpg/revision/latest?cb=20251009033345" ,- Dr. House 24°7
+https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8
 #EXTINF:-1 group-title="z" ,- IMCU 24/7
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 group-title="z" tvg-logo="https://cdn.phototourl.com/free/2026-07-21-cc1d4e4d-57e2-4680-ace6-057ce5927cb5.png" ,- MARVEL & DC
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 group-title="z" tvg-logo="https://cdn.phototourl.com/free/2026-07-21-cc1d4e4d-57e2-4680-ace6-057ce5927cb5.png" ,- Marvel -24/7
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 group-title="z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" ,- Marvel STUDIO 2
+http://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 group-title="z" ,- Marvel2
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 group-title="z" ,-# MX Drama

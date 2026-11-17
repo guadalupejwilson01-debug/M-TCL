@@ -39,7 +39,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
 https://janimotion.com/hls/janimotion/index.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SPbjllljkBcjyV-bG86yEZuIGBEsS3rG6A&s" ,+Anime Locomotion
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
-#EXTINF:-1 group-title="011" tvg-name="Max Anime" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" ,+Anime Max Anime HD
+#EXTINF:-1 group-title="011" tvg-name="Max Anime" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_680c3554f3111.jpg" ,+Anime Max Anime HD
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 group-title="011" tvg-id="Primired" tvg-name="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" ,+Anime Primired HD
 https://cdn.40mediagroup.com/live/c7eds/Primired/SA_LIVE_hls_enc/playlist.m3u8
@@ -61,9 +61,7 @@ https://183.giatvcdn.com/giatvplayout7/giatv-211979/playlist.m3u8
 http://xdplus.site:8880/live/NHWSZ/YVKFH/217386.ts
 #EXTINF:-1 group-title="011" tvg-name="ElGranChaparral" tvg-logo="http://127.0.0.1/" ,- El Gran Chaparral 24°7 Op2
 http://iptvpremium.ink:55577/Kevin4466/Kevin4466ddd/252472
-#EXTINF:-1 group-title="011" tvg-id="El Mentalista" tvg-logo="https://static.wikia.nocookie.net/thementalist/images/9/96/El_mentalista.png/revision/latest?cb=20130111174359&path-prefix=es" ,- El Mentalista  24/7 Op1
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16062
-#EXTINF:-1 group-title="011" tvg-name="El Mentalista  24/7" tvg-logo="https://i.postimg.cc/9f3PyRQk/MV5BMTgw-ZWU1MWEt-Mz-U3ZC00ZGE4LTlh-Zm-Mt-Mm-Zk-Nj-Aw-NWFh-MDU3Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" ,- El Mentalista  24/7 Op2
+#EXTINF:-1 group-title="011" tvg-name="El Mentalista  24/7" tvg-logo="https://i.postimg.cc/9f3PyRQk/MV5BMTgw-ZWU1MWEt-Mz-U3ZC00ZGE4LTlh-Zm-Mt-Mm-Zk-Nj-Aw-NWFh-MDU3Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" ,- El Mentalista  24/7
 https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/737505.ts
 #EXTINF:-1 group-title="011" tvg-name="24/7 | EL ZORRO 1957 ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Zorro_1957_show_logo.jpg" ,- El Zorro (1957) 24°7
 http://xdplus.site:8880/live/NHWSZ/YVKFH/107878.ts
@@ -71,8 +69,6 @@ http://xdplus.site:8880/live/NHWSZ/YVKFH/107878.ts
 http://xdplus.site:8880/live/NHWSZ/YVKFH/107923.ts
 #EXTINF:-1 group-title="011" tvg-id="Friends" tvg-logo="https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png" ,- Friends 🇺🇸 (Op. 2)
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281223
-#EXTINF:-1 group-title="011" tvg-name="24/7 - FUTURAMA" tvg-logo="https://nousplayer.io:443/images/49d136b373c740b887baa3d82b2099e22fb96b87.png" ,- Futurama
-https://nousplayer.io:443/channel/soytrico/lolita214/29407.ts
 #EXTINF:-1 group-title="011" tvg-name="24/7 | FUTURAMA ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/h4xfofursz2py5j/futurama.png" ,- Futurama 24°7
 http://xdplus.site:8880/live/NHWSZ/YVKFH/46284.ts
 #EXTINF:-1 group-title="011" tvg-id="Happy Tree Friends" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/HTF_Tree_logo.png/revision/latest/scale-to-width-down/250?cb=20231021193938" ,- Happy Tree Friends 24°7
@@ -119,14 +115,8 @@ http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/35840.ts
 http://xdplus.site:8880/live/NHWSZ/YVKFH/107989.ts
 #EXTINF:-1 group-title="011" tvg-id="LOCOMOTION24/7" tvg-name="LOCOMOTION 24/7" tvg-logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png" ,24/7 Locomotion HD
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
-#EXTINF:-1 group-title="011" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the Middle
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTINF:-1 group-title="011" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the Middle
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16056
 #EXTINF:-1 group-title="011" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the middle 🇺🇸
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281253
-#EXTINF:-1 group-title="011" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the middle 🇺🇸 (Op. 1)
-http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBc3FWNnlZL3hrVERnVHlhSHd5dEtlQT0
 #EXTINF:-1 group-title="011" ,24/7 Spartacus
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/17380.ts
 #EXTINF:-1 group-title="011" tvg-name="24/7 | THE BIG BANG THEORY TEMP 1 Y 2 ⭐️" tvg-logo="https://e1.pngegg.com/pngimages/941/448/png-clipart-tv-folder-icons-colorflow-set-5-the-big-bang-theory-2-the-big-bang-theory-file-icon-thumbnail.png" ,24/7 The Big Bang Theory  T 1 Y 2 ⭐️
@@ -143,12 +133,6 @@ http://23.153.217.158:8080/998411519tv/pa9qnqi/281126
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16153
 #EXTINF:-1 group-title="011" tvg-id="The big bang theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" ,24/7 The big bang theory 🇺🇸 (Op. 5)
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16155
-#EXTINF:-1 group-title="011" tvg-logo="https://w7.pngwing.com/pngs/789/635/png-transparent-homer-simpson-marge-simpson-bart-simpson-television-show-los-simpsons-television-text-cartoon.png" ,24/7 The Simpson  1
-https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
-#EXTINF:-1 group-title="011" tvg-id="320335" tvg-name="Los Simpson 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" ,24/7 The Simpson  2
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="011" tvg-logo="https://w7.pngwing.com/pngs/771/352/png-transparent-the-simpsons-characters-illustration-homer-simpson-marge-simpson-maggie-simpson-lisa-simpson-bart-simpson-the-simpsons-text-cartoon-fictional-character.png" ,24/7 The Simpsons  #
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true" ,c Discovery H&H
 http://170.82.115.10:8000/play/a04u/index.m3u8
 #EXTINF:-1 group-title="011" tvg-logo="https://imgur.com/1pQPxu3" ,c Discovery Turbo
@@ -321,37 +305,37 @@ http://191.97.49.82:8001/play/a00s/index.m3u8
 http://191.97.49.82:8001/play/a00t/index.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" ,CINEPREMIUN HD
 http://191.97.49.82:8001/play/a00u/index.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Channel" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png" ,ENT Channel
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Channel" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63aa327458.png" ,ENT Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Channel" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png" ,ENT Channel
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Channel" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63aa327458.png" ,ENT Channel
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Classic" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png" ,ENT Classic
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Classic" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63ca656f12.png" ,ENT Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Classic" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png" ,ENT Classic
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Classic" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63ca656f12.png" ,ENT Classic
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-id="ent.comedy" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" ,ENT Comedy
+#EXTINF:-1 group-title="2 ar01" tvg-id="ent.comedy" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63c0f26eb6.png" ,ENT Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Comedy" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" ,ENT Comedy
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Comedy" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63c0f26eb6.png" ,ENT Comedy
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Drama" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" ,ENT Drama
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Drama" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63c4d9dad9.png" ,ENT Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Drama" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" ,ENT Drama
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Drama" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63c4d9dad9.png" ,ENT Drama
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Extreme" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" ,ENT Extreme
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Extreme" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63ba69db37.png" ,ENT Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Extreme" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" ,ENT Extreme
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Extreme" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63ba69db37.png" ,ENT Extreme
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Family" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png" ,ENT Family
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Family" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63b505ccf8.png" ,ENT Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Family" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png" ,ENT Family
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Family" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63b505ccf8.png" ,ENT Family
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Life" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png" ,ENT Life
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Life" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63cfd53f58.png" ,ENT Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Life" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png" ,ENT Life
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Life" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63cfd53f58.png" ,ENT Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Movies" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png" ,ENT Movies
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Movies" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63afcc97cb.png" ,ENT Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Movies" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png" ,ENT Movies
+#EXTINF:-1 group-title="2 ar01" tvg-id="ENT Movies" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63afcc97cb.png" ,ENT Movies
 https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="2 ar01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" ,Paramount HD
 http://181.224.200.5:2277/play/a0df/index.m3u8
@@ -367,12 +351,50 @@ https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 group-title="2 ar01" tvg-id="Paramount+ Terror" tvg-name="Paramount+ Terror" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png" ,Paramount+ Terror
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69b5ccf580f97.jpg" ,RETROPLUS 1
+http://216.244.158.194:8000/play/a0uu/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69b5cfba64707.jpg" ,RETROPLUS 2
+http://216.244.158.194:8000/play/a0uv/index.m3u8
+#EXTINF:-1 group-title="2 ar01" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69b5d01512213.jpg" ,RETROPLUS 3
+http://216.244.158.194:8000/play/a0uw/index.m3u8
+#EXTINF:-1 group-title="2 ar01" ,WARZONE
+http://45.70.201.81:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,* ACTION PRIME
+http://216.244.158.194:8000/play/a0ux/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,* LEJANO OESTE
+http://216.244.158.194:8000/play/a0tj/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,AVI_CINE
 http://45.70.201.81:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,AVI_REWIND
 http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,ETC
+http://216.244.158.194:8000/play/a0t6/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,Film&Arts
+http://216.244.158.194:8000/play/a0go/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,Golden
+http://216.244.158.194:8000/play/a0eo/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,Golden Edge
+http://216.244.158.194:8000/play/a0en/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,HBO 2
+http://216.244.158.194:8000/play/a0uk/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,HBO Family HD
+http://216.244.158.194:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,HBO HD
+http://216.244.158.194:8000/play/a0jv/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,HBO Mundi
+http://216.244.158.194:8000/play/a0mq/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,HBO Plus
+http://216.244.158.194:8000/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,HBO POP HD
+http://216.244.158.194:8000/play/a0cz/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,HBO Signature
+http://216.244.158.194:8000/play/a0mp/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,HBO XTREME HD
+http://216.244.158.194:8000/play/a0d6/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/rGHsn9Rh/file-00000000b124820e9015d373d7bf9af1.png" ,IPERSONICATV
 https://183.giatvcdn.com/ssh101/ssh101/ipersonica/playlist.m3u8
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo-small="https://www.chiletvapp.com/admin/uploads/mobile_680c3554f3111.jpg" ,MAX ANIME
+http://216.244.158.194:8000/play/a0u4/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/twwhpNg7/1768151365360.png" ,MIX TV BOLIVIA
 https://183.giatvcdn.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/q3mftBF7/HD-wallpaper-ios-14-ipados-dark-red-and-black-stock-abstract-1.png" ,MOVIEFLIX
@@ -381,17 +403,21 @@ https://183.giatvcdn.com/ssh101/ssh101/montegrandetv/chunks.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212443/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/nMfXKRY7/file-00000000e454820ea6ec23736d49c485.png" ,RESTELLI TV
 https://183.giatvcdn.com/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,Sony HD
+http://216.244.158.194:8000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,Sony Movies
+http://216.244.158.194:8000/play/a0t4/index.m3u8
+#EXTINF:-1 group-title="2 ar01.1" ,Space HD
+http://216.244.158.194:8000/play/a0vl/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/b57Q9kcL/images-62.png" ,UNIVERSO
 https://183.giatvcdn.com/giatv/giatv-universotv/universotv/chunks.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,WARZONE
-http://45.70.201.81:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://i.ibb.co/j9B3Dm4j/1768077488179.png" ,WOW MOVIES
 https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,✔️ +MAS
 http://38.210.105.10:8000/play/a09s/index.m3u8
 #EXTINF:0 group-title="2 ar01.1" ,✔️ Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 group-title="2 ar01.1" ,✔️ Autonoma TV
+#EXTINF:-1 group-title="2 ar01.1" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a2b6705d2dab.jpg" ,✔️ Autonoma TV
 http://38.3.162.3:18009/play/a0kj/index.m3u8
 #EXTINF:-1 group-title="2 ar01.1" ,✔️ B&N
 http://38.7.195.44:8000/play/a0c7
@@ -525,7 +551,7 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/1080p/index.m
 https://s.emisoras.tv:8081/bendicionchannel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="2 ar01.3" ,Best Clásicos TV HD
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
-#EXTINF:-1 group-title="2 ar01.3" tvg-logo="https://i.ibb.co/DDTQr8c4/LOGO-BOMBI-TV-HORIZONTAL-V2-1-scaled.png" ,BOMBI TV
+#EXTINF:-1 group-title="2 ar01.3" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67e490a14f0eb.png" ,BOMBI TV
 https://tv.arkeo.cl:1936/bombitv/bombitv/chunklist_w1423969722.m3u8
 #EXTINF:-1 group-title="2 ar01.3" ,Bombi TV
 https://tv.arkeo.cl:1936/bombitv/bombitv/chunklist_w1423969722.m3u8
@@ -779,7 +805,7 @@ https://fox.hostlagarto.com:8081/puntotv/index.m3u8
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 group-title="2 ar01.3" tvg-logo="https://tinyurl.com/Restellitv" ,RESTELLI TV
 https://live20.bozztv.com/giatvplayout7/giatv-208744/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="2 ar01.3" tvg-logo="https://i.ibb.co/Jj3nn2PN/631-6aaed802073bc.png" ,RETRO TV ONLINE
+#EXTINF:-1 group-title="2 ar01.3" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a4ef95233782.jpg" ,RETRO TV ONLINE
 https://stream.enlineatv.net/hls/retrotv/index.m3u8
 #EXTINF:-1 group-title="2 ar01.3" tvg-logo="https://i.ibb.co/hF2h7x7r/Logo-Retrox-Plus.png" ,Retrox Plus HD
 https://lbgo.bozztv.com/ssh101/ssh101/erinaca/playlist.m3u8
@@ -1017,7 +1043,7 @@ https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209634/index.m3u8
 #EXTINF:-1 group-title="2 ar02" ,-+ Canal Claro
 http://38.252.215.33:8000/play/a080/index.m3u8
-#EXTINF:-1 group-title="2 ar02" ,-+ CGTN Español
+#EXTINF:-1 group-title="2 ar02" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67e985592f33f.jpg" ,-+ CGTN Español
 http://38.252.215.33:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="2 ar02" ,-+ Cinema Global
 http://38.252.215.33:8000/play/a01d/index.m3u8
@@ -1953,7 +1979,7 @@ http://38.3.162.3:18009/play/a0ht/index.m3u8
 http://38.3.162.3:18009/play/a04u/index.m3u8
 #EXTINF:-1 group-title="Cable2" ,TCM
 http://38.3.162.3:18009/play/a04v/index.m3u8
-#EXTINF:-1 group-title="Cable2" ,total music
+#EXTINF:-1 group-title="Cable2" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63d67b1f03.png" ,total music
 http://38.3.162.3:18009/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="Cable2" ,Warner
 http://38.3.162.3:18009/play/a0dx/index.m3u8
@@ -2973,11 +2999,11 @@ https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="https://i.ibb.co/d40hcNLf/Logo-Top-New-Radio-TV.png" ,Top New Radio TV
 https://5ff3d9babae13.streamlock.net/dxwdsmgesp/dxwdsmgesp/playlist.m3u8
-#EXTINF:-1 group-title="Música" tvg-id="TMC.40mediaGroup" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" ,Totalmusic
+#EXTINF:-1 group-title="Música" tvg-id="TMC.40mediaGroup" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63d67b1f03.png" ,Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="Música" tvg-id="TMC2000s.40mediaGroup" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" ,Totalmusic 2000s
+#EXTINF:-1 group-title="Música" tvg-id="TMC2000s.40mediaGroup" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63de7d8729.png" ,Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="Música" tvg-id="TMC80s.40mediaGroup" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" ,Totalmusic 80s
+#EXTINF:-1 group-title="Música" tvg-id="TMC80s.40mediaGroup" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63d9dce4aa.png" ,Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="Música" tvg-id="TMCConcerts.40mediaGroup" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" ,Totalmusic Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
@@ -2987,6 +3013,8 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/05/LOGO_UNIVALLE_TV_sinfondo-1-e1654152218733.png?fit=200%2C200&ssl=1" ,UNIVALLE
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69b5d147e8858.jpg" ,V Clasic TV
+http://216.244.158.194:8000/play/a0tt/index.m3u8
 #EXTINF:-1 group-title="Música" tvg-id="Vevo70s.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-70s-vod.png?raw=true" ,Vevo '70s 🇺🇸
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
 #EXTINF:-1 group-title="Música" tvg-id="Vevo80s.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-80s-vod.png?raw=true" ,Vevo '80s 🇺🇸
@@ -3079,6 +3107,10 @@ http://190.102.242.130:25461/live/terrorpower/123456789/99.m3u8
 http://190.102.242.130:25461/live/cinrwarpower/123456789/190.m3u8
 #EXTINF:-1 group-title="z" tvg-logo="https://static.wikia.nocookie.net/house/images/e/e5/House%2C_M.D._Season_7.jpg/revision/latest?cb=20251009033345" ,- Dr. House 24°7
 https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8
+#EXTINF:-1 group-title="z" tvg-id="El Mentalista" tvg-logo="https://static.wikia.nocookie.net/thementalist/images/9/96/El_mentalista.png/revision/latest?cb=20130111174359&path-prefix=es" ,- El Mentalista  24/7 Op1
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16062
+#EXTINF:-1 group-title="z" tvg-name="24/7 - FUTURAMA" tvg-logo="https://nousplayer.io:443/images/49d136b373c740b887baa3d82b2099e22fb96b87.png" ,- Futurama
+https://nousplayer.io:443/channel/soytrico/lolita214/29407.ts
 #EXTINF:-1 group-title="z" ,- IMCU 24/7
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 group-title="z" tvg-logo="https://cdn.phototourl.com/free/2026-07-21-cc1d4e4d-57e2-4680-ace6-057ce5927cb5.png" ,- MARVEL & DC
@@ -3103,6 +3135,18 @@ http://200.60.124.25:8000/play/a0kr/index.m3u8
 http://200.60.124.25:8000/play/a0ks/index.m3u8
 #EXTINF:-1 group-title="z" ,24/7 Game of Thrones 2
 http://redworld.pro:8880/@eder@zamora/axRLmPZgKyeA/526567
+#EXTINF:-1 group-title="z" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the Middle
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTINF:-1 group-title="z" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the Middle
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16056
+#EXTINF:-1 group-title="z" tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" ,24/7 Malcolm in the middle 🇺🇸 (Op. 1)
+http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBc3FWNnlZL3hrVERnVHlhSHd5dEtlQT0
+#EXTINF:-1 group-title="z" tvg-logo="https://w7.pngwing.com/pngs/789/635/png-transparent-homer-simpson-marge-simpson-bart-simpson-television-show-los-simpsons-television-text-cartoon.png" ,24/7 The Simpson  1
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+#EXTINF:-1 group-title="z" tvg-id="320335" tvg-name="Los Simpson 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" ,24/7 The Simpson  2
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="z" tvg-logo="https://w7.pngwing.com/pngs/771/352/png-transparent-the-simpsons-characters-illustration-homer-simpson-marge-simpson-maggie-simpson-lisa-simpson-bart-simpson-the-simpsons-text-cartoon-fictional-character.png" ,24/7 The Simpsons  #
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 group-title="z" tvg-name="AMC WESTERN FHD" tvg-logo="https://amcnetworks.es/wp-content/uploads/2026/02/AMCWESTERN_COLOR-1.png" ,AMC WESTERN FHD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1296813.ts
 #EXTINF:-1 group-title="z" tvg-id="LA 1 HD" tvg-name="AMC WESTERN SD" tvg-logo="https://amcnetworks.es/wp-content/uploads/2026/02/AMCWESTERN_COLOR-1.png" ,AMC WESTERN SD

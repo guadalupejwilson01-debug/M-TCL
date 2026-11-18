@@ -1,188 +1,224 @@
 #EXTM3U
-#EXTINF:-1 group-title="ARG AstrA" ,26TV
-http://181.209.87.154:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,A&E HD
-http://181.209.87.154:8000/play/a09h/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,A24
-http://181.209.87.154:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Adult swim HD
-http://181.209.87.154:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,AMC
-http://181.209.87.154:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,America TV HD
-http://181.209.87.154:8000/play/a094/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,AXN HD
-http://181.209.87.154:8000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,C5N
-http://181.209.87.154:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Canal a
-http://181.209.87.154:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Canal de la Ciudad
-http://181.209.87.154:8000/play/a07c/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Cine.AR
-http://181.209.87.154:8000/play/a069/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Cinecanal HD
-http://181.209.87.154:8000/play/a089/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Cinemax
-http://181.209.87.154:8000/play/a08r/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,ciudad magazine
-http://181.209.87.154:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,CNN en Español
-http://181.209.87.154:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Comedy Central HD
-http://181.209.87.154:8000/play/a072/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Crðnica
-http://181.209.87.154:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,DeporTV
-http://181.209.87.154:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Discovery Channel HD
-http://181.209.87.154:8000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Discovery H&H HD
-http://181.209.87.154:8000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Discovery Kids
-http://181.209.87.154:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Discovery Science
-http://181.209.87.154:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Discovery Theater HD
-http://181.209.87.154:8000/play/a074/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Discovery Turbo
-http://181.209.87.154:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Discovery World HD
-http://181.209.87.154:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Disney Channel HD
-http://181.209.87.154:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Disney Junior
-http://181.209.87.154:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,DSports 2 HD
-http://181.209.87.154:8000/play/a0dk/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,DSports HD
-http://181.209.87.154:8000/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,E! Entertainment
-http://181.209.87.154:8000/play/a08z/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,El Canal  de las Estrellas
-http://181.209.87.154:8000/play/a07x/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,El Gourmet
-http://181.209.87.154:8000/play/a07u/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,el nueve HD
-http://181.209.87.154:8000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,el trece HD
-http://181.209.87.154:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Encuentro
-http://181.209.87.154:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,ESPN 2 HD
-http://181.209.87.154:8000/play/a098/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,ESPN 3 HD
-http://181.209.87.154:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,ESPN 4 HD
-http://181.209.87.154:8000/play/a084/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,ESPN HD
-http://181.209.87.154:8000/play/a099/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,ESPN Premium HD
-http://181.209.87.154:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Europa Europa
-http://181.209.87.154:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,EWTN
-http://181.209.87.154:8000/play/a0di/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Film & Arts HD
-http://181.209.87.154:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Fox Sports 2 HD
-http://181.209.87.154:8000/play/a09b/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Fox Sports 3 HD
-http://181.209.87.154:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Fox Sports HD
-http://181.209.87.154:8000/play/a085/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,FX HD
-http://181.209.87.154:8000/play/a070/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Galicia TV
-http://181.209.87.154:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,HBO
-http://181.209.87.154:8000/play/a07m/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,HBO 2
-http://181.209.87.154:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,HBO Family
-http://181.209.87.154:8000/play/a07p/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,HBO Mundi
-http://181.209.87.154:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,HBO Plus
-http://181.209.87.154:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,HBO Signature
-http://181.209.87.154:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,HBO Xtreme
-http://181.209.87.154:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,HGTV
-http://181.209.87.154:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,History 2
-http://181.209.87.154:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,History Channel
-http://181.209.87.154:8000/play/a090/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,HTV
-http://181.209.87.154:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,La Nacion TV
-http://181.209.87.154:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,LAPACHO TV HD
-http://181.209.87.154:8000/play/a0dj/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Lifetime
-http://181.209.87.154:8000/play/a07l/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Metro
-http://181.209.87.154:8000/play/a06l/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,MTV
-http://181.209.87.154:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,MTV×00
-http://181.209.87.154:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Nat Geo HD
-http://181.209.87.154:8000/play/a09f/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Paramount HD
-http://181.209.87.154:8000/play/a073/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Quiero Musica
-http://181.209.87.154:8000/play/a06s/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,RAI Italia
-http://181.209.87.154:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,RT en Espaæol
-http://181.209.87.154:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Rural
-http://181.209.87.154:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Sony HD
-http://181.209.87.154:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Sony Movies HD
-http://181.209.87.154:8000/play/a09j/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Space HD
-http://181.209.87.154:8000/play/a071/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Star Channel HD
-http://181.209.87.154:8000/play/a087/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Studio Universal
-http://181.209.87.154:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,TCM
-http://181.209.87.154:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Telefe HD
-http://181.209.87.154:8000/play/a08a/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,The History Channel HD
-http://181.209.87.154:8000/play/a09g/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,TLNovelas
-http://181.209.87.154:8000/play/a07y/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,TN HD
-http://181.209.87.154:8000/play/a097/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,TNT HD
-http://181.209.87.154:8000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,TNT Novelas HD
-http://181.209.87.154:8000/play/a08e/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,TNT Series HD
-http://181.209.87.154:8000/play/a08c/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,TNT Sports HD
-http://181.209.87.154:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,TV Publica HD
-http://181.209.87.154:8000/play/a095/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,TVE
-http://181.209.87.154:8000/play/a080/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,TyC Sports HD
-http://181.209.87.154:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Universal HD
-http://181.209.87.154:8000/play/a09i/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,USA Network
-http://181.209.87.154:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Volver
-http://181.209.87.154:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="ARG AstrA" ,Warner Channel HD
-http://181.209.87.154:8000/play/a09d/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,26 TV LO
+http://200.50.155.180:8010/play/a0h24/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,A24 LO
+http://200.50.155.180:8010/play/a0h25/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Adult Swim RAW (internal relay, do not expose)
+http://200.50.155.180:8010/play/a0herl/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,AE HD
+http://200.50.155.180:8010/play/a0pp/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,AMC HD
+http://200.50.155.180:8010/play/a0py/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,AMC LO
+http://200.50.155.180:8010/play/a0h0z/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,America TV LO
+http://200.50.155.180:8010/play/a0h1v/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Animal Planet
+http://200.50.155.180:8010/play/a0gh/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Animal Planet LO
+http://200.50.155.180:8010/play/a0h1a/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Argentina 12 LO
+http://200.50.155.180:8010/play/a0h01/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Atres Series HD
+http://200.50.155.180:8010/play/a0pw/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,AXN HD
+http://200.50.155.180:8010/play/a0gr/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,AXN LO
+http://200.50.155.180:8010/play/a0h0v/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Baby TV
+http://200.50.155.180:8010/play/a0h3/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,C5N LO
+http://200.50.155.180:8010/play/a0h22/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Canal 13 LO
+http://200.50.155.180:8010/play/a0h1y/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Canal 9 LO
+http://200.50.155.180:8010/play/a0h1z/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Canal de la Ciudad LO
+http://200.50.155.180:8010/play/a0h1t/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,CineAr LO
+http://200.50.155.180:8010/play/a0h12/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Cinecanal HD
+http://200.50.155.180:8010/play/a0gm/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Cinecanal LO
+http://200.50.155.180:8010/play/a0h0n/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Cinemax
+http://200.50.155.180:8010/play/a0h5/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Cinemax LO
+http://200.50.155.180:8010/play/a0h0k/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Ciudad Magazine LO
+http://200.50.155.180:8010/play/a0h26/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,CNN Espaæol
+http://200.50.155.180:8010/play/a0h4/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,CNN International
+http://200.50.155.180:8010/play/a0pj/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Comedy Central HD
+http://200.50.155.180:8010/play/a0pq/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Cronica TV LO
+http://200.50.155.180:8010/play/a0h23/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,De Pelicula
+http://200.50.155.180:8010/play/a0u8/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,DHE HD
+http://200.50.155.180:8010/play/a0qn/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Discovery Channel  HD
+http://200.50.155.180:8010/play/a0gi/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Discovery Kids HD
+http://200.50.155.180:8010/play/a0pk/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Discovery Science
+http://200.50.155.180:8010/play/a0h9/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Discovery Theater HD
+http://200.50.155.180:8010/play/a0u9/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Discovery Turbo
+http://200.50.155.180:8010/play/a0h7/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Discovery World HD
+http://200.50.155.180:8010/play/a0q3/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,E! Entertainment TV
+http://200.50.155.180:8010/play/a0ha/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,El Garage LO
+http://200.50.155.180:8010/play/a0h15/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,El Gourmet HD
+http://200.50.155.180:8010/play/a0pr/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Encuentro LO
+http://200.50.155.180:8010/play/a0h17/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ESPN
+http://200.50.155.180:8010/play/a0gz/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ESPN 2 HD
+http://200.50.155.180:8010/play/a0pu/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ESPN 2 HD
+http://200.50.155.180:8010/play/a0qh/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ESPN 3 HD
+http://200.50.155.180:8010/play/a0q5/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ESPN 4 HD
+http://200.50.155.180:8010/play/a0gu/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ESPN 5 HD
+http://200.50.155.180:8010/play/a0pv/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ESPN 6 HD
+http://200.50.155.180:8010/play/a0po/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ESPN 7 HD
+http://200.50.155.180:8010/play/a0go/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ESPN HD
+http://200.50.155.180:8010/play/a0ui/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ESPN HD
+http://200.50.155.180:8010/play/a0u3/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Fox Sports 2 LO
+http://200.50.155.180:8010/play/a0h09/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Fox Sports 3 LO
+http://200.50.155.180:8010/play/a0h0a/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,FX HD
+http://200.50.155.180:8010/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Gourmet LO
+http://200.50.155.180:8010/play/a0h14/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,HBO Family HD
+http://200.50.155.180:8010/play/a0qp/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,HBO HD
+http://200.50.155.180:8010/play/a0q2/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,HBO POP HD
+http://200.50.155.180:8010/play/a0uf/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,HBO Xtreme HD
+http://200.50.155.180:8010/play/a0qq/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,HEI HD
+http://200.50.155.180:8010/play/a0pt/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,History Channel HD
+http://200.50.155.180:8010/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,HOLA TV HD
+http://200.50.155.180:8010/play/a0gn/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Home & Health HD
+http://200.50.155.180:8010/play/a0u5/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Home & Health HD
+http://200.50.155.180:8010/play/a0q9/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Home&Health LO
+http://200.50.155.180:8010/play/a0h16/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ID HD
+http://200.50.155.180:8010/play/a0gs/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,ID LO
+http://200.50.155.180:8010/play/a0h10/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,L1 MAX
+http://200.50.155.180:8010/play/a0qa/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,La Nacion+ LO
+http://200.50.155.180:8010/play/a0h21/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Las Estrellas HD
+http://200.50.155.180:8010/play/a0qm/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Las Estrellas HD
+http://200.50.155.180:8010/play/a0uj/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Lifetime
+http://200.50.155.180:8010/play/a0hd/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,MEGA HD
+http://200.50.155.180:8010/play/a0uh/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Metro LO
+http://200.50.155.180:8010/play/a0h1u/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,MIX TV LO
+http://200.50.155.180:8010/play/a0h02/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,MTV HD
+http://200.50.155.180:8010/play/a0q6/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Nat Geo HD
+http://200.50.155.180:8010/play/a0gk/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,NET TV LO
+http://200.50.155.180:8010/play/a0h27/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Nickelodeon HD
+http://200.50.155.180:8010/play/a0ug/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Paka-Paka LO
+http://200.50.155.180:8010/play/a0h0g/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Pasiones HD
+http://200.50.155.180:8010/play/a0qf/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Pasiones HD
+http://200.50.155.180:8010/play/a0uc/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Somos LO
+http://200.50.155.180:8010/play/a0h1s/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Sony HD
+http://200.50.155.180:8010/play/a0gp/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Space HD
+http://200.50.155.180:8010/play/a0gt/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Space LO
+http://200.50.155.180:8010/play/a0h0m/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Star Channel HD
+http://200.50.155.180:8010/play/a0gw/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Star Channel LO
+http://200.50.155.180:8010/play/a0h0r/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Studio Universal LO
+http://200.50.155.180:8010/play/a0h13/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Sun Channel HD
+http://200.50.155.180:8010/play/a0uo/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,TCM LO
+http://200.50.155.180:8010/play/a0h0y/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Teleamazonas
+http://200.50.155.180:8010/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Telefe LO
+http://200.50.155.180:8010/play/a0h1w/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Telemundo
+http://200.50.155.180:8010/play/a0hb/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,TLC
+http://200.50.155.180:8010/play/a0h8/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Tlnovelas
+http://200.50.155.180:8010/play/a0u7/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,TNT HD
+http://200.50.155.180:8010/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,TNT LO
+http://200.50.155.180:8010/play/a0h0o/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,TNT Series
+http://200.50.155.180:8010/play/a0ph/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,TNT Series HD
+http://200.50.155.180:8010/play/a0pz/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,TNT SPORTS
+http://200.50.155.180:8010/play/a0pi/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,TNT Sports Premiun HD
+http://200.50.155.180:8010/play/a0qg/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Todo Noticias LO
+http://200.50.155.180:8010/play/a0h20/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Tooncast
+http://200.50.155.180:8010/play/a0hc/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,TV Publica LO
+http://200.50.155.180:8010/play/a0h1x/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,TVN HD
+http://200.50.155.180:8010/play/a0ua/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,UNIVERSAL CHANNEL
+http://200.50.155.180:8010/play/a0pf/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,UNIVERSAL CHANNEL HD
+http://200.50.155.180:8010/play/a0ps/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Volver LO
+http://200.50.155.180:8010/play/a0h0l/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Warner LO
+http://200.50.155.180:8010/play/a0h0t/index.m3u8
+#EXTINF:-1 group-title="ARG Astra" ,Warner TV HD
+http://200.50.155.180:8010/play/a0gq/index.m3u8
 #EXTINF:-1 group-title="ARG zapster" ,Adult Swim
 https://cdn-zapster-ros.trapemn.tv:1936/Zapster/Adult_Swim.stream/playlist.m3u8
 #EXTINF:-1 group-title="ARG zapster" ,BTV Musica Retro

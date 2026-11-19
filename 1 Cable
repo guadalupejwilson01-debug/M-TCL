@@ -289,3 +289,63 @@ https://cdn-zapster-ros.trapemn.tv:1936/zapster/TNT_Novelas.stream/playlist.m3u8
 https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/tvpublica.stream/playlist.m3u8
 #EXTINF:-1 group-title="ARG zapster" ,vive.TV
 https://cdn-zapster-ros.trapemn.tv:1936/Zapster-hls/vivetv.stream/playlist.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Abya Yala Tv
+http://190.181.61.93:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,ASI ES TV
+http://190.181.61.93:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Bolivia Tv HD
+http://190.181.61.93:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Bolivision HD
+http://190.181.61.93:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Cadena A HD
+http://190.181.61.93:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Canal Guia ABE
+http://190.181.61.93:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,COCHABAMBA_PGM
+http://190.181.61.93:8000/play/1913/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,CTV RED NACIONAL
+http://190.181.61.93:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,CVC HD
+http://190.181.61.93:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,DTV
+http://190.181.61.93:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Gigavision
+http://190.181.61.93:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Gogoplay TV
+http://190.181.61.93:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,LA_PAZ_PGM
+http://190.181.61.93:8000/play/1910/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,MULTIVIEW_PRENSA
+http://190.181.61.93:8000/play/1520/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Palenque TV
+http://190.181.61.93:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,PAT
+http://190.181.61.93:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,PlusTLT
+http://190.181.61.93:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Red 23 EA
+http://190.181.61.93:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,RED SIGLO XXI
+http://190.181.61.93:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Red Uno LPZ HD
+http://190.181.61.93:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Red Uno SCZ
+http://190.181.61.93:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,RTP HD
+http://190.181.61.93:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,SANTA_CRUZ_PGM
+http://190.181.61.93:8000/play/1909/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,TL ESTRELLA HD
+http://190.181.61.93:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,TV Nuevo Tiempo
+http://190.181.61.93:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,TVU Pando
+http://190.181.61.93:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,TVU Sucre
+http://190.181.61.93:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,UPEA TV
+http://190.181.61.93:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,Vida TV
+http://190.181.61.93:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="BOL Astra" ,VOS TV
+http://190.181.61.93:8000/play/a00a/index.m3u8
